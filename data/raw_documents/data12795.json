@@ -1,0 +1,6 @@
+{
+  "pmid": "41420878",
+  "title": "High-Fat Diet Promotes Tumor Immune Evasion via CD155 Upregulation in Colorectal Cancer.",
+  "abstract": "Obesity-induced metabolic stress impairs the efficacy of immune checkpoint blockade (ICB) therapy, but the mechanisms linking a high-fat diet (HFD) to immune suppression remain unclear. To investigate how HFD-induced metabolic changes modulate the tumor immune microenvironment through the STAT3/CD155 axis. Murine colorectal cancer models using control, CD155-overexpressing (CD155 OE), and STAT3 knockdown CT26 cells were established under normal or HFD conditions with anti - PD-L1 treatment. Tumor growth, immune infiltration, and gene expression were analyzed by flow cytometry, Western blotting, and chromatin immunoprecipitation. HFD impaired anti - PD-L1 efficacy and accelerated tumor growth. Mechanistically, HFD promoted STAT3 nuclear translocation and CD155 upregulation, reducing CD8 HFD-induced metabolic stress drives immune evasion via the STAT3/CD155 axis. Targeting this pathway may improve ICB efficacy in obesity-related cancers.",
+  "disease": "colorectal cancer"
+}

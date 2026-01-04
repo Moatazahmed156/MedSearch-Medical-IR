@@ -1,0 +1,6 @@
+{
+  "pmid": "41465937",
+  "title": "Body roundness index and rheumatoid arthritis risk: Evidence from NHANES 1999 to 2020.",
+  "abstract": "This study aims to examine the association between body roundness index (BRI) and rheumatoid arthritis (RA) risk using data from National Health and Nutrition Examination Survey 1999 to 2020. A cross-sectional study of 33,239 adults was conducted. RA was identified through self-report, and BRI was calculated by standard formula. Weighted logistic regression models assessed the relationship between BRI and RA, adjusting for demographic and clinical factors. Restricted cubic spline and segmented regression models explored nonlinear trends. Higher BRI was significantly associated with increased RA risk (adjusted OR = 1.255 per unit increase, 95% CI: 1.204-1.307, P < .001). A nonlinear relationship was observed (P < .05). Subgroup analyses revealed stronger associations among nonsmokers and those with higher education. The area under the curve for BRI in predicting RA was 0.793 (95% CI: 0.785-0.802). Elevated BRI is independently associated with higher RA risk in a nonlinear, dose-response manner. BRI may serve as a practical marker for RA risk stratification and early intervention.",
+  "disease": "rheumatoid arthritis"
+}

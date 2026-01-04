@@ -1,0 +1,7 @@
+{
+    "pmid": "41375111",
+    "title": "Discrimination of Rheumatoid and Psoriatic Arthritis Based on Raman and NIR Spectra Using Machine-Learning Algorithms.",
+    "abstract": "Rheumatoid arthritis (RA) and psoriatic arthritis (PsA) are chronic autoimmune diseases. They share similar symptoms. The lack of specific markers can lead to misdiagnosis. Using spectroscopic information on the chemical composition of body fluids can effectively differentiate these diseases. The discriminant analysis results are presented based on Raman and near-infrared (NIR) spectra of freeze-dried blood sera. The performance of partial least squares discriminant analysis (PLS-DA) and counter-propagation artificial neural network (CP-ANN) techniques in differentiation between RA (",
+    "disease": "rheumatoid arthritis",
+    "clean_text": "discrimination of rheumatoid and psoriatic arthritis based on raman and nir spectra using machine learning algorithms rheumatoid arthritis ra and psoriatic arthritis psa are chronic autoimmune diseases they share similar symptoms the lack of specific markers can lead to misdiagnosis using spectroscopic information on the chemical composition of body fluids can effectively differentiate these diseases the discriminant analysis results are presented based on raman and near infrared nir spectra of freeze dried blood sera the performance of partial least squares discriminant analysis pls da and counter propagation artificial neural network cp ann techniques in differentiation between ra"
+}

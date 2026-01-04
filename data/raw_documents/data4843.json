@@ -1,0 +1,9 @@
+{
+    "title": "A New Elementary Method for Determining the Tip Radius and Young's Modulus in AFM Spherical Indentations.",
+    "doc_id": "37763878",
+    "writer": "Kontomaris SV",
+    "year": "2023",
+    "summary": "When testing biological materials, spherical indenters are typically employed to reduce the possibility of damaging the sample. The accuracy of determining Young's modulus depends, among other factors, on the calibration of the indenter, i.e., the determination of the tip …",
+    "abstract": "Atomic force microscopy (AFM) is a powerful tool for characterizing biological materials at the nanoscale utilizing the AFM nanoindentation method. When testing biological materials, spherical indenters are typically employed to reduce the possibility of damaging the sample. The accuracy of determining Young's modulus depends, among other factors, on the calibration of the indenter, i.e., the determination of the tip radius. This paper demonstrates that the tip radius can be approximately calculated using a single force-indentation curve on an unknown, soft sample without performing any additional experimental calibration process. The proposed method is based on plotting a tangent line on the force indentation curve at the maximum indentation depth. Subsequently, using equations that relate the applied force, maximum indentation depth, and the tip radius, the calculation of the tip radius becomes trivial. It is significant to note that the method requires only a single force-indentation curve and does not necessitate knowledge of the sample's Young's modulus. Consequently, the determination of both the sample's Young's modulus and the tip radius can be performed simultaneously. Thus, the experimental effort is significantly reduced. The method was tested on 80 force-indentation curves obtained on an agarose gel, and the results were accurate.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/37763878/"
+}

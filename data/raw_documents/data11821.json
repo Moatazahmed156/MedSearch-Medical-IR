@@ -1,0 +1,6 @@
+{
+  "pmid": "41461910",
+  "title": "p53 inactivation drives breast cancer metastasis to the brain through SCD1 upregulation and increased fatty acid metabolism.",
+  "abstract": "Brain metastasis (BM) carries a poor prognosis, yet the molecular basis of brain tropism remains unclear. Analysis of breast cancer BM (BCBM) revealed pervasive p53 inactivation through mutations and/or aneuploidy, with pathway disruption already present in primary tumors. Functionally, p53 inactivation markedly increased BCBM formation and growth in vivo, causally linking p53 perturbation to BM. Mechanistically, p53 inactivation upregulated SCD1 and fatty acid synthesis (FAS), essential for brain-metastasizing cells; SCD1 knockout abolished the p53-dependent growth advantage. Molecularly, p53 suppressed SCD1 directly through promoter binding and indirectly by downregulating its co-activator DEPDC1. Astrocytes further enhanced FAS by secreting factors that were metabolized in a p53-dependent manner, promoting tumor survival, proliferation and migration. Finally, p53-deficient tumors were sensitive to FAS inhibition ex vivo and in vivo. Thus, we identify p53 inactivation as a driver of BCBM, reveal p53-dependent and astrocyte-dependent FAS modulation and highlight FAS as a therapeutically targetable BCBM vulnerability.",
+  "disease": "breast cancer"
+}

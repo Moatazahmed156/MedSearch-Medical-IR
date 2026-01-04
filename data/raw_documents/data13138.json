@@ -1,0 +1,6 @@
+{
+  "pmid": "41434580",
+  "title": "Alzheimer's Imaging Consortium.",
+  "abstract": "The integration of molecular imaging and multivariate connectivity approaches has emerged as a novel approach to gain insights into the underlying pathophysiology in neurodegenerative diseases. Metabolic connectivity, in particular, has already demonstrated disease-related pattern changes in both human and mammalian brains. However, the cellular sources of disconnected brain regions have not been investigated in detail. This study aimed to elucidate the driving cellular sources of metabolic connectivity in an Alzheimer's disease (AD) mouse model and wild-type mice (WT). After intravenous injection of 45MBq F-18-FDG, a static PET/MRI was performed on APP APP These findings suggest that microglia are the primary drivers of the increased forebrain-hindbrain metabolic connectivity observed in the AD mouse model. Further RNA expression analyses could provide valuable insights into the molecular mechanisms underlying microglial metabolic coupling in neurodegeneration.",
+  "disease": "alzheimer disease"
+}

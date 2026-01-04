@@ -1,0 +1,6 @@
+{
+  "pmid": "41457810",
+  "title": "Nano-Mechanical DNA Devices Coupled With CRISPR-Cas12a for CA15-3 Detection.",
+  "abstract": "Accurate monitoring of cancer markers is crucial for clinical treatment and prognosis. CA15-3 activity levels are strongly associated with clinical progression of breast cancer, but their monitoring often relies on large instruments and professionals, and the process is time-consuming and costly. To address these concerns, we proposed an electrochemical biosensing strategy that integrated nano-mechanical DNA devices coupled with the CRISPR-Cas12a to drive molecularly gated functionalized substrates for the ultrasensitive detection of CA15-3. Specifically, Triple helical molecular switch (THMS) as a signal input switch to ensure target recognition specificity and the diffusion-limited 3D DNA walking machine coupled with CRISPR-Cas12a technology as signal amplification means. Based on the bimolecular dynamics model, the rate constants k",
+  "disease": "breast cancer"
+}

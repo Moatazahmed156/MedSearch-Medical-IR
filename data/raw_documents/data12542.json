@@ -1,0 +1,6 @@
+{
+  "pmid": "41457459",
+  "title": "Targeting DAP5 Disrupts Alternate Mode of Translational Initiation in Tregs and Potentiates Antitumor Immunity.",
+  "abstract": "Regulatory T cells (Tregs) can thrive in the harsh tumor microenvironment (TME) to dampen antitumor immunity. Chronic stresses within TME compromise canonical cap-dependent translation (CDT), which compromises effector T cell function but not Treg persistence. Death-associated protein 5 (DAP5/eIF4G2), a non-classical translational scaffold, has been reported to support human Treg differentiation in vitro, but its functions in thymic Treg development, peripheral Treg homeostasis, and tumor-infiltrating Treg (ti-Treg) fitness remain unclear. Here, it is shown that DAP5 expression positively correlates with ti-Treg frequencies in both colorectal cancer patients and murine subcutaneous tumors. Mice with homozygous Dap5 deletion in Tregs has intact thymic and peripheral Treg development but spontaneously developed typical scurfy symptoms. Haploinsufficiency of Dap5 in Tregs preserves peripheral immune homeostasis while suppressing tumor growth, with enhanced CD8",
+  "disease": "colorectal cancer"
+}

@@ -1,0 +1,6 @@
+{
+  "pmid": "41446370",
+  "title": "The EEG analysis and identification of Alzheimer's disease: a review.",
+  "abstract": "Alzheimer's disease (AD), a neurodegenerative disorder, significantly impacts patients, families, and society. Therefore, efficient AD diagnosis and disease analysis are crucial. Electroencephalogram (EEG) directly reflects brain activity, making EEG-based AD identification a current research hotspot. This review utilized digital libraries (Google Scholar and PubMed) to categorize the literature into two sets based on different periods, ultimately analyzing the application of EEG in AD research through 141 articles after screening. Critical topics addressed include subject types, experimental design, electrode selection, artifact processing, rhythm division, feature extraction, recognition methods, etc. Additionally, the review discusses major conclusions, emphasizing research priorities and consistent findings. The study also briefly mentions other biomarkers and predicts future trends of EEG as a biomarker. This work provides valuable references for researchers and clinicians exploring the relationship between EEG and AD. https://www.crd.york.ac.uk/PROSPERO/.",
+  "disease": "alzheimer disease"
+}

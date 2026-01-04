@@ -1,0 +1,6 @@
+{
+  "pmid": "41390571",
+  "title": "Ammonia reduces glutamine synthetase expression in astrocytes via activation of Hippo-YAP signaling pathways.",
+  "abstract": "Glutamine synthetase (GS) expressed in astrocytes plays an important role in maintaining the amount of extracellular glutamate and ammonia in the brain. Deficiency of GS is associated with several neurological disorders including epilepsy, but the molecular mechanism underlying the control of GS expression and the mechanism of GS reduction in diseased brain remain elusive. Here we show that in astrocytes, GS level is regulated by a transcription coactivator YAP via two signaling pathways, the Hippo and Wnt/β-catenin pathways. But when the extracellular glutamate and ammonia are increased, ammonia inhibits YAP nuclear localization through Hippo pathways and reduces GS. Using rodent models of epilepsy, we found that the induction of YAP nuclear translocation with Hippo kinase inhibitor XMU-MP-1 suppresses GS downregulation and protects neurons against cell death. Our work identifies that YAP may become an effective target for diseases in which astrocytic GS is reduced due to elevated ammonia.",
+  "disease": "epilepsy"
+}

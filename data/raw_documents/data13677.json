@@ -1,0 +1,6 @@
+{
+  "pmid": "41442179",
+  "title": "Single-Cell Genetic Mapping of Gasdermin Expression Across Immune-Mediated Inflammatory Diseases.",
+  "abstract": "The gasdermin (GSDM) family mediates pyroptosis and membrane pore formation, but the causal, cell-type-specific roles of individual paralogues in immune-mediated inflammatory diseases (IMIDs) remain poorly defined. We combined single-cell cis-eQTL data from 14 peripheral blood immune subsets (OneK1K) with genome-wide association data from FinnGen release 12 to perform lineage-resolved Mendelian randomization (MR) across eight IMIDs: ankylosing spondylitis, Behçet disease, Crohn disease, hidradenitis suppurativa, primary sclerosing cholangitis, psoriasis, rheumatoid arthritis, and ulcerative colitis (UC). We identified robust genetic instruments for GSDMA, GSDMB, and GSDMD. Higher GSDMA expression in naïve/central-memory CD4",
+  "disease": "rheumatoid arthritis"
+}

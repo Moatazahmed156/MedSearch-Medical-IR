@@ -1,0 +1,6 @@
+{
+  "pmid": "41444239",
+  "title": "A single-center 3D reconstruction image dataset for exploring inferior mesenteric artery and vein types.",
+  "abstract": "The inferior mesenteric artery (IMA) and inferior mesenteric vein (IMV) are of critical significance in colorectal surgery; however, their anatomical variations and classification systems remain undefined. Additionally, existing studies lack open-source image datasets, which significantly hinder research reproducibility and academic collaboration in this field. In the dataset, we retrospectively collected 3D reconstructed images of IMA/IMV from 147 colorectal cancer patients, which were validated intraoperatively, and openly shared their variation types. As the first 3D image dataset focusing on IMA/IMV anatomical variations to date, this dataset serves as a valuable resource for research on IMA/IMV anatomical variations and an important reference for clinical training of colorectal surgeons.",
+  "disease": "colorectal cancer"
+}

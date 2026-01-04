@@ -1,0 +1,6 @@
+{
+  "pmid": "41407640",
+  "title": "Enhancing Parkinson's Disease Detection by Combining SMOTE and Feature Selection for Improved Machine Learning Classification Using Voice Recordings.",
+  "abstract": "Parkinson's disease (PD) presents significant diagnostic challenges, particularly in its early stages when timely intervention is most effective. Voice analysis offers a noninvasive approach for early detection but faces challenges of class imbalance and high-dimensional data that limit machine learning (ML) classification performance. This study investigates the combined effect of the synthetic minority over-sampling technique (SMOTE) for data balancing and feature selection (FS) methods, analysis of variance, Chi-squared (χ",
+  "disease": "parkinson disease"
+}

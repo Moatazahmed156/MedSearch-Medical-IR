@@ -1,0 +1,6 @@
+{
+  "pmid": "41473240",
+  "title": "Prediction of ",
+  "abstract": "An accurate assessment of  In this retrospective, multicenter, population-based cohort study, we collected chest CT image datasets for DTC patients with lung metastases from three hospitals in China. Pulmonary metastases were classified into two categories based on the post therapeutic  Compared to Inception V3 and ResNet50, our model, ResNeSt50, demonstrated the highest prediction performance in the internal (area under the curve [AUC] = 0.722, 95% confidence interval [CI] = 0.716-0.725), external validation dataset 1 (AUC = 0.720, 95% CI = 0.691-0.749), and external validation dataset 2 (AUC = 0.731, 95% CI = 0.713-0.748). We developed a simple and robust DCNN model for predicting the  Chinese Clinical Trial Registry (ChiCTR), ChiCTR1800018047. Registered on 28 August 2018.",
+  "disease": "lung cancer"
+}

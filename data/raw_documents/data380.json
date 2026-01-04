@@ -1,0 +1,9 @@
+{
+    "title": "Predicted Number of Pregnant Women in Aichi Prefecture, Japan: Estimation by Machine Learning Database Construction for Disaster Preparation.",
+    "doc_id": "34082840",
+    "writer": "Hattori K",
+    "year": "2022",
+    "summary": "Aichi Prefectural Association of Midwives has been making efforts to improve disaster preparedness for pregnant women. This project aims to acquire area data of pregnant women for simulated studies of rescue activities. Number of women in census …",
+    "abstract": "Aichi prefecture, Japan is predicted to be hit by Mega-earthquake. Aichi Prefectural Association of Midwives has been making efforts to improve disaster preparedness for pregnant women. This project aims to acquire area data of pregnant women for simulated studies of rescue activities. Number of women in census survey areas in Nagoya City was acquired from nationwide data of pregnant women by machine learning (Cascade-Correlation Learning Architecture). Quite high correlation coefficients between actual data and estimation data were observed. Rescue simulations have been carried out based on the data acquired by this study.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/34082840/"
+}

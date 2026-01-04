@@ -1,0 +1,9 @@
+{
+    "title": "Kidney segmentation from DCE-MRI converging level set methods, fuzzy clustering and Markov random field modeling.",
+    "doc_id": "36335227",
+    "writer": "El-Melegy M",
+    "year": "2022",
+    "summary": "Early diagnosis of transplanted kidney function requires precise Kidney segmentation from Dynamic Contrast-Enhanced Magnetic Resonance Imaging images as a preliminary step. ...The fuzzy memberships, kidney's shape prior model, and spatial interactions …",
+    "abstract": "Early diagnosis of transplanted kidney function requires precise Kidney segmentation from Dynamic Contrast-Enhanced Magnetic Resonance Imaging images as a preliminary step. In this regard, this paper aims to propose an automated and accurate DCE-MRI kidney segmentation method integrating fuzzy c-means (FCM) clustering and Markov random field modeling into a level set formulation. The fuzzy memberships, kidney's shape prior model, and spatial interactions modeled using a second-order MRF guide the LS contour evolution towards the target kidney. Several experiments on real medical data of 45 subjects have shown that the proposed method can achieve high and consistent segmentation accuracy regardless of where the LS contour was initialized. It achieves an accuracy of 0.956 ± 0.019 in Dice similarity coefficient (DSC) and 1.15 ± 1.46 in 95% percentile of Hausdorff distance (HD95). Our quantitative comparisons confirm the superiority of the proposed method over several LS methods with an average improvement of more than 0.63 in terms of HD95. It also offers HD95 improvements of 9.62 and 3.94 over two deep neural networks based on the U-Net model. The accuracy improvements are experimentally found to be more profound on low-contrast images as well as DCE-MRI images with high noise levels.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/36335227/"
+}

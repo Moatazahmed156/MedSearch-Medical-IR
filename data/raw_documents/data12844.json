@@ -1,0 +1,6 @@
+{
+  "pmid": "41470048",
+  "title": "MetImputBERT: a pretrained BERT framework for missing value imputation in NMR metabolomics data.",
+  "abstract": "Missing values in nuclear magnetic resonance metabolomics data compromise downstream clinical interpretation. Here, we present MetImputBERT, an imputation method based on a pretrained BERT framework. MetImputBERT uses the masks in the masked language model to simulate missing values and leverages predictions and reconstructions to these positions to simulate the imputation process. The learning of MetImputBERT is driven by minimizing the reconstruction error. MetImputBERT was pretrained on the largest metabolomics dataset to date, comprising data from over 230 000 individuals in the UK Biobank. When new datasets with missing values were encountered, MetImputBERT loaded the pretrained parameters and directly imputed the missing values by inferring their reconstructed estimates. MetImputBERT outperformed commonly used methods-K-nearest neighbors, multiple imputation by chained equations, and singular value decomposition-in imputation performance on two independent test sets. We provide an open-source Python tool that allows users to quickly impute missing values in their own NMR metabolomics data without any additional training.",
+  "disease": "alzheimer disease"
+}

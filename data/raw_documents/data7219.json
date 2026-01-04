@@ -1,0 +1,9 @@
+{
+    "title": "Rethinking eco-evo studies of gene expression for non-model organisms in the genomic era.",
+    "doc_id": "38721834",
+    "writer": "Freedman AH",
+    "year": "2025",
+    "summary": "In this perspective, we review these new technologies and discuss their potential impact on gene expression studies in non-model organisms. Although traditional RNA-sequencing methods have been an extraordinarily powerful tool to apply functional genomics in an ecol …",
+    "abstract": "Recent advances in genomic technology, including the rapid development of long-read sequencing technology and single-cell RNA-sequencing methods, are poised to significantly expand the kinds of studies that are feasible in ecological genomics. In this perspective, we review these new technologies and discuss their potential impact on gene expression studies in non-model organisms. Although traditional RNA-sequencing methods have been an extraordinarily powerful tool to apply functional genomics in an ecological context, bulk RNA-seq approaches often rely on de novo transcriptome assembly, and cannot capture expression changes in rare cell populations or distinguish shifts in cell type abundance. Advancements in genome assembly technology, particularly long-read sequencing, and improvements in the scalability of single-cell RNA-sequencing (scRNA-seq) offer unprecedented resolution in understanding cellular heterogeneity and gene regulation. We discuss the potential of these technologies to enable disentangling differential gene regulation from cell type composition differences and uncovering subtle expression patterns masked by bulk RNA-seq. The integration of these approaches provides a more nuanced understanding of the ecological and evolutionary dynamics of gene expression, paving the way for refined models and deeper insights into the generation of biodiversity.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/38721834/"
+}

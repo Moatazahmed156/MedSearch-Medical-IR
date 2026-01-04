@@ -1,0 +1,9 @@
+{
+    "title": "A study of the influence of sports venues on the intra-city population layout based on multi-source data-Taking Xi'an city and Zhengzhou city as examples.",
+    "doc_id": "37167223",
+    "writer": "Zhang S",
+    "year": "2023",
+    "summary": "This study applies kernel density estimation to characterize the distribution of sports venues using reclassified POI (Point of Information) data, visualizes the distribution of intra-city population using population raster data from the WorldPop database, and analyses the distri …",
+    "abstract": "Revealing the influence of sports sports venues on the population in the built-up areas of cities contributes to the high-quality development of cities and the well-being of people. This study applies kernel density estimation to characterize the distribution of sports venues using reclassified POI (Point of Information) data, visualizes the distribution of intra-city population using population raster data from the WorldPop database, and analyses the distribution of sports venues and the urban population in Xi'an and Zhengzhou cities in 2020 from both the general and local perspectives based on various regression methods, such as MGWR, GWR, and linear fitting. The results show that the distribution of sports venues in Xi'an and Zhengzhou cities in 2020 was a good indicator of the population. The spatial distribution of sports venues and the population within the cities have a centre-periphery structure. From the global perspective, the distribution of sports venues is positively correlated with the intra-city population, and the promoting effect is significant. From the local perspective, the effect is spatially heterogeneous. Finally, this study explores the rationality of the complex impact and indicates that the research methodology can provide a reliable reference for other cities.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/37167223/"
+}

@@ -1,0 +1,6 @@
+{
+  "pmid": "41420535",
+  "title": "Proton-Pump Inhibitor Use and Gastrointestinal Disease Risk: A Mendelian Randomization Study of Omics and Pharmacological Pathways.",
+  "abstract": "While proton pump inhibitors (PPIs) show epidemiological associations with gastrointestinal disorders, their mechanistic basis remains unclear. The pharmacological effects of a drug are determined not only by its direct protein targets but also by genes involved in its metabolism and transport. Using two-sample Mendelian randomization and multi-ancestry cohorts (UKB/FinnGen), we systematically assessed genes encoding both direct targets of PPIs and key proteins involved in PPI pharmacokinetics across 24 gastrointestinal diseases. Validation included colocalization/SMR analyses, disease stratification, anatomical stratification, and HPA-based tissue expression profiling. Single-cell sequencing further elucidated target distribution. Finally, meta-analysis validates the correlation between PPI and gastrointestinal disorders. CYP2D6 emerged as the most pleiotropic locus (nine disease endpoints), demonstrating dose-dependent carcinogenic effects in hepatocellular/pancreatic cancers (OR = 1.36-1.58, p = 8.45 × 10",
+  "disease": "colorectal cancer"
+}

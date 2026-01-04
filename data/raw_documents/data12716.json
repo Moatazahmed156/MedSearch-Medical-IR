@@ -1,0 +1,6 @@
+{
+  "pmid": "41429629",
+  "title": "[Causal relationship between gut microbiota and T cell subsets in the development of colorectal cancer: a Mendelian randomization analysis].",
+  "abstract": "To investigate the causal relationship between gut microbiota, T-cell function, and the risk of colorectal cancer. Gut microbiota data from the MiBioGen database and T-cell and colorectal cancer data from publicly available GWAS datasets were obtained for analyzing the causality between gut microbiota, T-cell subsets, and the risk of colorectal cancer with two-sample Mendelian randomization (MR) analyses, using inverse variance weighting as the primary analytical method supplemented with MR-Egger, weighted median, simple mode, and weighted mode methods. Horizontal pleiotropy was assessed using MR-PRESSO and MR-Egger regression. Cochran's Q test was used to evaluate heterogeneity, and sensitivity analysis was performed using the leave-one-out method. In the Forward MR analysis of gut microbiota and T cells, 11 gut microbiota species showed causal relationships. Six of these species exhibited positive correlations with T cells, including ",
+  "disease": "colorectal cancer"
+}

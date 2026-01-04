@@ -1,0 +1,969 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medical Document Search Engine</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Outfit:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            /* Medical Color Palette */
+            --primary: #0A6EBD;
+            --primary-dark: #084F8A;
+            --primary-light: #1E88E5;
+            --secondary: #00B4A4;
+            --secondary-dark: #00877A;
+            --accent: #10B981;
+            --accent-warm: #F59E0B;
+            --bg-primary: #F8FAFC;
+            --bg-secondary: #EFF6FF;
+            --bg-card: #FFFFFF;
+            --text-primary: #0F172A;
+            --text-secondary: #475569;
+            --text-tertiary: #94A3B8;
+            --border: #E2E8F0;
+            --success: #10B981;
+            --shadow-sm: 0 1px 3px rgba(10, 110, 189, 0.06);
+            --shadow-md: 0 4px 12px rgba(10, 110, 189, 0.08);
+            --shadow-lg: 0 10px 24px rgba(10, 110, 189, 0.1);
+            --shadow-xl: 0 20px 40px rgba(10, 110, 189, 0.12);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: linear-gradient(180deg, #EFF6FF 0%, #F8FAFC 100%);
+            min-height: 100vh;
+            color: var(--text-primary);
+            line-height: 1.6;
+        }
+
+        /* Top Navigation Bar */
+        .top-nav {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            padding: 16px 0;
+            box-shadow: var(--shadow-md);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .nav-content {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 24px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .logo-section {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+        }
+
+        .logo-icon {
+            font-size: 2rem;
+            filter: drop-shadow(0 2px 8px rgba(255, 255, 255, 0.3));
+        }
+
+        .logo-text h1 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: white;
+            letter-spacing: -0.3px;
+            margin: 0;
+        }
+
+        .logo-text p {
+            font-size: 0.75rem;
+            color: rgba(255, 255, 255, 0.85);
+            font-weight: 500;
+            letter-spacing: 0.5px;
+            margin: 0;
+        }
+
+        .nav-stats {
+            display: flex;
+            gap: 24px;
+            color: white;
+            font-size: 0.85rem;
+        }
+
+        .stat-item {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            background: rgba(255, 255, 255, 0.15);
+            padding: 8px 16px;
+            border-radius: 20px;
+        }
+
+        .stat-item strong {
+            font-weight: 700;
+        }
+
+        /* Main Container */
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 32px 24px;
+        }
+
+        /* Hero Section */
+        .hero-section {
+            text-align: center;
+            margin-bottom: 40px;
+            animation: fadeInDown 0.6s ease-out;
+        }
+
+        @keyframes fadeInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+
+            to {
+                opacity: 1;
+            }
+        }
+
+        .hero-title {
+            font-family: 'Outfit', sans-serif;
+            font-size: 2.8rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 12px;
+            letter-spacing: -1px;
+        }
+
+        .hero-subtitle {
+            font-size: 1.15rem;
+            color: var(--text-secondary);
+            font-weight: 500;
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        /* Search Section */
+        .search-section {
+            background: var(--bg-card);
+            border-radius: 24px;
+            padding: 40px;
+            box-shadow: var(--shadow-xl);
+            margin-bottom: 32px;
+            border: 1px solid var(--border);
+            animation: fadeInUp 0.6s ease-out 0.1s both;
+        }
+
+        .search-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 24px;
+        }
+
+        .search-header-icon {
+            font-size: 1.8rem;
+        }
+
+        .search-header-text h2 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin: 0;
+        }
+
+        .search-header-text p {
+            font-size: 0.9rem;
+            color: var(--text-tertiary);
+            margin: 0;
+        }
+
+        .search-form {
+            position: relative;
+            margin-bottom: 24px;
+        }
+
+        .search-input-wrapper {
+            position: relative;
+            display: flex;
+            align-items: center;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 20px 60px 20px 24px;
+            font-size: 1.1rem;
+            border: 2px solid var(--border);
+            border-radius: 16px;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            font-family: 'Inter', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+        }
+
+        .search-input:focus {
+            outline: none;
+            border-color: var(--primary);
+            background: white;
+            box-shadow: 0 0 0 4px rgba(10, 110, 189, 0.08);
+            transform: translateY(-1px);
+        }
+
+        .search-input::placeholder {
+            color: var(--text-tertiary);
+        }
+
+        .search-button {
+            position: absolute;
+            right: 6px;
+            padding: 14px 32px;
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-size: 1rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            font-family: 'Inter', sans-serif;
+            box-shadow: var(--shadow-md);
+        }
+
+        .search-button:hover {
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-lg);
+        }
+
+        .search-button:active {
+            transform: translateY(0);
+        }
+
+        /* Search Tips */
+        .search-tips {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 12px;
+        }
+
+        .tip-card {
+            background: linear-gradient(135deg, var(--bg-secondary) 0%, rgba(239, 246, 255, 0.5) 100%);
+            padding: 14px 18px;
+            border-radius: 12px;
+            border: 1px solid rgba(10, 110, 189, 0.1);
+            transition: all 0.3s;
+        }
+
+        .tip-card:hover {
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-sm);
+            border-color: var(--primary);
+        }
+
+        .tip-label {
+            font-weight: 700;
+            color: var(--primary);
+            font-size: 0.85rem;
+            margin-bottom: 6px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .tip-example {
+            font-family: 'SF Mono', 'Monaco', monospace;
+            background: white;
+            padding: 6px 12px;
+            border-radius: 8px;
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            border: 1px solid var(--border);
+            display: inline-block;
+        }
+
+        /* Results Section */
+        .results-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 24px;
+            padding: 20px 28px;
+            background: white;
+            border-radius: 16px;
+            box-shadow: var(--shadow-md);
+            border: 1px solid var(--border);
+            animation: fadeInUp 0.6s ease-out 0.2s both;
+        }
+
+        .results-count {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .count-icon {
+            width: 48px;
+            height: 48px;
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            box-shadow: var(--shadow-sm);
+        }
+
+        .count-text h3 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.3rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin: 0;
+        }
+
+        .count-text p {
+            font-size: 0.9rem;
+            color: var(--text-tertiary);
+            margin: 0;
+        }
+
+        .results-meta {
+            display: flex;
+            gap: 20px;
+            align-items: center;
+        }
+
+        .meta-badge {
+            background: var(--bg-secondary);
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: var(--primary);
+            border: 1px solid rgba(10, 110, 189, 0.15);
+        }
+
+        /* Result Cards */
+        .results-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+        }
+
+        .result-card {
+            background: white;
+            border-radius: 20px;
+            padding: 28px;
+            box-shadow: var(--shadow-md);
+            border: 1px solid var(--border);
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+            animation: fadeInUp 0.6s ease-out both;
+        }
+
+        .result-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 5px;
+            height: 100%;
+            background: linear-gradient(180deg, var(--primary) 0%, var(--secondary) 100%);
+            transform: scaleY(0);
+            transition: transform 0.3s;
+        }
+
+        .result-card:hover::before {
+            transform: scaleY(1);
+        }
+
+        .result-card:nth-child(1) {
+            animation-delay: 0.25s;
+        }
+
+        .result-card:nth-child(2) {
+            animation-delay: 0.3s;
+        }
+
+        .result-card:nth-child(3) {
+            animation-delay: 0.35s;
+        }
+
+        .result-card:nth-child(4) {
+            animation-delay: 0.4s;
+        }
+
+        .result-card:nth-child(5) {
+            animation-delay: 0.45s;
+        }
+
+        .result-card:hover {
+            transform: translateX(8px) translateY(-4px);
+            box-shadow: var(--shadow-xl);
+            border-color: var(--primary);
+        }
+
+        .result-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 16px;
+            gap: 16px;
+        }
+
+        .result-title-section {
+            flex: 1;
+        }
+
+        .result-number {
+            font-size: 0.8rem;
+            font-weight: 700;
+            color: var(--text-tertiary);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 8px;
+        }
+
+        .result-title {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.35rem;
+            font-weight: 700;
+            color: var(--primary);
+            line-height: 1.4;
+            margin-bottom: 4px;
+        }
+
+        .result-id {
+            font-size: 0.85rem;
+            color: var(--text-tertiary);
+            font-weight: 500;
+        }
+
+        .result-score-badge {
+            background: linear-gradient(135deg, var(--secondary) 0%, var(--accent) 100%);
+            color: white;
+            padding: 10px 20px;
+            border-radius: 24px;
+            font-size: 0.9rem;
+            font-weight: 700;
+            box-shadow: var(--shadow-sm);
+            white-space: nowrap;
+        }
+
+        .result-snippet {
+            color: var(--text-secondary);
+            line-height: 1.8;
+            font-size: 1.05rem;
+            margin-bottom: 20px;
+            padding-left: 16px;
+            border-left: 3px solid var(--bg-secondary);
+        }
+
+        .result-actions {
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+
+        .result-btn {
+            padding: 12px 28px;
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            text-decoration: none;
+            font-size: 0.95rem;
+            font-weight: 700;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            box-shadow: var(--shadow-sm);
+        }
+
+        .result-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-md);
+        }
+
+        .highlight {
+            background: linear-gradient(120deg, #FEF3C7 0%, #FDE68A 100%);
+            padding: 3px 7px;
+            border-radius: 6px;
+            font-weight: 700;
+            color: #92400E;
+            box-shadow: 0 1px 3px rgba(245, 158, 11, 0.15);
+        }
+
+        /* No Results */
+        .no-results {
+            background: white;
+            border-radius: 24px;
+            padding: 80px 40px;
+            text-align: center;
+            box-shadow: var(--shadow-lg);
+            border: 1px solid var(--border);
+            animation: fadeInUp 0.6s ease-out 0.3s both;
+        }
+
+        .no-results-icon {
+            font-size: 6rem;
+            margin-bottom: 24px;
+            opacity: 0.4;
+        }
+
+        .no-results h2 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin-bottom: 12px;
+        }
+
+        .no-results p {
+            color: var(--text-secondary);
+            font-size: 1.15rem;
+            margin-bottom: 32px;
+        }
+
+        .tips-container {
+            background: var(--bg-secondary);
+            padding: 32px;
+            border-radius: 16px;
+            max-width: 600px;
+            margin: 0 auto;
+            text-align: left;
+            border: 1px solid rgba(10, 110, 189, 0.1);
+        }
+
+        .tips-container h3 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.3rem;
+            font-weight: 700;
+            color: var(--primary);
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .tips-container ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .tips-container li {
+            padding: 10px 0;
+            color: var(--text-secondary);
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            font-size: 1.02rem;
+        }
+
+        .tips-container li::before {
+            content: '✓';
+            width: 28px;
+            height: 28px;
+            background: var(--primary);
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            flex-shrink: 0;
+        }
+
+        /* Pagination */
+        .pagination {
+            background: white;
+            border-radius: 20px;
+            padding: 32px;
+            margin-top: 32px;
+            box-shadow: var(--shadow-md);
+            border: 1px solid var(--border);
+            animation: fadeInUp 0.6s ease-out 0.5s both;
+        }
+
+        .pagination-info {
+            text-align: center;
+            font-size: 1.05rem;
+            color: var(--text-secondary);
+            margin-bottom: 24px;
+            font-weight: 600;
+        }
+
+        .pagination-controls {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .page-btn {
+            min-width: 48px;
+            height: 48px;
+            padding: 0 16px;
+            background: white;
+            color: var(--primary);
+            border: 2px solid var(--border);
+            border-radius: 12px;
+            text-decoration: none;
+            font-weight: 700;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.95rem;
+        }
+
+        .page-btn:hover {
+            background: var(--primary);
+            color: white;
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-sm);
+            border-color: var(--primary);
+        }
+
+        .page-btn.active {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            color: white;
+            border-color: var(--primary);
+            box-shadow: var(--shadow-sm);
+        }
+
+        .page-btn.active:hover {
+            transform: none;
+        }
+
+        .page-dots {
+            color: var(--text-tertiary);
+            padding: 0 8px;
+            font-weight: 700;
+        }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            padding: 32px 0;
+            margin-top: 40px;
+        }
+
+        .footer-btn {
+            display: inline-block;
+            padding: 14px 36px;
+            background: white;
+            color: var(--primary);
+            text-decoration: none;
+            border-radius: 12px;
+            font-weight: 700;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: var(--shadow-md);
+            border: 1px solid var(--border);
+        }
+
+        .footer-btn:hover {
+            background: var(--primary);
+            color: white;
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-lg);
+        }
+
+        /* Responsive */
+        @media (max-width: 968px) {
+            .nav-stats {
+                display: none;
+            }
+
+            .hero-title {
+                font-size: 2.2rem;
+            }
+
+            .search-section {
+                padding: 28px 24px;
+            }
+
+            .search-input {
+                padding: 18px 20px;
+                margin-bottom: 12px;
+            }
+
+            .search-button {
+                position: static;
+                width: 100%;
+            }
+
+            .search-input-wrapper {
+                flex-direction: column;
+            }
+
+            .search-tips {
+                grid-template-columns: 1fr;
+            }
+
+            .results-header {
+                flex-direction: column;
+                gap: 16px;
+                text-align: center;
+            }
+
+            .results-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .result-top {
+                flex-direction: column;
+            }
+
+            .result-score-badge {
+                align-self: flex-start;
+            }
+
+            .pagination-controls {
+                gap: 6px;
+            }
+
+            .page-btn {
+                min-width: 44px;
+                height: 44px;
+                font-size: 0.9rem;
+            }
+
+            .no-results {
+                padding: 60px 28px;
+            }
+
+            .tips-container {
+                padding: 24px 20px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav class="top-nav">
+        <div class="nav-content">
+            <div class="logo-section">
+                <div class="logo-icon">🏥</div>
+                <div class="logo-text">
+                    <h1>MedSearch</h1>
+                    <p>MEDICAL INFORMATION RETRIEVAL</p>
+                </div>
+            </div>
+            <div class="nav-stats">
+                <div class="stat-item">
+                    <span>📄</span>
+                    <span><strong>17K+</strong> Documents</span>
+                </div>
+                <div class="stat-item">
+                    <span>⚡</span>
+                    <span><strong>TF-IDF</strong> Ranking</span>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="container">
+        <!-- Hero Section -->
+        <div class="hero-section">
+            <h1 class="hero-title">Advanced Medical Literature Search</h1>
+            <p class="hero-subtitle">Powered by Vector Space Model with TF-IDF ranking • Boolean operators • Phrase
+                matching</p>
+        </div>
+
+        <!-- Search Section -->
+        <div class="search-section">
+            <div class="search-header">
+                <span class="search-header-icon">🔍</span>
+                <div class="search-header-text">
+                    <h2>Search Medical Documents</h2>
+                    <p>Enter keywords, phrases, or use Boolean operators for precise results</p>
+                </div>
+            </div>
+
+            <form method="POST" class="search-form">
+                <div class="search-input-wrapper">
+                    <input type="text" name="query" class="search-input"
+                        placeholder='e.g., diabetes, "heart disease", cancer AND treatment...' value="{{ query }}"
+                        autofocus required>
+                    <button type="submit" class="search-button">Search</button>
+                </div>
+            </form>
+
+            <div class="search-tips">
+                <div class="tip-card">
+                    <div class="tip-label">📝 Word Search</div>
+                    <code class="tip-example">diabetes</code>
+                </div>
+                <div class="tip-card">
+                    <div class="tip-label">💬 Phrase Search</div>
+                    <code class="tip-example">"heart disease"</code>
+                </div>
+                <div class="tip-card">
+                    <div class="tip-label">➕ Boolean AND</div>
+                    <code class="tip-example">cancer AND treatment</code>
+                </div>
+                <div class="tip-card">
+                    <div class="tip-label">➗ Boolean OR</div>
+                    <code class="tip-example">diabetes OR obesity</code>
+                </div>
+                <div class="tip-card">
+                    <div class="tip-label">➖ Boolean NOT</div>
+                    <code class="tip-example">heart NOT failure</code>
+                </div>
+                <div class="tip-card">
+                    <div class="tip-label">🔗 Combined</div>
+                    <code class="tip-example">"breast cancer" AND treatment</code>
+                </div>
+            </div>
+        </div>
+
+        <!-- Results Section -->
+        {% if query %}
+        {% if results %}
+        <!-- Results Header -->
+        <div class="results-header">
+            <div class="results-count">
+                <div class="count-icon">📊</div>
+                <div class="count-text">
+                    <h3>{{ total_results }} Result{% if total_results != 1 %}s{% endif %} Found</h3>
+                    <p>Showing {{ (page-1)*per_page + 1 }}-{{ [page*per_page, total_results]|min }} for "{{ query }}"
+                    </p>
+                </div>
+            </div>
+            <div class="results-meta">
+                <div class="meta-badge">⚡ {{ search_time }}ms</div>
+                <div class="meta-badge">📄 Page {{ page }}/{{ total_pages }}</div>
+            </div>
+        </div>
+
+        <!-- Results Grid -->
+        <div class="results-grid">
+            {% for doc_id, score in results %}
+            <div class="result-card">
+                <div class="result-top">
+                    <div class="result-title-section">
+                        <div class="result-number">Result #{{ loop.index + (page-1)*per_page }}</div>
+                        <h3 class="result-title">Medical Document</h3>
+                        <div class="result-id">Document ID: {{ doc_id }}</div>
+                    </div>
+                    <div class="result-score-badge">
+                        Score: {{ "%.4f"|format(score) }}
+                    </div>
+                </div>
+                <div class="result-snippet">
+                    {{ snippets[doc_id]|safe }}
+                </div>
+                <div class="result-actions">
+                    <a href="/full_document?doc_id={{ doc_id }}&query={{ query }}" class="result-btn" target="_blank">
+                        📖 View Full Document
+                    </a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+
+        <!-- Pagination -->
+        {% if total_pages > 1 %}
+        <div class="pagination">
+            <div class="pagination-info">
+                Page {{ page }} of {{ total_pages }}
+            </div>
+            <div class="pagination-controls">
+                {% if page > 1 %}
+                <a href="/?query={{ query }}&page=1" class="page-btn">« First</a>
+                <a href="/?query={{ query }}&page={{ page - 1 }}" class="page-btn">‹ Previous</a>
+                {% endif %}
+
+                {% for p in range(1, total_pages + 1) %}
+                {% if p == page %}
+                <span class="page-btn active">{{ p }}</span>
+                {% elif p == 1 or p == total_pages or (p >= page - 2 and p <= page + 2) %} <a
+                    href="/?query={{ query }}&page={{ p }}" class="page-btn">{{ p }}</a>
+                    {% elif p == page - 3 or p == page + 3 %}
+                    <span class="page-dots">...</span>
+                    {% endif %}
+                    {% endfor %}
+
+                    {% if page < total_pages %} <a href="/?query={{ query }}&page={{ page + 1 }}" class="page-btn">Next
+                        ›</a>
+                        <a href="/?query={{ query }}&page={{ total_pages }}" class="page-btn">Last »</a>
+                        {% endif %}
+            </div>
+        </div>
+        {% endif %}
+
+        {% else %}
+        <!-- No Results -->
+        <div class="no-results">
+            <div class="no-results-icon">🔍</div>
+            <h2>No Results Found</h2>
+            <p>We couldn't find any documents matching "<strong>{{ query }}</strong>"</p>
+
+            <div class="tips-container">
+                <h3>💡 Search Tips</h3>
+                <ul>
+                    <li>Check spelling and try different keywords</li>
+                    <li>Use broader or more general terms</li>
+                    <li>Try phrase search: "diabetes mellitus"</li>
+                    <li>Combine terms with OR: diabetes OR glucose</li>
+                    <li>Remove special characters</li>
+                </ul>
+            </div>
+        </div>
+        {% endif %}
+        {% endif %}
+
+        <!-- Footer -->
+        <div class="footer">
+            <a href="/" class="footer-btn">🏠 New Search</a>
+        </div>
+    </div>
+</body>
+
+</html>

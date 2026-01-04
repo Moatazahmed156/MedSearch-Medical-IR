@@ -1,0 +1,9 @@
+{
+    "title": "High-resolution reconstruction of the beating zebrafish heart.",
+    "doc_id": "25042787",
+    "writer": "Mickoleit M",
+    "year": "2014",
+    "summary": "The heart's continuous motion makes it difficult to capture high-resolution images of this organ in vivo. We developed tools based on high-speed selective plane illumination microscopy (SPIM), offering pristine views into the beating zebrafish heart. We captu …",
+    "abstract": "The heart's continuous motion makes it difficult to capture high-resolution images of this organ in vivo. We developed tools based on high-speed selective plane illumination microscopy (SPIM), offering pristine views into the beating zebrafish heart. We captured three-dimensional cardiac dynamics with postacquisition synchronization of multiview movie stacks, obtained static high-resolution reconstructions by briefly stopping the heart with optogenetics and resolved nonperiodic phenomena by high-speed volume scanning with a liquid lens.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/25042787/"
+}

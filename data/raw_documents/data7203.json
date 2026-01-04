@@ -1,0 +1,9 @@
+{
+    "title": "Gene expression variability in human and chimpanzee populations share common determinants.",
+    "doc_id": "33084571",
+    "writer": "Fair BJ",
+    "year": "2020",
+    "summary": "Inter-individual variation in gene expression has been shown to be heritable and is often associated with differences in disease susceptibility between individuals. ...To begin addressing this gap, we performed a comparative analysis of gene expression …",
+    "abstract": "Inter-individual variation in gene expression has been shown to be heritable and is often associated with differences in disease susceptibility between individuals. Many studies focused on mapping associations between genetic and gene regulatory variation, yet much less attention has been paid to the evolutionary processes that shape the observed differences in gene regulation between individuals in humans or any other primate. To begin addressing this gap, we performed a comparative analysis of gene expression variability and expression quantitative trait loci (eQTLs) in humans and chimpanzees, using gene expression data from primary heart samples. We found that expression variability in both species is often determined by non-genetic sources, such as cell-type heterogeneity. However, we also provide evidence that inter-individual variation in gene regulation can be genetically controlled, and that the degree of such variability is generally conserved in humans and chimpanzees. In particular, we found a significant overlap of orthologous genes associated with eQTLs in both species. We conclude that gene expression variability in humans and chimpanzees often evolves under similar evolutionary pressures.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/33084571/"
+}

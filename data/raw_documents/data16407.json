@@ -1,0 +1,6 @@
+{
+  "pmid": "41409712",
+  "title": "Deep learning predicts potential reassortments of avian H5N1 with human influenza viruses.",
+  "abstract": "Frequent infection cases with avian H5N1 influenza A viruses (IAVs) are posing pandemic risks of human/avian-reassorted IAVs. We aimed to build an attentional deep learning model named HAIRANGE, for predicting potentially human-adapted reassortment of H5N1 and human IAVs. A biologically relevant and non-pretrained embedder named Codon2Vec in HAIRANGE performed competitively in benchmarking against other embedders, such as ESM2, DNABERT2 and others, indicating a high association of genomic context with viral hosts or serotypes, for IAV RNA polymerase-related genes. HAIRANGE accurately predicted the adaptation of each polymerase-related gene and the adaptive polymerase-related gene reassortment with polymerase activity validated by ",
+  "disease": "influenza"
+}

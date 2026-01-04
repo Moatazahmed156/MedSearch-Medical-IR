@@ -1,0 +1,10 @@
+{
+    "title": "Gene Expression Mining in Type 2 Diabetes Research.",
+    "doc_id": "31586324",
+    "writer": "Dunbar DR.",
+    "year": "2020",
+    "summary": "Gene expression analysis by microarray and more recently by next-generation sequencing has become a core part of biomedical research and its value can be seen in thousands of research papers. A successful gene expression experiment needs to be augmente …",
+    "abstract": "Gene expression analysis by microarray and more recently by next-generation sequencing has become a core part of biomedical research and its value can be seen in thousands of research papers. A successful gene expression experiment needs to be augmented by specialized data mining techniques if the data are to be fully exploited. Here, tools that concentrate on three areas-gene enrichment analysis, literature mining, and transcription factor binding site analysis-are described for the novice user of microarray and next generation sequencing technologies. The focus of this chapter is on free, publicly available, web-based tools.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/31586324/",
+    "clean_text": "gene expression mining in type diabetes research gene expression analysis by microarray and more recently by next generation sequencing has become a core part of biomedical research and its value can be seen in thousands of research papers a successful gene expression experiment needs to be augmente gene expression analysis by microarray and more recently by next generation sequencing has become a core part of biomedical research and its value can be seen in thousands of research papers a successful gene expression experiment needs to be augmented by specialized data mining techniques if the data are to be fully exploited here tools that concentrate on three areas gene enrichment analysis literature mining and transcription factor binding site analysis are described for the novice user of microarray and next generation sequencing technologies the focus of this chapter is on free publicly available web based tools"
+}

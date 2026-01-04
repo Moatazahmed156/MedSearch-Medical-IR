@@ -1,0 +1,120 @@
+physical+activity --> done 
+rheumatoid+arthritis --> done 
+atrial --> done 
+atrial+fibrillation --> done 
+alzheimer's -- > done 
+breast __ > done 
+breast+cancer --> done 
+back+pain --> done 
+low+back __ > done 
+blood --> done 
+covid --> done 
+covid 19 --> done 
+covid-19 --> done 
+lung+cancer --> done 
+stem+cell --> done 
+vitamin+d -->done 
+diabetes --> done 
+diabetes+mellitus __> done 
+2+diabetes --> done 
+kidney+disease --> done 
+side+effects --> done 
+gene+expression --> done 
+lupus+erythematosus --> done 
+endometrial -->done 
+endometrial+cancer -->done 
+heart+failure -->done 
+risk+factors -->done 
+atrial+fibrillation --> done 
+fatty --> done 
+fatty+liver --> done 
+gastric --> done 
+gastric+cancer --> done 
+gut+microbiota --> done 
+gene+therapy --> done 
+mental+health --done 
+heart --> done 
+heart+failure __ > done 
+heart+disease --> done 
+head+neck --> done 
+brain+injury --> done 
+cord+injury --> done 
+myocardial+infarction --> done 
+spinal+cord+injury --> done 
+kidney+injury -> done 
+international+journal --> done 
+juvenile --> done 
+juvenile+idiopathic --> done 
+american+journal --> done 
+tight+junction --> done 
+kidney --> done 
+chronic+kidney --> done 
+kidney+injury --> done 
+acute+kidney --> done 
+cell+lung --> done 
+low+back+pain --> done 
+quality+life --> done 
+mental --> done 
+mental+health --> done 
+diabetes+mellitus --> done 
+gut+microbiota --> done 
+myocardial --> done 
+head+neck --> done 
+nervous --> done 
+nervous+system --> done 
+lymph+node --> done 
+neck+cancer --> done 
+oxidative --> done 
+oxidative+stress --> done 
+ovarian --> done 
+ovarian+cancer --> done 
+older --> done 
+back+pain --> done 
+physical --> done 
+physical+activity --> done 
+prostate --> done 
+prostate+cancer --> done 
+quality --> done 
+quality+life --> done 
+sleep+quality --> done 
+quality+improvement -->done 
+qualitative --> done 
+risk+factors --> done 
+case+report ---> done 
+reheumatoid --> doen 
+reheumatoid+arthritis --> done 
+systematic+review --> done 
+stem+cell --> done 
+stem+cells --> done 
+spinal --> done 
+spinal+cord --> done 
+type+2 --> done 
+t+cell --> done 
+physical+therapy --> done 
+type+2+diabetes --> done 
+type+1 --> done 
+urinary --> done 
+urinary+tract --> done 
+ulcerative --> Done 
+ulcerative+colitis --> done 
+medical+university  --> done 
+weight --> done 
+weight+loss --> done 
+wound --> done 
+wound+healing --> done 
+pregnant+women --> done 
+fragile+x --> done 
+x+syndrome --> done 
+fragile+x+syndrome --> done 
+xi'an --> done 
+xi'an+jiaotong --> done 
+young --> done 
+young+adults --> done 
+young+adult --> done 
+yellow --> done 
+yellow+fever --> done 
+herpes+zoster --> done 
+zika+virus --> done 
+zhejiang --> done 
+zhejiang+university
+marginal+zone

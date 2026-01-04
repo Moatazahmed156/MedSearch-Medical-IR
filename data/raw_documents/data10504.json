@@ -1,0 +1,6 @@
+{
+  "pmid": "41463538",
+  "title": "Single-Cell Mapping of Genetic Risk Across Ten Respiratory Diseases.",
+  "abstract": "Understanding how genetic risk variants contribute to respiratory diseases requires mapping genome-wide association study (GWAS) signals to disease-relevant cell types and states within the human lung. Here, we integrated GWAS summary statistics for ten major respiratory diseases, including asthma, COPD, idiopathic pulmonary fibrosis (IPF), COVID-19, and lung cancer, using a large-scale single-cell transcriptomic dataset of more than 523,000 cells from the Human Lung Cell Atlas. Applying the single-cell Disease Relevance Score (scDRS) framework, we systematically identified shared and disease-specific cellular associations across four major compartments, namely epithelial, immune, endothelial, and stromal. We found that alveolar type II (AT2) cells represent a central susceptibility hub for asthma, COPD, and COVID-19, whereas disease-specific risk enrichment was observed in subpopulations such as CCL3",
+  "disease": "asthma"
+}

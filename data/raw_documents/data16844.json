@@ -1,0 +1,6 @@
+{
+  "pmid": "41421303",
+  "title": "Characterizing vascular tone in nocturnal major motor seizures using wearable photoplethysmography.",
+  "abstract": "The impact of seizures on the peripheral vascular system has not been well studied. Here, we used wearable photoplethysmography (PPG) to characterize peripheral vascular tone dynamics in children with refractory epilepsy. We used data from the PROMISE trial, which included children aged 4-16 years with nocturnal major motor seizures. We selected continuous 10-minute PPG segments, each spanning the seizure-free baseline, pre-ictal, ictal, and post-ictal phases. The amplitude modulation (AM) of the PPG signal, representing the slow variation in pulse amplitude and serving as a proxy for relative blood volume, was analyzed to characterize peripheral vascular tone. We applied a linear mixed-effects model to compare the AM across pre-ictal, ictal, and post-ictal phases relative to the baseline. We studied 135 seizure events from 13 children (42% female; mean age: 9.7 ± 3.6 years). Our analysis revealed a significant AM decrease during the pre-ictal phase (p<0.05), with a more pronounced decrease during the ictal and post-ictal phases (p<0.001) relative to the baseline. Seizures impact peripheral vascular tone with signs of vasoconstriction that persists into the post-ictal phase.",
+  "disease": "epilepsy"
+}

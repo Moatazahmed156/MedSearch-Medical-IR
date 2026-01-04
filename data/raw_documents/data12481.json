@@ -1,0 +1,6 @@
+{
+  "pmid": "41467219",
+  "title": "The Post-Cholecystectomy Gut Microbiota Follows a Time-Varying Change-A Pilot Study.",
+  "abstract": "Gut microbiota is proposed to be a key factor for post-cholecystectomy diarrhea (PCD). Long-term follow-up showed decreasing PCD over time, suggesting microbiota change is time-dependent. Our study aimed to analyze gut microbiota and PCD at different times to clarify their time-varying features. Patients aged 20-70 receiving laparoscopic cholecystectomy were recruited prospectively. Subjects with prior abdominal surgery, major systemic diseases, use of antibiotics, probiotics, or proton pump inhibitors within 1 month were excluded. Stool was analyzed at baseline (BL) and 6th, 12th month post-surgery. Microbial diversity was assessed with R phyloseq package, and differential abundance of taxonomic composition with LEfSe/metagenomeSeq. Ten patients were enrolled. Bristol stool scale peaked at 1 M (3.9 → 4.5 → 3.4;  This study showed time-varying trends of microbial diversity and composition. Larger studies are needed for further validation.",
+  "disease": "colorectal cancer"
+}

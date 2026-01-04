@@ -1,0 +1,6 @@
+{
+  "pmid": "41427395",
+  "title": "Motion sequencing reveals hidden patterns of repetitive behavior in a mouse model of epilepsy.",
+  "abstract": "Epilepsy is the 4th most prevalent neurological condition with 50 million cases worldwide. Patients with epilepsy bare a disproportionate burden of cognitive decline and psychiatric disorders which remain poorly understood and go underdressed by current anti-epileptic treatments. Furthermore, pre-clinical work on behavioral comorbidities can be hampered by current testing frameworks which rely on well-defined, discreet tests with limited repeatability. Recent work has demonstrated a role for machine learning modalities such as Motion Sequencing (MoSeq) in assessing behavioral differences between naive and epileptic. In this study we combined MoSeq with a novel analysis pipeline to uncover repetitive behaviors in chronically epileptic mice. These repetitive behaviors emerge alongside epilepsy specific racing behaviors which persist in epileptic mice as disease progresses. Finally, we show that epileptic mice have more fragile and dispersed behavioral networks. Together, these results lay a groundwork for extracting clinically relevant phenotypes from MoSeq data throughout disease progression.",
+  "disease": "epilepsy"
+}

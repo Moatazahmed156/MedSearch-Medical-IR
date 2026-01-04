@@ -1,0 +1,6 @@
+{
+  "pmid": "41464449",
+  "title": "Travel Distance and Its Impact on Wait Time for Positron Emission Tomography-Computed Tomography in Patients with Cancers.",
+  "abstract": "To examine travel distance and its impact on wait time for positron emission tomography-computed tomography (PET/CT) in patients with lung and prostate cancers and lymphoma in Alberta. We used the Alberta cancer registry and diagnostic imaging database to identify patients with lung and prostate cancers and lymphoma who had a PET/CT scan during April 2017 and March 2023. The Alberta Facilities Distance/Time Look Up Table was used to calculate travel distance from the patient's residence to the PET/CT facility. Negative binomial regression was used to assess the association between travel distance and wait time for PET/CT. The study included 9503 patients. Lung cancer accounted for 43.4% of the patients, followed by lymphoma (37.1%) and prostate (19.5%) cancer. There were more female patients with lung cancer (55.5%) than lymphoma (42.9%; ",
+  "disease": "lung cancer"
+}

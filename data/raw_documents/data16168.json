@@ -1,0 +1,6 @@
+{
+  "pmid": "41453867",
+  "title": "Modelling severe COVID-19 in TLR3-mutated hiPSCs-derived lung organoids.",
+  "abstract": "Clinical variability in COVID-19 is partly explained by host genetic factors, including inborn errors of immunity. We investigated a patient with a heterozygous nonsense mutation in the TLR3 gene (p.Trp769*) by generating human-induced pluripotent stem cells (hiPSCs) and differentiating them into lung organoids (hLORGs). TLR3-mutated hLORGs showed reduced basal expression of TLR3 and downstream signaling genes. Following infection with a pseudotyped SARS-CoV-2 virus and live SARS-CoV-2, RNA-Seq and qPCR analyses revealed significant upregulation of fibrinogen genes (FGA, FGG), which are associated with severe COVID-19. Interestingly, TLR3 expression remained inducible upon infection, despite the loss-of-function mutation. Our patient-derived hLORG model recapitulates the pathophysiological features of the patient and provides a platform to investigate host-virus interactions and test targeted therapies for genetically at-risk individuals.",
+  "disease": "covid-19"
+}

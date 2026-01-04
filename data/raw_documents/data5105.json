@@ -1,0 +1,9 @@
+{
+    "title": "Functional TCR T cell screening using single-cell droplet microfluidics.",
+    "doc_id": "30397689",
+    "writer": "Segaliny AI",
+    "year": "2018",
+    "summary": "Adoptive T cell transfer, in particular TCR T cell therapy, holds great promise for cancer immunotherapy with encouraging clinical results. ...Our TCR screening prototype will facilitate immunotherapeutic screening and development of T cell …",
+    "abstract": "Adoptive T cell transfer, in particular TCR T cell therapy, holds great promise for cancer immunotherapy with encouraging clinical results. However, finding the right TCR T cell clone is a tedious, time-consuming, and costly process. Thus, there is a critical need for single cell technologies to conduct fast and multiplexed functional analyses followed by recovery of the clone of interest. Here, we use droplet microfluidics for functional screening and real-time monitoring of single TCR T cell activation upon recognition of target tumor cells. Notably, our platform includes a tracking system for each clone as well as a sorting procedure with 100% specificity validated by downstream single cell reverse-transcription PCR and sequencing of TCR chains. Our TCR screening prototype will facilitate immunotherapeutic screening and development of T cell therapies.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/30397689/"
+}

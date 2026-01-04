@@ -1,0 +1,7 @@
+{
+    "pmid": "41469815",
+    "title": "Histopathology Images-Based Deep Learning Prediction of Histological Types in Endometrial Cancer.",
+    "abstract": "According to the new 2023 International Federation of Gynecology and Obstetrics staging system for endometrial cancer (EC), EC is classified into aggressive and nonaggressive histological types. Accurate diagnosis of the histological type of EC is crucial for optimizing treatment strategies and predicting patient outcomes. To develop and validate a deep convolutional neural network for predicting nonaggressive versus aggressive histological types from hematoxylin and eosin (H&E)-stained images of EC specimens. A deep convolutional neural network named EC-AI EC-AI EC-AI",
+    "disease": "breast cancer",
+    "clean_text": "histopathology images based deep learning prediction of histological types in endometrial cancer according to the new international federation of gynecology and obstetrics staging system for endometrial cancer ec ec is classified into aggressive and nonaggressive histological types accurate diagnosis of the histological type of ec is crucial for optimizing treatment strategies and predicting patient outcomes to develop and validate a deep convolutional neural network for predicting nonaggressive versus aggressive histological types from hematoxylin and eosin h e stained images of ec specimens a deep convolutional neural network named ec ai ec ai ec ai"
+}

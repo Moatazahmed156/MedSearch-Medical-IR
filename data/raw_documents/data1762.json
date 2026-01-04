@@ -1,0 +1,9 @@
+{
+    "title": "Screening compound libraries for H2O2-mediated cancer therapeutics using a peroxiredoxin-based sensor.",
+    "doc_id": "34678160",
+    "writer": "Hao Y",
+    "year": "2022",
+    "summary": "Previous studies to identify therapeutics that induce oxidants have relied upon probes that respond to many different oxidants in cells, and thus do not report on only H(2)O(2), a redox signal that selectively oxidizes proteins. ...Among them, SMER3, an antif …",
+    "abstract": "Compounds that modulate H2O2 reaction networks have applications as targeted cancer therapeutics, as a subset of cancers exhibit sensitivity to this redox signal. Previous studies to identify therapeutics that induce oxidants have relied upon probes that respond to many different oxidants in cells, and thus do not report on only H2O2, a redox signal that selectively oxidizes proteins. Here we use a genetically encoded fluorescent probe for human peroxiredoxin-2 (Prx2) oxidation in screens for small-molecule compounds that modulate H2O2 pathways. We further characterize cellular responses to several compounds selected from the screen. Our results reveal that some, but not all, of the compounds enact H2O2-mediated toxicity in cells. Among them, SMER3, an antifungal, has not been reported as an oxidant-inducing drug. Several drugs, including cisplatin, that previously have been shown to induce reactive oxygen species (ROS) do not appear to oxidize Prx2, suggesting H2O2 is not among the ROS induced by those drugs.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/34678160/"
+}

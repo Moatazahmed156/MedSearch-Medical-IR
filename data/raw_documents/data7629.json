@@ -1,0 +1,9 @@
+{
+    "title": "An Integrated Qualitative and Quantitative Biochemical Model Learning Framework Using Evolutionary Strategy and Simulated Annealing.",
+    "doc_id": "26693255",
+    "writer": "Wu Z",
+    "year": "2015",
+    "summary": "Both qualitative and quantitative model learning frameworks for biochemical systems have been studied in computational systems biology. ...Kinetic rates of the models generated from qualitative model learning are then further optimised by employing a quantitative ap …",
+    "abstract": "Both qualitative and quantitative model learning frameworks for biochemical systems have been studied in computational systems biology. In this research, after introducing two forms of pre-defined component patterns to represent biochemical models, we propose an integrative qualitative and quantitative modelling framework for inferring biochemical systems. In the proposed framework, interactions between reactants in the candidate models for a target biochemical system are evolved and eventually identified by the application of a qualitative model learning approach with an evolution strategy. Kinetic rates of the models generated from qualitative model learning are then further optimised by employing a quantitative approach with simulated annealing. Experimental results indicate that our proposed integrative framework is feasible to learn the relationships between biochemical reactants qualitatively and to make the model replicate the behaviours of the target system by optimising the kinetic rates quantitatively. Moreover, potential reactants of a target biochemical system can be discovered by hypothesising complex reactants in the synthetic models. Based on the biochemical models learned from the proposed framework, biologists can further perform experimental study in wet laboratory. In this way, natural biochemical systems can be better understood.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/26693255/"
+}

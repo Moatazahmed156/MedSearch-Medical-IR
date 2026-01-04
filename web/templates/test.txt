@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medical Document Search Engine</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+            padding: 20px;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .search-box {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            margin-bottom: 30px;
+        }
+
+        .search-form {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+
+        .search-input {
+            flex: 1;
+            padding: 15px 20px;
+            font-size: 1rem;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            transition: all 0.3s;
+        }
+
+        .search-input:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .search-button {
+            padding: 15px 40px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+
+        .search-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+
+        .search-help {
+            font-size: 0.9rem;
+            color: #666;
+            line-height: 1.6;
+        }
+
+        .search-help strong {
+            color: #667eea;
+        }
+
+        .results-info {
+            background: white;
+            border-radius: 10px;
+            padding: 15px 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .results-info .count {
+            font-size: 1.1rem;
+            color: #333;
+            font-weight: 600;
+        }
+
+        .results-info .time {
+            font-size: 0.9rem;
+            color: #666;
+        }
+
+        .result-card {
+            background: white;
+            border-radius: 12px;
+            padding: 25px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: all 0.3s;
+            border-left: 4px solid #667eea;
+        }
+
+        .result-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 15px rgba(0,0,0,0.2);
+        }
+
+        .result-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+
+        .result-title {
+            font-size: 1.3rem;
+            color: #667eea;
+            font-weight: 600;
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+
+        .result-title:hover {
+            color: #764ba2;
+        }
+
+        .result-score {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: 600;
+        }
+
+        .result-snippet {
+            color: #555;
+            line-height: 1.8;
+            font-size: 1rem;
+        }
+
+        .highlight {
+            background: #fff3cd;
+            padding: 2px 4px;
+            border-radius: 3px;
+            font-weight: 600;
+            color: #856404;
+        }
+
+        .no-results {
+            background: white;
+            border-radius: 12px;
+            padding: 40px;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .no-results h2 {
+            color: #666;
+            margin-bottom: 10px;
+        }
+
+        .no-results p {
+            color: #999;
+        }
+
+        /* Pagination Styles */
+        .pagination {
+            background: white;
+            border-radius: 12px;
+            padding: 25px;
+            margin-top: 30px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+
+        .pagination-info {
+            font-size: 1rem;
+            color: #666;
+            margin-bottom: 20px;
+            font-weight: 600;
+        }
+
+        .pagination-buttons {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .pagination-btn {
+            padding: 10px 16px;
+            background: white;
+            color: #667eea;
+            border: 2px solid #667eea;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s;
+            min-width: 45px;
+            text-align: center;
+            display: inline-block;
+        }
+
+        .pagination-btn:hover {
+            background: #667eea;
+            color: white;
+            transform: translateY(-2px);
+        }
+
+        .pagination-btn.active {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-color: #667eea;
+            cursor: default;
+        }
+
+        .pagination-btn.active:hover {
+            transform: none;
+        }
+
+        .pagination-dots {
+            color: #999;
+            padding: 0 5px;
+            font-weight: bold;
+        }
+
+        .nav-links {
+            text-align: center;
+            margin-top: 30px;
+        }
+
+        .nav-links a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 1rem;
+            padding: 10px 20px;
+            background: rgba(255,255,255,0.2);
+            border-radius: 8px;
+            transition: all 0.3s;
+            display: inline-block;
+        }
+
+        .nav-links a:hover {
+            background: rgba(255,255,255,0.3);
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 1.8rem;
+            }
+
+            .search-form {
+                flex-direction: column;
+            }
+
+            .search-button {
+                width: 100%;
+            }
+
+            .results-info {
+                flex-direction: column;
+                gap: 10px;
+                text-align: center;
+            }
+
+            .result-header {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 10px;
+            }
+
+            .pagination-buttons {
+                gap: 5px;
+            }
+
+            .pagination-btn {
+                padding: 8px 12px;
+                font-size: 0.9rem;
+                min-width: 40px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🏥 Medical Document Search Engine</h1>
+            <p>Search through 500 medical documents using advanced search techniques</p>
+        </div>
+
+        <div class="search-box">
+            <form method="POST" class="search-form">
+                <input 
+                    type="text" 
+                    name="query" 
+                    class="search-input" 
+                    placeholder='Try: "chest pain", diabetes AND hypertension, or chest NOT headache'
+                    value="{{ query }}"
+                    autofocus
+                    required
+                >
+                <button type="submit" class="search-button">🔍 Search</button>
+            </form>
+            
+            <div class="search-help">
+                <strong>Search Tips:</strong> 
+                Phrase: <code>"chest pain"</code> • 
+                AND: <code>diabetes AND hypertension</code> • 
+                OR: <code>diabetes OR asthma</code> • 
+                NOT: <code>chest NOT headache</code>
+            </div>
+        </div>
+
+        {% if query %}
+            {% if results %}
+                <div class="results-info">
+                    <div class="count">
+                        📊 Found {{ total_results }} result{% if total_results != 1 %}s{% endif %} for "{{ query }}"
+                        {% if total_results > 0 %}
+                        (Showing {{ (page-1)*per_page + 1 }}-{{ [page*per_page, total_results]|min }})
+                        {% endif %}
+                    </div>
+                    <div class="time">⚡ Search completed in {{ search_time }}ms</div>
+                </div>
+
+                {% for doc_id, score in results %}
+                <div class="result-card">
+                    <div class="result-header">
+                        <a href="/view_document?doc_id={{ doc_id }}" class="result-title">
+                            📄 {{ doc_id }}
+                        </a>
+                        <span class="result-score">Score: {{ "%.4f"|format(score) }}</span>
+                    </div>
+                    <div class="result-snippet">
+                        {{ snippets[doc_id]|safe }}
+                    </div>
+                </div>
+                {% endfor %}
+
+                <!-- Pagination Controls -->
+                {% if total_pages > 1 %}
+                <div class="pagination">
+                    <div class="pagination-info">
+                        Page {{ page }} of {{ total_pages }}
+                    </div>
+                    <div class="pagination-buttons">
+                        {% if page > 1 %}
+                        <a href="/?query={{ query }}&page={{ page - 1 }}" class="pagination-btn">← Previous</a>
+                        {% endif %}
+                        
+                        {% for p in range(1, total_pages + 1) %}
+                            {% if p == page %}
+                                <span class="pagination-btn active">{{ p }}</span>
+                            {% elif p == 1 or p == total_pages or (p >= page - 2 and p <= page + 2) %}
+                                <a href="/?query={{ query }}&page={{ p }}" class="pagination-btn">{{ p }}</a>
+                            {% elif p == page - 3 or p == page + 3 %}
+                                <span class="pagination-dots">...</span>
+                            {% endif %}
+                        {% endfor %}
+                        
+                        {% if page < total_pages %}
+                        <a href="/?query={{ query }}&page={{ page + 1 }}" class="pagination-btn">Next →</a>
+                        {% endif %}
+                    </div>
+                </div>
+                {% endif %}
+                
+            {% else %}
+                <div class="no-results">
+                    <h2>😕 No results found</h2>
+                    <p>Try different keywords or check your search syntax</p>
+                </div>
+            {% endif %}
+        {% endif %}
+
+        <div class="nav-links">
+            <a href="/">🏠 New Search</a>
+        </div>
+    </div>
+</body>
+</html>

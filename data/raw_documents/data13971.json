@@ -1,0 +1,6 @@
+{
+  "pmid": "41353520",
+  "title": "Development and evaluation of multimodal ultrasound radiomics models for predicting active inflammation in rheumatoid arthritis.",
+  "abstract": "To develop a multimodal ultrasound radiomics model integrating power Doppler (PD) and superb microvascular imaging (SMI) data, combined with clinical baseline characteristics, and to evaluate its predictive performance for active inflammation in rheumatoid arthritis (RA). A total of 2,503 PD and 2,503 SMI ultrasound images of metacarpophalangeal and proximal interphalangeal joints were collected from RA patients with active inflammation and non-active controls between December 2022 and March 2024. Single-modality (PD/SMI), multimodal (SMI_PD), and clinical-integrated models were developed. Diagnostic performance was evaluated using receiver operating characteristic (ROC) analysis. The area under the curve (AUC) values for PD, SMI, multimodal SMI_PD, and clinical-integrated models were 0.76, 0.75, 0.82, and 0.83, respectively. The multimodal radiomics model demonstrated superior diagnostic performance for RA active inflammation. SMI shows potential as a tool for subclinical inflammation monitoring, while the integration of multimodal ultrasound radiomics with clinical data further enhances clinical utility.",
+  "disease": "rheumatoid arthritis"
+}

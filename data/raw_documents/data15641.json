@@ -1,0 +1,6 @@
+{
+  "pmid": "41396803",
+  "title": "Characterizing the performance of an antibiotic resistance prediction tool, gnomonicus, using a diverse test set of 2,663 ",
+  "abstract": "Tuberculosis remains a global health problem. Making it easier and quicker to identify which antibiotics an infection is likely to be susceptible to will be a key part of the solution. Whilst whole-genome sequencing offers many advantages, the processing of the genetic reads to produce the relevant public health and clinical information is, surprisingly, often the responsibility of the end user, which inhibits uptake. Here, we characterize how well a freely available tool we have developed, gnomonicus, predicts the antibiotic resistance profile of a sample (given its variant call file) using our implementation of the second edition of the World Health Organization (WHO) catalogue of resistance-associated variants (WHOv2). To facilitate this, we have constructed a diverse test set of 2,663 publicly available ",
+  "disease": "tuberculosis"
+}

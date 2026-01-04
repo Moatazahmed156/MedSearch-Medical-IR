@@ -1,0 +1,6 @@
+{
+  "pmid": "41392156",
+  "title": "Implantable neural probes with monolithically integrated CNTFET arrays for multimodal monitoring.",
+  "abstract": "The implantable neural probe for simultaneous recording of various brain signals is one of the key technologies for neurological science and clinics that is yet to be broken through. Here, we introduce an implantable neural probe with integrated carbon nanotube field-effect transistors which is able to perform multimodal recording of electrical and chemical signals of the brain under magnetic resonance imaging (MRI). We demonstrate here a simultaneous measurement of an electrophysiological signal with high signal-to-noise ratio up to 40.34 dB and calcium concentration with a detection limit down to 0.47 nM. We use our neural probes to detect neural activity in rats and results reveal that changes in Ca²⁺ concentration occur concurrently with the epileptiform local field potential events, providing an alternative method for accurate detection of epilepsy. Our work may provide a powerful means for the future studies of brain and holds great potential for practical diagnostic applications.",
+  "disease": "epilepsy"
+}

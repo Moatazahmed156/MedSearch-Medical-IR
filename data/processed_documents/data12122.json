@@ -1,0 +1,7 @@
+{
+    "pmid": "41469162",
+    "title": "AutoPET Challenge on Fully Automated Lesion Segmentation in Oncologic PET/CT Imaging, Part 2: Domain Generalization.",
+    "abstract": "This article reports the results of the second iteration of the autoPET challenge on automated lesion segmentation in whole-body PET/CT, held in conjunction with the 26th International Conference on Medical Image Computing and Computer Assisted Intervention in 2023. In contrast to the first autoPET challenge, which served as a proof of concept, this study investigates whether machine learning-based segmentation models trained on data from a single source can maintain performance across clinically relevant variations in PET/CT data, reflecting the demands of real-world deployment. ",
+    "disease": "lung cancer",
+    "clean_text": "autopet challenge on fully automated lesion segmentation in oncologic pet ct imaging part domain generalization this article reports the results of the second iteration of the autopet challenge on automated lesion segmentation in whole body pet ct held in conjunction with the th international conference on medical image computing and computer assisted intervention in in contrast to the first autopet challenge which served as a proof of concept this study investigates whether machine learning based segmentation models trained on data from a single source can maintain performance across clinically relevant variations in pet ct data reflecting the demands of real world deployment"
+}

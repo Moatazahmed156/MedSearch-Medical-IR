@@ -1,0 +1,9 @@
+{
+    "title": "Exploring Risk Factors in Suicidal Ideation and Attempt Concept Cooccurrence Networks.",
+    "doc_id": "37128429",
+    "writer": "Krause KJ",
+    "year": "2023",
+    "summary": "Many suicide risk factor analyses draw from clinical subdomains and quantify risk factors independently. ...Our networks were able to replicate existing risk factor findings and provide additional insight into the degree to which risk factors …",
+    "abstract": "Suicide is a significant and rising threat to public health. In the United States, 47,500 people died from suicide in 2019, a 10-year increase of 30%. Many researchers are interested in studying the risk factors associated with suicidal ideation and suicide attempt to help inform clinical screening, intervention, and prevention efforts. Many suicide risk factor analyses draw from clinical subdomains and quantify risk factors independently. While traditional modeling approaches might assume independence between risk factors, current suicide research suggests that the development of suicidal intent is a complex, multifactorial process. Thus, it may be beneficial to how suicide risk-factors interact with one another. In this study, we used network analysis to generate visual suicidality risk relationship diagrams. We extract medical concepts from free-text clinical notes and generate cooccurrence-based risk networks for suicidal ideation and suicide attempt. In addition, we generate a network of risk factors for suicidal ideation which evolves into a suicide attempt. Our networks were able to replicate existing risk factor findings and provide additional insight into the degree to which risk factors behave as independent morbidities or as interacting comorbidities with other risk factors. These results highlight potential avenues for risk factor analyses of complex outcomes using network analysis.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/37128429/"
+}

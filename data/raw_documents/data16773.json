@@ -1,0 +1,6 @@
+{
+  "pmid": "41438920",
+  "title": "Brain Implants in the Age of Artificial Intelligence.",
+  "abstract": "Brain implants are routinely used to treat movement disorders and other network disorders such as obsessive-compulsive disorder. Closed-loop intracranial brain stimulation systems can now detect neural biomarkers of disease in real-time and therapeutically stimulate the brain based on these signals. Research devices can measure neural data on the order of single neurons and transform these data, via machine learning algorithms, into cursor movements and keyboard clicks, so that a quadriplegic patient can control a robotic arm. It is still a challenge to find the important brain signals of interest, that encode a patient's intentions or needs. Furthermore, the ethics of developing devices that allow for human cognitive and physical enhancement should be a part of societal discussion. The hope is that artificial intelligence (AI) will continue to advance neurotechnology's role in human health.",
+  "disease": "epilepsy"
+}

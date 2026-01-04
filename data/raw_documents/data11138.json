@@ -1,0 +1,6 @@
+{
+  "pmid": "41360788",
+  "title": "Comprehensive profiling of smoke-induced T cells in mice implicates clonal γδT17 cells as a hallmark of COPD.",
+  "abstract": "The mechanisms of the chronic inflammatory response in smoking-induced chronic obstructive pulmonary disease (COPD) remain unclear, with limited understanding of T cell responses to smoke exposure in lung tissue and circulation. We characterized the alterations in T cells associated with smoke exposure using single-cell RNA sequencing, TCR sequencing, and flow cytometry-based validation. Our experiments show significant recruitment of T cells within the airways, exhibiting a multifaceted immune profile, augmented TCR clonal diversity, and a prolonged CDR3 length. Notably, smoke-induced γδ T cells, particularly clonally expanded γ6δ4 T cells with high Il17a expression, accumulate in smoke-induced airway inflammation. Despite arising in inflammation, these cells function in a protective manner: γδT17 deficiency worsens smoke-induced lung injury, whereas adoptive transfer of γδT17 cells restores tissue protection in smoke-exposed lungs over time. Here, we show γδT17 cells as a potential target for addressing smoke-induced immune dysfunctions, providing alternative avenues for early prevention and treatment of COPD.",
+  "disease": "chronic obstructive pulmonary disease"
+}

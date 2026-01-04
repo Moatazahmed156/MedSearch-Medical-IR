@@ -1,0 +1,9 @@
+{
+    "title": "Automated classification of ulcerative lesions in small intestine using densenet with channel attention and residual dilated blocks.",
+    "doc_id": "38316034",
+    "writer": "Guo X",
+    "year": "2024",
+    "summary": "Objective. Ulceration of the small intestine, which has a high incidence, includes Crohn's disease (CD), intestinal tuberculosis (ITB), primary small intestinal lymphoma (PSIL), cryptogenic multifocal ulcerous stenosing enteritis (CMUSE), and non-specific ulcer …",
+    "abstract": "Objective. Ulceration of the small intestine, which has a high incidence, includes Crohn's disease (CD), intestinal tuberculosis (ITB), primary small intestinal lymphoma (PSIL), cryptogenic multifocal ulcerous stenosing enteritis (CMUSE), and non-specific ulcer (NSU). However, the ulceration morphology can easily be misdiagnosed through enteroscopy.Approach. In this study, DRCA-DenseNet169, which is based on DenseNet169, with residual dilated blocks and a channel attention block, is proposed to identify CD, ITB, PSIL, CMUSE, and NSU intelligently. In addition, a novel loss function that incorporates dynamic weights is designed to enhance the precision of imbalanced datasets with limited samples. DRCA-Densenet169 was evaluated using 10883 enteroscopy images, including 5375 ulcer images and 5508 normal images, which were obtained from the Shanghai Changhai Hospital.Main results. DRCA-Densenet169 achieved an overall accuracy of 85.27% ± 0.32%, a weighted-precision of 83.99% ± 2.47%, a weighted-recall of 84.36% ± 0.88% and a weighted-F1-score of 84.07% ± 2.14%.Significance. The results demonstrate that DRCA-Densenet169 has high recognition accuracy and strong robustness in identifying different types of ulcers when obtaining immediate and preliminary diagnoses.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/38316034/"
+}

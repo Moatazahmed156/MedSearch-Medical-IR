@@ -1,0 +1,6 @@
+{
+  "pmid": "41468642",
+  "title": "RAB18 is upregulated in colorectal cancer and promotes tumor progression.",
+  "abstract": "RAB18 (Ras-related protein Rab-18) plays a crucial role in diverse cellular processes including autophagy, secretion and lipid droplet biogenesis. Recent studies suggest that RAB18 participates in tumorigenesis and progression. However, its role in colorectal cancer (CRC) is unclear. In this study, we observed significantly increased RAB18 expression in CRC tissues compared with paired normal tissues, which was associated with poor prognosis. RAB18 knockdown significantly inhibited cell proliferation, cell cycle progression, migration and invasion in CRC cells. Moreover, silencing RAB18 expression suppressed tumorigenesis in a mouse xenografted CRC model. Mechanistically, RNA-seq and pathway enrichment analyses suggested that RAB18 knockdown induced p53 pathway activation and decreased levels of E2F Targets and G2M checkpoint genes. Further validation identified stratifin (SFN) and mouse double minute 2 (MDM2) as potential downstream mediators of RAB18's pro-tumorigenic effects in CRC. Collectively, our findings demonstrate the oncogenic role of RAB18 in CRC and highlight its potential as both a prognostic biomarker and a therapeutic target.",
+  "disease": "colorectal cancer"
+}

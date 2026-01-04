@@ -1,0 +1,9 @@
+{
+    "title": "Analysis of Stress Concentration in Functionally Graded Plates with Linearly Increasing Young's Modulus.",
+    "doc_id": "37959479",
+    "writer": "Abdalla HMA",
+    "year": "2023",
+    "summary": "In this article, the strain and stress analyses of functionally graded plates with circular holes that are subject to a uniaxial far-field traction load are analytically considered. The Young's modulus is assumed to vary linearly along the radial direction around the hole. …",
+    "abstract": "In this article, the strain and stress analyses of functionally graded plates with circular holes that are subject to a uniaxial far-field traction load are analytically considered. The Young's modulus is assumed to vary linearly along the radial direction around the hole. The adoption of such a type of inhomogeneity variation can be justified as follows. Firstly, and among all the possible variations of stiffness, the linear one is indeed the simplest inhomogeneity distribution. Surprisingly however, according to our knowledge extent, the associated elastic fields were not yet addressed in the literature. Secondly, a linearly varying stiffness could reasonably imply a remarkable advantage from a technological point of view. In fact, unlike nonlinearly varying stiffness plates, manufacturing routes are only required to handle constant variations throughout the radial domain. After recalling the basic equations for plane stress elasticity, the displacement, strain, and stress fields around the hole were numerically tackled and discussed for different stiffness ratios. A comparison was also carried out with other Young's modulus distributions that have been commonly employed in the literature.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/37959479/"
+}

@@ -1,0 +1,9 @@
+{
+    "title": "MicroRNA205: A Key Regulator of Cardiomyocyte Transition from Proliferative to Hypertrophic Growth in the Neonatal Heart.",
+    "doc_id": "38396885",
+    "writer": "Weldrick JJ",
+    "year": "2024",
+    "summary": "The mammalian myocardium grows rapidly during early development due to cardiomyocyte proliferation, which later transitions to cell hypertrophy to sustain the heart's postnatal growth. Although this cell transition in the postnatal heart is consistently prese …",
+    "abstract": "The mammalian myocardium grows rapidly during early development due to cardiomyocyte proliferation, which later transitions to cell hypertrophy to sustain the heart's postnatal growth. Although this cell transition in the postnatal heart is consistently preserved in mammalian biology, little is known about the regulatory mechanisms that link proliferation suppression with hypertrophy induction. We reasoned that the production of a micro-RNA(s) could serve as a key bridge to permit changes in gene expression that control the changed cell fate of postnatal cardiomyocytes. We used sequential expression analysis to identify miR205 as a micro-RNA that was uniquely expressed at the cessation of cardiomyocyte growth. Cardiomyocyte-specific miR205 deletion animals showed a 35% increase in heart mass by 3 months of age, with commensurate changes in cell cycle and Hippo pathway activity, confirming miR205's potential role in controlling cardiomyocyte proliferation. In contrast, overexpression of miR205 in newborn hearts had little effect on heart size or function, indicating a complex, probably redundant regulatory system. These findings highlight miR205's role in controlling the shift from cardiomyocyte proliferation to hypertrophic development in the postnatal period.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/38396885/"
+}

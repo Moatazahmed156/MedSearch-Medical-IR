@@ -1,0 +1,6 @@
+{
+  "pmid": "41399171",
+  "title": "Predicting Hypoproteinemia Among Patients Undergoing Maintenance Hemodialysis: A Development and Validation Study Based on Machine Learning Algorithms.",
+  "abstract": "Maintenance hemodialysis is a common alternative therapy for patients with end-stage renal disease (ESRD). We designed a prediction model of hypoproteinemia among the patients based on machine learning algorithms. The \"hypoproteinemia risk factor data\" were obtained, and univariate analysis was used to screen independent risk factors as prediction variables. A total of 468 patients were recruited. The incidence of hypoproteinemia in total was 30.8%. A difference between the hypoproteinemia and non-hypoproteinemia groups was significant in 18 aspects, including age, weight, dialysis duration, and dialysis frequency. In the training set, after hyper-parameter adjustment by k-fold (",
+  "disease": "chronic kidney disease"
+}

@@ -1,0 +1,6 @@
+{
+  "pmid": "41472234",
+  "title": "Switchable Retargeting of Lentiviral Vectors Through a VSV-G-Binding Adapter Molecule.",
+  "abstract": "Selective gene delivery to defined cell populations remains one of the key challenges in lentiviral vector-based gene therapy. The vesicular stomatitis virus glycoprotein (VSV-G) confers high infectivity but lacks cell-type specificity because of the ubiquitous expression of its receptor, LDLR. To enable modular, receptor-specific targeting while retaining the production efficiency of VSV-G-pseudotyped vectors, we designed a bispecific adapter, 929-B6, comprising a VSV-G-binding nanobody and an ERBB2-binding DARPin 9.29. Anti-VSV-G nanobodies were isolated from an alpaca immune library and screened in cell-based pseudoreceptor assays to identify the optimal binder (VSVG-B6). The resulting adapter was evaluated with receptor-ablated (VSV-G",
+  "disease": "breast cancer"
+}

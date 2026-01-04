@@ -1,0 +1,6 @@
+{
+  "pmid": "41437120",
+  "title": "Microfluidic platform for understanding Parkinson's disease and α-synuclein conformation.",
+  "abstract": "Microfluidic systems are an innovative engineering solution that is increasingly being used in a wide range of scientific fields. These systems use fluids in microchannels (1 to 300 microns) to analyze extremely small volumes of sample and reagent, allowing precise delivery and mixing while maintaining accurate results. Parkinson's disease (PD) poses significant diagnostic challenges, with early detection being critical to improved treatment outcomes. A key pathological feature of PD is the presence of Lewy bodies composed of α-synuclein (αSyn) fibrils. Recent research has shown that αSyn oligomers can be toxic and contribute to neuronal loss. Therefore, microfluidics offers a promising approach for the diagnosis of different stages of αSyn pathology. This review comprehensively analyzes the application of microfluidics in single-cell analysis and protein aggregation studies. We discuss the concept of lab-on-a-chip analysis and examine different substrates for αSyn detection, citing relevant studies and expected protein concentrations and their correlations with disease progression and severity.",
+  "disease": "parkinson disease"
+}

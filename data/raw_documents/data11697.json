@@ -1,0 +1,6 @@
+{
+  "pmid": "41471457",
+  "title": "Electrochemical Immunosensor Based on CS@AuNPs/ZIF-8/rGO Composite for Detecting CA15-3 in Human Serum.",
+  "abstract": "An electrochemical immunosensor was fabricated to identify CA15-3, a biomarker for breast cancer (BC). A composite sensor substrate made of \"zeolitic imidazolate framework-8\" (ZIF-8) and \"reduced graphene oxide\" (rGO) was chosen and its conductivity was further improved by the addition of chitosan (CS)-doped gold nanoparticles (AuNPs). The CS@AuNPs are able to conjugate with antibodies via the strong Au-S interaction, which offers multiple active sites for antibody immobilization and enhances the sensor performance. This immunosensor is capable of ultrasensitive detection of CA15-3 by specific antigen-antibody -interactions. In healthy people, normal serum CA15-3 is up to 25 U/mL. Under optimized experimental conditions, the alteration in the signal intensity measured by the sensor was related to the CA15-3 activity. The quantitative relationship was linear over 0.001-400 U/mL with a limit of detection (LOD) of 0.0031 U/mL at a \"signal-to-noise ratio\" (S/N) of 3 and a \"correlation coefficient\" (r",
+  "disease": "breast cancer"
+}

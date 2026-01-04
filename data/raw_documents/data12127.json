@@ -1,0 +1,6 @@
+{
+  "pmid": "41469102",
+  "title": "Estimation of Tumor Control Probability of Carbon Ion Radiotherapy Using Cancer Type-specific Sensitivity Data.",
+  "abstract": "This study aimed to evaluate whether the predictive performance of tumor control probability (TCP) by carbon ion radiotherapy (CIRT) could be improved by incorporating cancer type-specific carbon ion sensitivity data obtained from non-small cell lung cancer (NSCLC). A TCP model based on the linear-quadratic (LQ) formalism and fractionated irradiation was employed, with σ defined as an index of inter-tumor heterogeneity on radiosensitivity. The LQ model parameters α and β for NSCLC were obtained from 13 cell lines subjected to carbon ion irradiation under clinically relevant conditions, followed by clonogenic assays. The human salivary gland (HSG) cell line was used as a control. The α and β values were incorporated into the TCP model, and agreement with the clinical data ( When σ was set to 0.20, the NSCLC-derived TCP curve showed better agreement with the clinical data than the HSG cell-derived TCP curve (R Incorporation of cancer type-specific carbon ion sensitivity data can improve the predictive performance of TCP modeling compared with the conventional HSG cell-based approach.",
+  "disease": "lung cancer"
+}

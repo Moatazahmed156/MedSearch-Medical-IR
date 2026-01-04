@@ -1,0 +1,6 @@
+{
+  "pmid": "41396313",
+  "title": "Cross-domain Fisher criterion for remote therapeutic efficacy assessment of Parkinson's disease via speech recognition.",
+  "abstract": "To address the limitation that prevailing cross-domain Parkinson's disease (PD) speech recognition methods mitigate small-sample issues via distribution matching while disregarding substantial feature overlap, we introduce the cross-domain Fisher criterion (CFC). CFC reformulates inter- and intra-class scatter matrices to align with classifier properties: the former enhances separation among heterogeneous target-domain samples, whereas the latter compactly aggregates homologous cross-domain samples around the target centroid and suppresses inter-domain disparities. Numerous experimental results demonstrate that CFC is an effective, efficient, and robust method for PD speech recognition, offering a promising approach for integration into PD speech-based remote rehabilitation and monitoring systems..",
+  "disease": "parkinson disease"
+}

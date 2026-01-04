@@ -1,0 +1,9 @@
+{
+    "title": "Signatures of the autonomic nervous system and the heart's pacemaker cells in canine electrocardiograms and their applications to humans.",
+    "doc_id": "32561798",
+    "writer": "Rosenberg AA",
+    "year": "2020",
+    "summary": "Heart rate and heart rate variability (HRV) are mainly determined by the autonomic nervous system (ANS), which interacts with receptors on the sinoatrial node (SAN; the heart's primary pacemaker), and by the \"coupled-clock\" system within the SAN cells. …",
+    "abstract": "Heart rate and heart rate variability (HRV) are mainly determined by the autonomic nervous system (ANS), which interacts with receptors on the sinoatrial node (SAN; the heart's primary pacemaker), and by the \"coupled-clock\" system within the SAN cells. HRV changes are associated with cardiac diseases. However, the relative contributions of the ANS and SAN to HRV are not clear, impeding effective treatment. To discern the SAN's contribution, we performed HRV analysis on canine electrocardiograms containing basal and ANS-blockade segments. We also analyzed human electrocardiograms of atrial fibrillation and heart failure patients, as well as healthy aged subjects. Finally, we used a mathematical model to simulate HRV under decreased \"coupled-clock\" regulation. We found that (a) in canines, the SAN and ANS contribute mainly to long- and short-term HRV, respectively; (b) there is evidence suggesting a similar relative SAN contribution in humans; (c) SAN features can be calculated from beat-intervals obtained in-vivo, without intervention; (d) ANS contribution can be modeled by sines embedded in white noise; (e) HRV changes associated with cardiac diseases and aging can be interpreted as deterioration of both SAN and ANS; and (f) SAN clock-coupling can be estimated from changes in HRV. This may enable future non-invasive diagnostic applications.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/32561798/"
+}

@@ -1,0 +1,6 @@
+{
+  "pmid": "41385612",
+  "title": "Microscale maps of bursting dynamics across human hippocampal slices from epilepsy patients.",
+  "abstract": "Neuronal firing patterning in the dentate gyrus of epilepsy patients remains unknown at the microcircuit level. Advancements in high-density CMOS-based microelectrode arrays can be harnessed to study network activity with unprecedented spatial and temporal resolution. We use novel computational methods with high-density electrophysiology recordings to spatially map network activity of human hippocampal brain slices from six patients with mesial temporal lobe epilepsy. Two slices from the dentate gyrus exhibited synchronous bursting activity in the presence of low magnesium media with kainic acid, representative of seizure-like behavior. We bridged microscale circuit dynamics with alterations in theta oscillations at the network scale. Future studies may apply this approach to spatially elucidate functional networks and their possible role in seizures.",
+  "disease": "epilepsy"
+}

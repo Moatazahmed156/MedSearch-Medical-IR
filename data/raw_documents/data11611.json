@@ -1,0 +1,6 @@
+{
+  "pmid": "41450030",
+  "title": "Targeting the Zbp1-Ripk3 axis attenuates ischemic neuronal injury by suppressing PANoptosis.",
+  "abstract": "Cerebral ischemia-reperfusion injury (CIRI) significantly exacerbates neuronal damage following ischemic stroke. Emerging evidence implicates PANoptosis, a novel inflammatory form of programmed cell death, in CIRI pathogenesis. However, the role of Z-DNA-binding protein 1 (Zbp1), a key regulator of PANoptosis and innate immune responses, remains poorly understood in this context. Here, we establish a middle cerebral artery occlusion/reperfusion (MCAO/R) mouse model and an oxygen-glucose deprivation/re-oxygenation (OGD/R) model in which HT-22 cells are used to simulate CIRI and investigate the effects of Zpb1. Western blot analysis is performed to assess Zbp1 and PANoptosis-related protein expressions. Cell viability and death are evaluated using Hoechst 33342 staining and Calcein AM/PI assays, and the cerebral infarct volume is quantified using 2,3,5-triphenyltetrazolium chloride staining. Immunoprecipitation and mass spectrometry identify Ripk3 as a potential downstream effector of Zbp1. Furthermore, Zbp1 and PANoptosis-related proteins are significantly upregulated following OGD/R treatment. ",
+  "disease": "stroke"
+}

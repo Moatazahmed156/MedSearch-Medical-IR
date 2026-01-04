@@ -1,0 +1,9 @@
+{
+    "title": "Bi-dimensional principal gene feature selection from big gene expression data.",
+    "doc_id": "36477666",
+    "writer": "Hou X",
+    "year": "2022",
+    "summary": "Gene expression sample data, which usually contains massive expression profiles of genes, is commonly used for disease related gene analysis. The selection of relevant genes from huge amount of genes is always a fundamental process in applications of  …",
+    "abstract": "Gene expression sample data, which usually contains massive expression profiles of genes, is commonly used for disease related gene analysis. The selection of relevant genes from huge amount of genes is always a fundamental process in applications of gene expression data. As more and more genes have been detected, the size of gene expression data becomes larger and larger; this challenges the computing efficiency for extracting the relevant and important genes from gene expression data. In this paper, we provide a novel Bi-dimensional Principal Feature Selection (BPFS) method for efficiently extracting critical genes from big gene expression data. It applies the principal component analysis (PCA) method on sample and gene domains successively, aiming at extracting the relevant gene features and reducing redundancies while losing less information. The experimental results on four real-world cancer gene expression datasets show that the proposed BPFS method greatly reduces the data size and achieves a nearly double processing speed compared to the counterpart methods, while maintaining better accuracy and effectiveness.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/36477666/"
+}

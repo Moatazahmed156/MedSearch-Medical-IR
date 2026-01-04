@@ -1,0 +1,6 @@
+{
+  "pmid": "41452325",
+  "title": "The impact of non-motor symptoms on physical activity in Parkinson's disease.",
+  "abstract": "To examine how specific non-motor symptoms (NMS) are associated with physical activity engagement in individuals with Parkinson's disease (PD). Data from 24,813 individuals with PD were obtained from the Fox Insight dataset (Michael J. Fox Foundation). Variables included sex, age, disease duration, Physical Activity Scale for the Elderly (PASE), and Non-Motor Symptoms Questionnaire (NMSQ). Ridge regression and linear modeling were used to assess associations between NMS and PASE scores. Delusions, falls, apathy, leg swelling, hallucinations, bowel incontinence, depressive mood, dysphagia, difficulty concentrating, and constipation were significantly associated with lower PASE scores. Female sex, older age, and longer disease duration were also linked to reduced physical activity. The model explained 10.51% of the variance in PASE scores. Specific NMS are linked to reduced physical activity in PD. Targeting these symptoms may help increase activity levels and improve quality of life.",
+  "disease": "parkinson disease"
+}

@@ -1,0 +1,6 @@
+{
+  "pmid": "41435829",
+  "title": "The Alzheimer's disease risk genes MS4A4A and MS4A6A cooperate to negatively regulate TREM2 and microglia states.",
+  "abstract": "Genetic variations in MS4A4A and MS4A6ATriggering receptor expressed on myeloid cells 2 (TREM2) are linked to the regulation of cerebrospinal-fluid-soluble TREM2 levels and are associated with Alzheimer's disease (AD) risk and progression. By modulating MS4A4A using knockout, overexpression, and degrading antibodies in macrophages, microglia, non-human primates (NHPs), and a mouse model of amyloid pathology, we provide evidence that MS4A4A and MS4A6A are negative regulators of both the transmembrane and soluble TREM2 proteins. Additionally, MS4A4A limits microglia viability, phagocytosis, and lysosomal function, processes that contribute to disease pathology. Mechanistically, we find that MS4A4A restrains TREM2 by an indirect mechanism: MS4A4A interacts with MS4A6A and protects it from degradation. MS4A6A, in turn, forms a complex with and blocks the co-receptor DNAX-activating protein of 12 kDa (DAP12), which modulates the levels of TREM2 and other receptors. Taken together, the data indicate that MS4A4A and MS4A6A are cooperative post-transcriptional negative regulators of TREM2 and microglial function as well as potential drug targets for AD.",
+  "disease": "alzheimer disease"
+}

@@ -1,0 +1,6 @@
+{
+  "pmid": "41469111",
+  "title": "Adenylate Kinase 2 Promotes Tumor Progression in Small-cell Lung Cancer ",
+  "abstract": "Small-cell lung cancer (SCLC) is an aggressive malignancy with limited therapeutic progress. Adenylate kinase 2 (AK2), a mitochondrial isoenzyme involved in nucleotide metabolism and apoptosis regulation, has been implicated in tumorigenesis, but its role in SCLC remains undefined. This study aimed to investigate the oncogenic function of AK2 in SCLC and its regulatory mechanism through the PI3K/AKT/mTOR signaling pathway. AK2 expression was analyzed using the GSE60052 dataset and validated using western blotting in SCLC cell lines. Functional assays, including MTT, proliferation, colony formation, and phospho-kinase array profiling, were performed following siRNA-mediated AK2 knockdown in HCC-33 and H417 cells. Western blotting was used to confirm pathway alterations.  AK2 was markedly up-regulated in SCLC tissues and cell lines. Silencing AK2 significantly inhibited proliferation and clonogenic growth of SCLC cells and reduced tumorigenicity  AK2 acts as an oncogenic driver in SCLC, promoting tumor progression through PI3K/AKT/mTOR signaling. Targeting AK2 may represent a novel therapeutic strategy and predictive biomarker in SCLC management.",
+  "disease": "lung cancer"
+}

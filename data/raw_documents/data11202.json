@@ -1,0 +1,6 @@
+{
+  "pmid": "41336017",
+  "title": "Exacerbation Risk and Quality of Life Prediction for Chronic Obstructive Pulmonary Disease Patients with Complex Chronic Conditions.",
+  "abstract": "Machine learning modeling using clinical data has emerged as an important research topic in recent years. Many stakeholders could benefit from drawing meaningful insights from patient data by means of support for the clinical personnel in disease management and for patients in coping with their disease. This work presents a machine learning framework for the prediction of exacerbation events and quality of life related scores. The underlying dataset contains clinical and self-reported real-world data from patients with chronic obstructive pulmonary disease. The resulting machine learning models have a reliable performance while model explanations provide interesting clinical conclusions.Clinical relevance- Estimating exacerbation risk and predicting quality of life applying machine learning models can contribute to better disease understanding and successively facilitate disease management for both clinicians and patients with the integration of risk indicators in clinical practice.",
+  "disease": "chronic obstructive pulmonary disease"
+}

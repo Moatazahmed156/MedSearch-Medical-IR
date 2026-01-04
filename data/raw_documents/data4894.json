@@ -1,0 +1,9 @@
+{
+    "title": "Endometrial receptivity evaluation using hysteroscopic endometrial gland image recognition.",
+    "doc_id": "36942487",
+    "writer": "Zheng S",
+    "year": "2023",
+    "summary": "We investigated the endometrial gland count on hysteroscopic endometrial images in patients undergoing in vitro fertilization and embryo transfer (IVF-ET) to evaluate endometrial receptivity and predict pregnancy outcomes. ...Uterine cavity morphological data …",
+    "abstract": "We investigated the endometrial gland count on hysteroscopic endometrial images in patients undergoing in vitro fertilization and embryo transfer (IVF-ET) to evaluate endometrial receptivity and predict pregnancy outcomes. Since endometrial receptivity and endometrial glands density are strongly influenced by numerous factors, we selected 98 patients who underwent frozen-thawed embryo transfer (FET) in a natural cycle. Within 1-3 menstrual cycles before embryo transfer, hysteroscopic exploration was performed 3-7 days after ovulation. Uterine cavity morphological data were measured, and hysteroscopic endometrial imaging was performed. An endometrial gland opening labelling algorithm was used to recognize and count the endometrial glands. Patients were divided into pregnancy and non-pregnancy groups based on ET outcomes. No significant differences were noted in patients' general information and laboratory parameters, including age, years of infertility, body mass index, anti-Müllerian hormone, endometrial thickness and embryos transferred between the two groups. The number of endometrial glands in the pregnancy group was higher than that in the non-pregnancy group (p < 0.05). Hysteroscopic examination of the uterine cavity and gland counting analysis of images using image recognition software can better indicate endometrial receptivity and improve pregnancy outcomes.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/36942487/"
+}

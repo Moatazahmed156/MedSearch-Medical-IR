@@ -1,0 +1,6 @@
+{
+  "pmid": "41453423",
+  "title": "Micellar co-delivery of KRAS-mutant inhibitors and TLR7/8 agonists synergizes targeted therapy and immunotherapy in lung cancer.",
+  "abstract": "KRAS-mutant lung cancers pose significant clinical challenges. Despite promising advance in covalent KRAS G12C inhibitors, many patients with G12C mutation reveal limited responses, due to rapid emergence of resistance and heterogeneous nature of KRAS mutations. Here, we report a reduction-sensitive micellar system for the codelivery of a KRAS G12C inhibitor (adagrasib, KI) and a TLR7/8 agonist (R848, TA) (mKITA), aiming to synchronize direct oncogenic signaling blockade with potent immune modulation within tumor microenvironment (TME). In KRAS G12C-mutant lung cancer LLC cells, mKITA displayed enhanced autophagy and apoptosis, inducing marked immunogenic cell death at an optimal KI/TA molar ratio of 8/1. This in turn, stimulated dendritic cell (DC) maturation, proinflammatory cytokine secretion, and robust T cell activation-manifesting as a pronounced in situ vaccine effect. In an orthotopic LLC model, systemic administration of mKITA brought about significant survival benefits, and remodeled the suppressive TME by depleting immunosuppressive MDSCs, Tregs and M2M, and recruiting effector immune subsets (DCs, IFN-γ",
+  "disease": "lung cancer"
+}

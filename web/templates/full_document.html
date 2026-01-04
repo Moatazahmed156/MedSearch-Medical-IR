@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ doc_id }} - MedSearch</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Outfit:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --primary: #0A6EBD;
+            --primary-dark: #084F8A;
+            --secondary: #00B4A4;
+            --accent: #10B981;
+            --bg-primary: #F8FAFC;
+            --bg-secondary: #EFF6FF;
+            --bg-card: #FFFFFF;
+            --text-primary: #0F172A;
+            --text-secondary: #475569;
+            --text-tertiary: #94A3B8;
+            --border: #E2E8F0;
+            --shadow-md: 0 4px 12px rgba(10, 110, 189, 0.08);
+            --shadow-lg: 0 10px 24px rgba(10, 110, 189, 0.1);
+            --shadow-xl: 0 20px 40px rgba(10, 110, 189, 0.12);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: linear-gradient(180deg, #EFF6FF 0%, #F8FAFC 100%);
+            min-height: 100vh;
+            color: var(--text-primary);
+            line-height: 1.6;
+        }
+
+        /* Navigation */
+        .top-nav {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            padding: 16px 0;
+            box-shadow: var(--shadow-md);
+        }
+
+        .nav-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 24px;
+            display: flex;
+            align-items: center;
+            gap: 14px;
+        }
+
+        .logo-icon {
+            font-size: 2rem;
+        }
+
+        .logo-text h1 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: white;
+            letter-spacing: -0.3px;
+            margin: 0;
+        }
+
+        .logo-text p {
+            font-size: 0.75rem;
+            color: rgba(255, 255, 255, 0.85);
+            font-weight: 500;
+            letter-spacing: 0.5px;
+            margin: 0;
+        }
+
+        /* Container */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 32px 24px;
+        }
+
+        /* Header */
+        .document-header {
+            background: white;
+            border-radius: 24px;
+            padding: 40px;
+            margin-bottom: 24px;
+            box-shadow: var(--shadow-xl);
+            text-align: center;
+            border: 1px solid var(--border);
+            animation: fadeInDown 0.6s ease-out;
+        }
+
+        @keyframes fadeInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .doc-icon {
+            font-size: 4rem;
+            margin-bottom: 16px;
+            filter: drop-shadow(0 4px 12px rgba(10, 110, 189, 0.15));
+        }
+
+        .document-header h1 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 2.2rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 12px;
+            letter-spacing: -0.5px;
+        }
+
+        .doc-id-badge {
+            display: inline-block;
+            background: var(--bg-secondary);
+            color: var(--primary);
+            padding: 10px 24px;
+            border-radius: 24px;
+            font-weight: 700;
+            font-size: 0.95rem;
+            border: 1px solid rgba(10, 110, 189, 0.2);
+        }
+
+        /* Actions */
+        .actions-bar {
+            background: white;
+            border-radius: 20px;
+            padding: 20px 28px;
+            margin-bottom: 24px;
+            box-shadow: var(--shadow-md);
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+            justify-content: center;
+            border: 1px solid var(--border);
+            animation: fadeInUp 0.6s ease-out 0.1s both;
+        }
+
+        .btn {
+            padding: 14px 28px;
+            border-radius: 12px;
+            text-decoration: none;
+            font-weight: 700;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            cursor: pointer;
+            font-size: 0.95rem;
+            font-family: 'Inter', sans-serif;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            color: white;
+            border: none;
+            box-shadow: var(--shadow-md);
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-lg);
+        }
+
+        .btn-secondary {
+            background: white;
+            color: var(--primary);
+            border: 2px solid var(--primary);
+        }
+
+        .btn-secondary:hover {
+            background: var(--primary);
+            color: white;
+            transform: translateY(-2px);
+        }
+
+        /* Document Content */
+        .document-content {
+            background: white;
+            border-radius: 24px;
+            padding: 48px;
+            box-shadow: var(--shadow-xl);
+            border: 1px solid var(--border);
+            animation: fadeInUp 0.6s ease-out 0.2s both;
+        }
+
+        .section {
+            margin-bottom: 40px;
+        }
+
+        .section:last-child {
+            margin-bottom: 0;
+        }
+
+        .section-label {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            color: var(--primary);
+            font-size: 0.85rem;
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            margin-bottom: 14px;
+        }
+
+        .section-label::before {
+            content: '';
+            width: 5px;
+            height: 24px;
+            background: linear-gradient(180deg, var(--secondary) 0%, var(--accent) 100%);
+            border-radius: 3px;
+        }
+
+        .section-content {
+            color: var(--text-secondary);
+            font-size: 1.05rem;
+            line-height: 1.9;
+        }
+
+        .section-content.title {
+            font-family: 'Outfit', sans-serif;
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            line-height: 1.5;
+            letter-spacing: -0.5px;
+        }
+
+        .section-content.abstract {
+            text-align: justify;
+            font-size: 1.1rem;
+            color: var(--text-secondary);
+            line-height: 2;
+        }
+
+        .section-content a {
+            color: var(--primary);
+            text-decoration: none;
+            word-break: break-all;
+            border-bottom-style: solid;
+            transition: all 0.2s;
+        }
+
+        .section-content a:hover {
+            color: var(--primary-dark);
+        }
+
+        .divider {
+            height: 2px;
+            background: linear-gradient(to right, transparent 0%, var(--border) 20%, var(--border) 80%, transparent 100%);
+            margin: 36px 0;
+        }
+
+        /* Metadata Grid */
+        .metadata-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 24px;
+            background: linear-gradient(135deg, var(--bg-secondary) 0%, rgba(239, 246, 255, 0.4) 100%);
+            padding: 32px;
+            border-radius: 16px;
+            border: 1px solid rgba(10, 110, 189, 0.15);
+        }
+
+        .metadata-item {
+            min-width: 0;
+        }
+
+        .metadata-item .section-label {
+            font-size: 0.75rem;
+            margin-bottom: 8px;
+        }
+
+        .metadata-item .section-label::before {
+            width: 4px;
+            height: 18px;
+        }
+
+        .metadata-item .section-content {
+            font-size: 1.08rem;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        /* Empty State */
+        .empty-state {
+            text-align: center;
+            padding: 80px 40px;
+        }
+
+        .empty-icon {
+            font-size: 5rem;
+            margin-bottom: 20px;
+            opacity: 0.4;
+        }
+
+        .empty-text {
+            color: var(--text-tertiary);
+            font-size: 1.2rem;
+        }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            margin-top: 32px;
+        }
+
+        .footer-link {
+            display: inline-block;
+            padding: 16px 40px;
+            background: white;
+            color: var(--primary);
+            text-decoration: none;
+            border-radius: 12px;
+            font-weight: 700;
+            transition: all 0.3s;
+            box-shadow: var(--shadow-md);
+            border: 1px solid var(--border);
+            font-size: 1.05rem;
+        }
+
+        .footer-link:hover {
+            background: var(--primary);
+            color: white;
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-lg);
+        }
+
+        /* Print */
+        @media print {
+            body {
+                background: white;
+            }
+
+            .top-nav,
+            .actions-bar,
+            .footer,
+            .document-header {
+                display: none !important;
+            }
+
+            .container {
+                padding: 0;
+                margin: 0;
+            }
+
+            .document-content {
+                box-shadow: none;
+                border: none;
+                border-radius: 0;
+                padding: 20px;
+            }
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .document-content {
+                padding: 32px 24px;
+            }
+
+            .document-header {
+                padding: 32px 24px;
+            }
+
+            .doc-icon {
+                font-size: 3rem;
+            }
+
+            .document-header h1 {
+                font-size: 1.8rem;
+            }
+
+            .section-content.title {
+                font-size: 1.6rem;
+            }
+
+            .section-content {
+                font-size: 1rem;
+            }
+
+            .section-content.abstract {
+                font-size: 1.05rem;
+            }
+
+            .actions-bar {
+                flex-direction: column;
+            }
+
+            .btn {
+                width: 100%;
+                justify-content: center;
+            }
+
+            .metadata-grid {
+                grid-template-columns: 1fr;
+                gap: 20px;
+                padding: 24px 20px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav class="top-nav">
+        <div class="nav-content">
+            <div class="logo-icon">🏥</div>
+            <div class="logo-text">
+                <h1>MedSearch</h1>
+                <p>MEDICAL INFORMATION RETRIEVAL</p>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="container">
+        <!-- Document Header -->
+        <div class="document-header">
+            <div class="doc-icon">📄</div>
+            <h1>Medical Research Document</h1>
+            <div class="doc-id-badge">ID: {{ doc_id }}</div>
+        </div>
+
+        <!-- Actions Bar -->
+        <div class="actions-bar">
+            <a href="/?query={{ query }}" class="btn btn-primary">
+                ← Back to Results
+            </a>
+            {% if metadata and metadata.link %}
+            <a href="{{ metadata.link }}" class="btn btn-secondary" target="_blank">
+                🔗 View on PubMed
+            </a>
+            {% endif %}
+            <a href="javascript:window.print()" class="btn btn-secondary">
+                🖨️ Print Document
+            </a>
+        </div>
+
+        <!-- Document Content -->
+        <div class="document-content">
+            {% if metadata %}
+            <!-- Title -->
+            {% if metadata.title %}
+            <div class="section">
+                <div class="section-label">Title</div>
+                <div class="section-content title">{{ metadata.title }}</div>
+            </div>
+            <div class="divider"></div>
+            {% endif %}
+
+            <!-- Metadata -->
+            <div class="metadata-grid">
+                {% if metadata.doc_id %}
+                <div class="metadata-item">
+                    <div class="section-label">PubMed ID</div>
+                    <div class="section-content">{{ metadata.doc_id }}</div>
+                </div>
+                {% endif %}
+
+                {% if metadata.writer %}
+                <div class="metadata-item">
+                    <div class="section-label">Author</div>
+                    <div class="section-content">{{ metadata.writer }}</div>
+                </div>
+                {% endif %}
+
+                {% if metadata.year %}
+                <div class="metadata-item">
+                    <div class="section-label">Publication Year</div>
+                    <div class="section-content">{{ metadata.year }}</div>
+                </div>
+                {% endif %}
+            </div>
+
+            {% if metadata.link %}
+            <div class="divider"></div>
+            <div class="section">
+                <div class="section-label">Source Link</div>
+                <div class="section-content">
+                    <a href="{{ metadata.link }}" target="_blank">{{ metadata.link }}</a>
+                </div>
+            </div>
+            {% endif %}
+
+            <div class="divider"></div>
+
+            <!-- Abstract -->
+            {% if metadata.abstract %}
+            <div class="section">
+                <div class="section-label">Abstract</div>
+                <div class="section-content abstract">{{ metadata.abstract }}</div>
+            </div>
+            {% elif metadata.summary %}
+            <div class="section">
+                <div class="section-label">Summary</div>
+                <div class="section-content abstract">{{ metadata.summary }}</div>
+            </div>
+            {% endif %}
+
+            {% else %}
+            <div class="empty-state">
+                <div class="empty-icon">📭</div>
+                <div class="empty-text">Document metadata not available</div>
+            </div>
+            {% endif %}
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            <a href="/" class="footer-link">🏠 New Search</a>
+        </div>
+    </div>
+</body>
+
+</html>

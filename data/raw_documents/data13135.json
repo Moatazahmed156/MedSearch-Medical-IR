@@ -1,0 +1,6 @@
+{
+  "pmid": "41435810",
+  "title": "Bayesian scalar-on-tensor regression using the Tucker decomposition for sparse spatial modeling.",
+  "abstract": "Modeling with multidimensional arrays, or tensors, often presents a problem due to high dimensionality. In addition, these structures typically exhibit inherent sparsity, requiring the use of regularization methods to properly characterize an association between a tensor covariate and a scalar response. We propose a Bayesian method to efficiently model a scalar response with a tensor covariate using the Tucker tensor decomposition in order to retain the spatial relationship within a tensor coefficient, while reducing the number of parameters varying within the model and applying regularization methods. Simulated data are analyzed to compare the model to recently proposed methods. A neuroimaging analysis using data from the Alzheimer's Data Neuroimaging Initiative shows improved inferential performance compared with other tensor regression methods. Bayesian analysis; tensor decomposition; image analysis; spatial statistics; statistical modeling.",
+  "disease": "alzheimer disease"
+}

@@ -1,0 +1,9 @@
+{
+    "title": "Qualitative Comparison of 2D and 3D Atmospheric Corrosion Detection Methods.",
+    "doc_id": "34209551",
+    "writer": "De Kerf T",
+    "year": "2021",
+    "summary": "In this article, we report the use of a Confocal Laser Scanning Microscope (CLSM) to apply a qualitative assessment of atmospheric corrosion on steel samples. From the CLSM, we obtain high-resolution images, together with a 3D heightmap. The performance of four different s …",
+    "abstract": "In this article, we report the use of a Confocal Laser Scanning Microscope (CLSM) to apply a qualitative assessment of atmospheric corrosion on steel samples. From the CLSM, we obtain high-resolution images, together with a 3D heightmap. The performance of four different segmentation algorithms that use the high-resolution images as input is qualitatively assessed and discussed. A novel 3D segmentation algorithm based on the shape index is presented and compared to the 2D segmentation algorithms. From this analysis, we conclude that there is a significant difference in performance between the 2D segmentation algorithms and that the 3D method can be an added value to the detection of corrosion.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/34209551/"
+}

@@ -1,0 +1,9 @@
+{
+    "title": "An ontology-based review of transgender literature: Revealing a history of medicalization and pathologization.",
+    "doc_id": "34649111",
+    "writer": "Kronk CA",
+    "year": "2021",
+    "summary": "",
+    "abstract": "Objectives:\n        \n      \n      To evaluate the linguistic changes of transgender-related resources prior to 1999 to create a comprehensive dataset of resources using an ontology-derived search system, laying a framework for ontology-based reviews to be used in informatics.\n    \n\n\n          Methods:\n        \n      \n      We analyzed 77 bibliographies and 11 databases for transgender resources published prior to 31 December 1999. We used 858 variants of the term \"transgender\" to identify resources. Individual sources were tagged by subject matter and major conceptual terminology usage. We evaluated the accuracy of a Gender, Sex, and Sexual Orientation (GSSO) ontology-based mechanism on tagging relevant literature searches.\n    \n\n\n          Results:\n        \n      \n      We identified 3,058 sources in 19 languages. Primary subjects covered included surgery, psychology, psychiatry, endocrinology, and sexology. The GSSO-based tagging mechanism correctly tagged 97.7% of MEDLINE resources as transgender-related.\n    \n\n\n          Discussion:\n        \n      \n      The GSSO-based tagging mechanism was more effective than keyword-specific elucidations of terminologically complex literature and was just as effective at manual identification of subjects discussed within resources. Diverse language relating to transgender persons can be identified using the GSSO, which can also be used for structured literature review based on subject matter thus improving research in the area.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/34649111/"
+}

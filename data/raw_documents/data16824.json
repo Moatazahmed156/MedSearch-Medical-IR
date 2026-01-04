@@ -1,0 +1,6 @@
+{
+  "pmid": "41426434",
+  "title": "Variability and predictability in human sleep.",
+  "abstract": "The quality of sleep and its cognitive benefits rely on the cyclic alternance of two distinct sleep stages associated (REM) or not (NREM) with rapid-eye-movements. The ability to predict shifts in sleep stages could help design future interventions in sleep medicine, but it remains unknown how robust the NREM-REM sleep architecture may be for a given individual over many successive nights. We sought to characterize the individual variability and test the predictability of healthy human sleep recorded longitudinally over unprecedented durations (weeks). Based on ultra-long-term sub-scalp electroencephalographic recordings from a newly available, minimally invasive device, we characterized sleep cycles in eight healthy subjects over a median of 30 consecutive days. We first decomposed EEG signals into five frequency bands (δ, θ, α, σ and β) using a multi-taper time-frequency transform. Second, we quantified variability in sleep spectral composition and predictability in sleep stage transitions based on unsupervised and supervised learning methods, respectively. Using dynamic time warping, we quantified the dissimilarity (",
+  "disease": "epilepsy"
+}

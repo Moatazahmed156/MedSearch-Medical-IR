@@ -1,0 +1,9 @@
+{
+    "title": "Systematic study of FIB-induced damage for the high-quality TEM sample preparation.",
+    "doc_id": "38701660",
+    "writer": "Uzuhashi J",
+    "year": "2024",
+    "summary": "An establishment of a solid strategy for a reproducible high-quality sample preparation process is essential to carry out high-quality (S)TEM analysis. ...",
+    "abstract": "Nowadays, a focused Ga ion beam (FIB) with a scanning electron microscopy (SEM) system has been widely used to prepare the thin-foil sample for transmission electron microscopy (TEM) or scanning TEM (STEM) observation. An establishment of a solid strategy for a reproducible high-quality sample preparation process is essential to carry out high-quality (S)TEM analysis. In this work, the FIB damages introduced by Ga+ beam were investigated both experimentally and stopping and range of ions in matter (SRIM) simulation for silicon (Si), gallium nitride (GaN), indium phosphide (InP), and gallium arsenide (GaAs) semiconductors. It has been revealed that experimental investigations of the FIB-induced damage are in good agreement with SRIM simulation by defining the damage as not only \"amorphization\" but also \"crystal distortion\". The systematic evaluation of FIB damages shown in this paper should be indispensable guidance for reliable (S)TEM sample preparation.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/38701660/"
+}

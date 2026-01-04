@@ -1,0 +1,6 @@
+{
+  "pmid": "41468795",
+  "title": "Lactate represses MHC-I antigen presentation via H4K5 lactylation-PRC2 in small cell lung cancer subtype A.",
+  "abstract": "Small cell lung cancer (SCLC) responds poorly to immunotherapy. This study investigates how glycolytic reprogramming drives immune evasion in SCLC by epigenetically suppressing MHC-I mediated antigen presentation. Bioinformatic and murine model studies confirmed SCLC with high ASCL1 expression (SCLC-A) as an immunologically \"cold\" subtype, exhibiting elevated glycolytic activity that was inversely correlated with profoundly suppressed MHC-I pathway activity. High LDHA expression was associated with advanced disease stage and shorter overall survival in patients. In vitro and in vivo studies demonstrated that LDHA knockdown or its pharmacological inhibition restored the expression of MHC-I (H2Db/H2Kb; HLA-ABC) and β2-microglobulin (B2M). This promoted antitumor immunity, increasing CD4 Our work uncovers the LDHA-H4K5la-PRC2 axis as a novel metabolic-epigenetic pathway that suppresses antigen presentation in SCLC-A. Targeting this axis with an LDHA inhibitor effectively sensitizes SCLC to anti-PD-1 therapy, representing a promising strategy to overcome immunotherapy resistance.",
+  "disease": "lung cancer"
+}

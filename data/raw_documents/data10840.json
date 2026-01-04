@@ -1,0 +1,6 @@
+{
+  "pmid": "41386231",
+  "title": "Innate type 2 lymphocytes trigger an inflammatory switch in alveolar macrophages.",
+  "abstract": "Tissue-resident alveolar macrophages (trAMs) safeguard gas exchange by restraining inflammation. Compared with recruited alveolar macrophages (recAMs), trAMs are considered more immunoregulatory and resilient to inflammatory reprogramming. Using a mouse model enabling selective trAM depletion and replacement, we uncovered a pro-inflammatory role for trAMs during type 2 immunity. Upon allergen exposure, interleukin-33-activated innate type 2 lymphoid cells (ILC2s) produced interleukin-13, which reprogrammed trAMs through induction of the transcription factor interferon regulatory factor 4 (IRF4). IRF4 suppressed the expression of the transcription factor peroxisome proliferator-activated receptor gamma (PPARγ) and dismantled the PPARγ-dependent homeostatic regulon that defines trAM identity, while initiating a transcriptional program driving chemokine production and cell fusion. This resulted in the recruitment of granulocytes, ILC2s, and regulatory T cells, as well as the formation of multinucleated giant cells in the alveolar niche. Thus, a PPARγ-to-IRF4 switch reconfigures trAMs into pro-inflammatory effectors, promoting allergen-induced lung pathology.",
+  "disease": "asthma"
+}

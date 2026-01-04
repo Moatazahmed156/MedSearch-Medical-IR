@@ -1,0 +1,9 @@
+{
+    "title": "Cell-specific image-guided transcriptomics identifies complex injuries caused by ischemic acute kidney injury in mice.",
+    "doc_id": "31508501",
+    "writer": "Miyazaki T",
+    "year": "2019",
+    "summary": "The kidney's inherent complexity has made identifying cell-specific pathways challenging, particularly when temporally associating them with the dynamic pathophysiology of acute kidney injury (AKI). ...",
+    "abstract": "The kidney's inherent complexity has made identifying cell-specific pathways challenging, particularly when temporally associating them with the dynamic pathophysiology of acute kidney injury (AKI). Here, we combine renal cell-specific luciferase reporter mice using a chemoselective luciferin to guide the acquisition of cell-specific transcriptional changes in C57BL/6 background mice. Hydrogen peroxide generation, a common mechanism of tissue damage, was tracked using a peroxy-caged-luciferin to identify optimum time points for immunoprecipitation of labeled ribosomes for RNA-sequencing. Together, these tools revealed a profound impact of AKI on mitochondrial pathways in the collecting duct. In fact, targeting the mitochondria with an antioxidant, ameliorated not only hydrogen peroxide generation, but also significantly reduced oxidative stress and the expression of the AKI biomarker, LCN2. This integrative approach of coupling physiological imaging with transcriptomics and drug testing revealed how the collecting duct responds to AKI and opens new venues for cell-specific predictive monitoring and treatment.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/31508501/"
+}

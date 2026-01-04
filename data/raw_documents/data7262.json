@@ -1,0 +1,9 @@
+{
+    "title": "The effects of mutations on gene expression and alternative splicing.",
+    "doc_id": "37403507",
+    "writer": "Snyman M",
+    "year": "2023",
+    "summary": "However, few studies have investigated the impact of mutations on gene expression and alternative splicing on the genome-wide scale. In this study, we aim to bridge this knowledge gap by utilizing whole-genome sequencing data and RNA sequencing data from 16 obligate …",
+    "abstract": "Understanding the relationship between mutations and their genomic and phenotypic consequences has been a longstanding goal of evolutionary biology. However, few studies have investigated the impact of mutations on gene expression and alternative splicing on the genome-wide scale. In this study, we aim to bridge this knowledge gap by utilizing whole-genome sequencing data and RNA sequencing data from 16 obligately parthenogenetic Daphnia mutant lines to investigate the effects of ethyl methanesulfonate-induced mutations on gene expression and alternative splicing. Using rigorous analyses of mutations, expression changes and alternative splicing, we show that trans-effects are the major contributor to the variance in gene expression and alternative splicing between the wild-type and mutant lines, whereas cis mutations only affected a limited number of genes and do not always alter gene expression. Moreover, we show that there is a significant association between differentially expressed genes and exonic mutations, indicating that exonic mutations are an important driver of altered gene expression.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/37403507/"
+}

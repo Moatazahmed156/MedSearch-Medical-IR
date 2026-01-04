@@ -1,0 +1,6 @@
+{
+  "pmid": "41421345",
+  "title": "Probing the role of membrane in neutralizing activity of antibodies against influenza virus.",
+  "abstract": "Influenza poses a major health issue globally. Neutralizing antibodies targeting the highly conserved stem region of hemagglutinin (HA) of the influenza virus provide considerable protection against the infection. Using an array of advanced simulation technologies, we developed a high-resolution structural model of full-length, Fab-bound HA in a native viral membrane to characterize direct membrane interactions that govern the efficacy of the antibody. We reveal functionally important residues beyond the antibody's complementary-determining regions that contribute to its membrane binding. Mutagenesis experiments and infectivity assays confirm that deactivating the membrane-binding residues of the antibody decreases its neutralization activity. Therefore, we propose that the association with the viral membrane plays a key role in the neutralization activity of these antibodies. Given the rapid evolution of the influenza virus, the developed model provides a structural framework for the rational design and development of more effective therapeutic antibodies.",
+  "disease": "influenza"
+}

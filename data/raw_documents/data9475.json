@@ -1,0 +1,6 @@
+{
+  "pmid": "41460371",
+  "title": "Molecular pathways of oxidative stress in diabetes: redox imbalance and insulin pathway dysregulation.",
+  "abstract": "Oxidative stress plays a pivotal role in the pathogenesis of diabetes mellitus, primarily triggered by hyperglycaemia-induced activation of various metabolic pathways such as glycolytic, hexosamine, PKC, polyol, and AGE pathways. A critical event in this process is the inhibition of GAPDH mediated by PARP-1, leading to the accumulation of glyceraldehyde-3-phosphate, which subsequently promotes the formation of AGE through methylglyoxal, augments PKC signalling, and enhances flux through the polyol and hexosamine pathways. This oxidative imbalance disrupts the IRS-PI3K-GLUT signalling axis, resulting in diminished glucose uptake and contributing to systemic insulin resistance and β-cell damage. Genetic and epigenetic variations, coupled with compromised antioxidant defences, exacerbate susceptibility to oxidative stress, while the Keap1-Nrf2-ARE pathway emerges as a crucial mechanism for reinstating redox equilibrium.",
+  "disease": "diabetes mellitus"
+}

@@ -1,0 +1,9 @@
+{
+    "title": "Secondary brain injury: Predicting and preventing insults.",
+    "doc_id": "29885419",
+    "writer": "Lazaridis C",
+    "year": "2019",
+    "summary": "Mortality or severe disability affects the majority of patients after severe traumatic brain injury (TBI). Adherence to the brain trauma foundation guidelines has overall improved outcomes; however, traditional as well as novel interventions towards intracran …",
+    "abstract": "Mortality or severe disability affects the majority of patients after severe traumatic brain injury (TBI). Adherence to the brain trauma foundation guidelines has overall improved outcomes; however, traditional as well as novel interventions towards intracranial hypertension and secondary brain injury have come under scrutiny after series of negative randomized controlled trials. In fact, it would not be unfair to say there has been no single major breakthrough in the management of severe TBI in the last two decades. One plausible hypothesis for the aforementioned failures is that by the time treatment is initiated for neuroprotection, or physiologic optimization, irreversible brain injury has already set in. We, and others, have recently developed predictive models based on machine learning from continuous time series of intracranial pressure and partial brain tissue oxygenation. These models provide accurate predictions of physiologic crises events in a timely fashion, offering the opportunity for an earlier application of targeted interventions. In this article, we review the rationale for prediction, discuss available predictive models with examples, and offer suggestions for their future prospective testing in conjunction with preventive clinical algorithms. This article is part of the Special Issue entitled \"Novel Treatments for Traumatic Brain Injury\".",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/29885419/"
+}

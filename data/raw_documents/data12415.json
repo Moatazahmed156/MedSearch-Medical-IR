@@ -1,0 +1,6 @@
+{
+  "pmid": "41440489",
+  "title": "Species-Dependent Structural Variations in Single-Domain Antibodies.",
+  "abstract": "Single-domain antibodies (sdAbs) are derived from camelid heavy-chain antibodies (HCAb). Their small size, high stability, and ease of production, among other properties, makes them highly valuable in biomedical research and therapeutic development. Several sdAb-based molecules are currently progressing through clinical trials, highlighting their translational relevance. As sdAbs originate from HCAb of  We assembled MO-IISA, an open-access curated database of sdAbs with known antigen targets by integrating six public resources (iCAN, INDI, SAbDab-nano, sdAb-DB, PLabDab-nano, NbThermo) under harmonized eligibility criteria. The final dataset comprises 2053 sdAbs derived from llamas ( Species-neutral framework constraints and species-tuned loop adaptations have practical implications for sdAb engineering, species selection, and conjugation strategies. These features are captured in MO-IISA, an open-access database of known-target sdAbs from different species.",
+  "disease": "lung cancer"
+}

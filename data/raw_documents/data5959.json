@@ -1,0 +1,9 @@
+{
+    "title": "Heart-on-a-chip: a revolutionary organ-on-chip platform for cardiovascular disease modeling.",
+    "doc_id": "39885522",
+    "writer": "Liu B",
+    "year": "2025",
+    "summary": "Heart-on-a-chip (HoC) devices have emerged as a powerful tool for studying the human heart's intricate functions and dysfunctions in vitro. ...The HoC approach addresses these shortcomings by recapitulating the microscale anatomy, physiology, and biomechanics …",
+    "abstract": "Heart-on-a-chip (HoC) devices have emerged as a powerful tool for studying the human heart's intricate functions and dysfunctions in vitro. Traditional preclinical models, such as 2D cell cultures model and animal model, have limitations in accurately predicting human response to cardiovascular diseases and treatments. The HoC approach addresses these shortcomings by recapitulating the microscale anatomy, physiology, and biomechanics of the heart, thereby providing a more clinically relevant platform for drug testing, disease modeling, and personalized therapy. Recent years have seen significant strides in HoC technology, driven by advancements in biomaterials, bioelectronics, and tissue engineering. Here, we first review the construction and on-chip detection in HoC. Then we introduce the current proceedings of in vitro models for studying cardiovascular diseases (CVD) based on the HoC platform, including ischemia and myocardial infarction, cardiac fibrosis, cardiac scar, myocardial hypertrophy and other CVD models. Finally, we discuss the future directions of HoC and related emerging technologies.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/39885522/"
+}

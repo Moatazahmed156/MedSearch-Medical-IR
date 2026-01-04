@@ -1,0 +1,9 @@
+{
+    "title": "Measuring the Young's modulus of individual lithium whiskers.",
+    "doc_id": "41343668",
+    "writer": "Zhai W",
+    "year": "2025",
+    "summary": "The primary challenge hindering widespread adoption of lithium (Li) anodes is the safety risks of short circuits owing to the penetration of Li whiskers, where their mechanical property plays a crucial role. However, measurement of the overall Young's modulus of individual …",
+    "abstract": "The primary challenge hindering widespread adoption of lithium (Li) anodes is the safety risks of short circuits owing to the penetration of Li whiskers, where their mechanical property plays a crucial role. However, measurement of the overall Young's modulus of individual Li whiskers with solid electrolyte interphase (SEI) remains elusive. Here, via an in situ electric-field-induced resonance method, the Young's modulus of individual electrochemically deposited Li whiskers along <211> is measured to be 3.2 ± 0.2 GPa in a transmission electron microscope, lower than that of pure Li metal, suggesting that hard short circuits induced by mechanical penetration are expected to have a low probability of occurrence. Quantitative analysis reveals that a simple linear combination of the Young's moduli of pure Li metal and the SEI, based on a linear mixed model, fails to account for the reduced Young's modulus. With the aid of atomic-level imaging and simulations, the lower value is ascribed to intricate interfacial microstructures, including highly-crystalline-Li|poorly-crystalline-Li, Li|Li2O, Li|organic, and others.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41343668/"
+}

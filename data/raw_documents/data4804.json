@@ -1,0 +1,9 @@
+{
+    "title": "Colloidal Probe Technique Optimization for Determination of Young's Modulus of Soft Adhesive Hydrogels.",
+    "doc_id": "39023221",
+    "writer": "Zhurenkov KE",
+    "year": "2024",
+    "summary": "Atomic force microscopy (AFM) is a valuable tool for determining the Young's modulus of a wide range of materials. However, it faces challenges, particularly when assessing adhesive materials like soft poly(N-isopropylacrylamide) (pNIPAM) hydrogels. ...Specifically, hydrop …",
+    "abstract": "Atomic force microscopy (AFM) is a valuable tool for determining the Young's modulus of a wide range of materials. However, it faces challenges, particularly when assessing adhesive materials like soft poly(N-isopropylacrylamide) (pNIPAM) hydrogels. This study focuses on enhancing the consistency and reliability of AFM measurements by functionally modifying AFM spherical tip cantilevers to address substrate adhesion issues with these hydrogels. Specifically, hydrophobic functionalization with 1H,1H,2H,2H-perfluorooctyltrichlorosilane (PFOCTS) emerged as the most effective approach, yielding consistent and reliable Young's modulus data across various pNIPAM hydrogel samples. This work highlights the importance of optimizing data acquisition in AFM, rather than relying on postprocessing, to reduce inconsistencies in Young's modulus assessment.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/39023221/"
+}

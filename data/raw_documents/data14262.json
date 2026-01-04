@@ -1,0 +1,6 @@
+{
+  "pmid": "41415868",
+  "title": "Semi-Automatic MRI Segmentation for Assessing Cartilage Volume Changes After Ankle Distraction Arthroplasty Using the Ilizarov Frame for Ankle Osteoarthritis.",
+  "abstract": "This study investigates the effectiveness of ankle distraction arthroplasty (ADA) using the Ilizarov frame in treating end-stage ankle osteoarthritis (OA) by evaluating changes in cartilage volume through semi-automatic MRI segmentation. The study involved 42 end-stage post-traumatic ankle OA patients from 2021 to 2023. Magnetic resonance imaging (MRI) scans were conducted before surgery and 12 months post-treatment. Changes in cartilage volume of the talus and tibia were measured using semi-automatic segmentation methods. statistical significance was assessed using the non-parametric Wilcoxon signed-rank test. Out of 42 patients, 10 completed the study with MRI scans of sufficient quality. Significant increases in cartilage volume were observed: talus cartilage increased by 247.48 mm The findings demonstrate that ADA using the Ilizarov frame is effective in increasing cartilage volume in patients with end-stage ankle OA. Semi-automatic MRI segmentation is a reliable method for monitoring these changes. Further research with larger sample sizes is necessary to validate these findings and assess long-term outcomes.",
+  "disease": "osteoarthritis"
+}

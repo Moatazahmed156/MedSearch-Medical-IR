@@ -1,0 +1,6 @@
+{
+  "pmid": "41337306",
+  "title": "Segmentation and Classification of Joint Space Narrowing in Rheumatoid Arthritis Using Deep Learning.",
+  "abstract": "Rheumatoid arthritis (RA) is a chronic autoimmune disease, with joint space narrowing (JSN) as a key diagnostic marker. This study presents a deep learning-based approach for classifying JSN severity using X-ray images. Joint regions were segmented using YOLOv5 and bone masks via a fine-tuned Segment Anything Model (SAM). We compared three masking methods, including our proposed Halo Edge Mask (HEM), which applies edge-aware smoothing. HEM outperformed others across all metrics, including sensitivity, specificity, and AUROC. These findings demonstrate the feasibility of AI-assisted JSN assessment in resource-limited settings and support broader applications of AI in musculoskeletal disorders.",
+  "disease": "rheumatoid arthritis"
+}

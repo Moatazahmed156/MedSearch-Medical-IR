@@ -1,0 +1,6 @@
+{
+  "pmid": "41353442",
+  "title": "Impact of pre-existing anti-replicase immunity on the efficacy of self-amplifying mRNA vaccines.",
+  "abstract": "Self-amplifying mRNA vaccines use a viral replicase for self-amplification. It is currently unclear whether anti-replicase immunity occurs after saRNA vaccination, and whether such pre-existing anti-replicase immunity impacts the efficacy of subsequent saRNA vaccines. Using female mice, this study demonstrates that an initial saRNA vaccination schedule elicits replicase-specific immunity, which reduces the in vivo expression and impairs the Th1 cell responses of subsequent saRNA vaccines. Passive transfer experiments demonstrate that the suppression of T cell responses is driven by a synergistic effect of both anti-replicase antibodies and anti-replicase T cells. Interestingly, pre-existing anti-replicase immunity does not affect the ability of an influenza saRNA vaccine to provide full protection against an H5N1 challenge in female mice. Taken together, these results provide crucial insights on the effects of anti-replicase immunity induced by a first saRNA vaccination schedule on the expression, immunogenicity and protection efficacy of a subsequent saRNA vaccine.",
+  "disease": "influenza"
+}

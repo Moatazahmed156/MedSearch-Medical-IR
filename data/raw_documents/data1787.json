@@ -1,0 +1,9 @@
+{
+    "title": "A visual ratiometric fluorescence sensor for glutathione response based on MnO(2) nanowires as an oxidant, quencher and recognition unit.",
+    "doc_id": "36606523",
+    "writer": "Fan Y",
+    "year": "2023",
+    "summary": "We herein report a visual ratiometric fluorescence sensor based on MnO(2) nanowires (MnO(2) NWs) as an oxidant, quencher and recognition unit for the determination of GSH. The powerful ratiometric fluorescent probe was constructed by mixing thiamine (VB(1)) and rhodamine B …",
+    "abstract": "As the \"mother of antioxidants\", glutathione (GSH) plays an important role in physiological functions. Rapid and accurate monitoring of GSH is of great significance for medicinal chemistry, food chemistry, and clinical medicine. We herein report a visual ratiometric fluorescence sensor based on MnO2 nanowires (MnO2 NWs) as an oxidant, quencher and recognition unit for the determination of GSH. The powerful ratiometric fluorescent probe was constructed by mixing thiamine (VB1) and rhodamine B (RhB) with the help of MnO2 NWs. MnO2 NWs could not only effectively quench the fluorescence of RhB due to the inner filter effect (IFE), but also oxidized non-fluorescent VB1 to blue fluorescent thiochrome (oxVB1). Upon interaction with GSH, the quenched RhB fluorescence could be rapidly restored through decomposition of MnO2 NWs into Mn2+, while the oxVB1 fluorescence decreased, showing an apparent color change from blue to red. The concentration of GSH was proportional to the ratio of fluorescence intensities of RhB and oxVB1, and the detection linear range was 1 to 10 000 μM with comparable selectivity. This ratio fluorescence sensor was successfully applied to GSH determination in whitening capsules and glutathione tablets with satisfactory results, and the sensor may be a potentially powerful tool for the detection of GSH.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/36606523/"
+}

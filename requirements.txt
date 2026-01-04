@@ -1,0 +1,11 @@
+# Requirements for IR_Project
+Flask>=2.2,<3
+requests>=2.28
+beautifulsoup4>=4.11
+lxml>=4.9
+# For running in production on Linux
+gunicorn>=20.1
+# For running in production on Windows (alternative to gunicorn)
+waitress>=2.1
+# Optional: environment variable support
+python-dotenv>=1.0

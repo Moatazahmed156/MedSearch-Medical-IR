@@ -1,0 +1,6 @@
+{
+  "pmid": "41390196",
+  "title": "Development of a quantitative gait analysis in an osteoarthritis rat model using machine learning.",
+  "abstract": "Quantitative assessment of gait abnormality is essential for osteoarthritis (OA) model. We aimed to establish a low-cost, non-invasive and markerless gait analysis pipeline using machine learning. Rat OA model was induced by intraarticular injection of monosodium iodoacetate, and walking behavior was recorded. Joint coordinates were analyzed using DeepLabCut, and hierarchical clustering based on our summarized features separated OA and healthy animals with high accuracy. Principal coordinates analysis demonstrated significant group separation while preserving intra-group variability. We developed a reproducible and non-biased method for gait analysis in OA rats, which can be applicable for pain and movement disorder models.",
+  "disease": "osteoarthritis"
+}

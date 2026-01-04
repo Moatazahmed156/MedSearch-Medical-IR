@@ -1,0 +1,6 @@
+{
+  "pmid": "41413077",
+  "title": "Inherent variability limits clinical utility of reproducible Parkinson's transcriptomics signatures.",
+  "abstract": "Blood transcriptomic signatures for Parkinson's disease (PD) diagnosis have failed to integrate into clinical practice despite decades of translational efforts. We evaluated the classification performance of 13 published coding RNA-based signatures using both a large public dataset and data we collected prospectively in a controlled clinical study of levodopa-naïve patients and healthy controls. Our results show that gene overlap between signatures is low but significant (2.7%, p < 0.001) and enriched for lipid metabolism genes. Most signatures (10/13) remained significant when tested on the Parkinson's Progression Markers Initiative (PPMI) dataset, though with lower classification performance than previously reported (median AUC: 59.7%). Performance improved for GBA1-associated PD. Rigorous standardization of clinical and environmental parameters in our prospective study (30 participants) failed to improve transcriptome-based classification. We conclude that while the search for a universal blood-based PD transcriptome may elucidate disease pathophysiology, its clinical utility is inherently limited.",
+  "disease": "parkinson disease"
+}

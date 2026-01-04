@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document: {{ doc_id }}</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .header {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+        }
+
+        .header h1 {
+            color: #667eea;
+            font-size: 2rem;
+            margin-bottom: 15px;
+        }
+
+        .header .doc-id {
+            color: #666;
+            font-size: 1.1rem;
+            font-weight: 600;
+            background: #f8f9fa;
+            padding: 10px 15px;
+            border-radius: 8px;
+            display: inline-block;
+        }
+
+        .metadata-card {
+            background: white;
+            border-radius: 12px;
+            padding: 25px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .metadata-card h2 {
+            color: #667eea;
+            font-size: 1.4rem;
+            margin-bottom: 15px;
+            border-bottom: 2px solid #667eea;
+            padding-bottom: 10px;
+        }
+
+        .metadata-item {
+            margin-bottom: 12px;
+            padding: 10px;
+            background: #f8f9fa;
+            border-radius: 6px;
+        }
+
+        .metadata-item strong {
+            color: #667eea;
+            display: inline-block;
+            min-width: 120px;
+        }
+
+        .metadata-item a {
+            color: #667eea;
+            text-decoration: none;
+            word-break: break-all;
+        }
+
+        .metadata-item a:hover {
+            text-decoration: underline;
+        }
+
+        .actions {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            padding: 12px 24px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s;
+            display: inline-block;
+            cursor: pointer;
+            font-size: 1rem;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+
+        .btn-secondary {
+            background: white;
+            color: #667eea;
+            border: 2px solid #667eea;
+        }
+
+        .btn-secondary:hover {
+            background: #667eea;
+            color: white;
+        }
+
+        .document-content {
+            background: white;
+            border-radius: 15px;
+            padding: 40px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            line-height: 1.9;
+            font-size: 1.05rem;
+            color: #333;
+        }
+
+        .document-content pre {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            overflow-x: auto;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            border-left: 4px solid #667eea;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.8;
+        }
+
+        .back-link {
+            text-align: center;
+            margin-top: 30px;
+        }
+
+        .back-link a {
+            color: white;
+            text-decoration: none;
+            font-size: 1.1rem;
+            padding: 14px 32px;
+            background: rgba(255,255,255,0.2);
+            border-radius: 10px;
+            transition: all 0.3s;
+            display: inline-block;
+            font-weight: 600;
+        }
+
+        .back-link a:hover {
+            background: rgba(255,255,255,0.35);
+            transform: translateY(-2px);
+        }
+
+        @media (max-width: 768px) {
+            .document-content {
+                padding: 25px;
+                font-size: 1rem;
+            }
+
+            .actions {
+                flex-direction: column;
+            }
+
+            .btn {
+                width: 100%;
+                text-align: center;
+            }
+
+            .header h1 {
+                font-size: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📄 Medical Document Viewer</h1>
+            <div class="doc-id">Document ID: {{ doc_id }}</div>
+        </div>
+
+        {% if metadata %}
+        <div class="metadata-card">
+            <h2>📋 Document Information</h2>
+            
+            {% if metadata.title %}
+            <div class="metadata-item">
+                <strong>Title:</strong> {{ metadata.title }}
+            </div>
+            {% endif %}
+            
+            {% if metadata.writer %}
+            <div class="metadata-item">
+                <strong>Author:</strong> {{ metadata.writer }}
+            </div>
+            {% endif %}
+            
+            {% if metadata.year %}
+            <div class="metadata-item">
+                <strong>Year:</strong> {{ metadata.year }}
+            </div>
+            {% endif %}
+            
+            {% if metadata.doc_id %}
+            <div class="metadata-item">
+                <strong>PubMed ID:</strong> {{ metadata.doc_id }}
+            </div>
+            {% endif %}
+            
+            {% if metadata.link %}
+            <div class="metadata-item">
+                <strong>Source:</strong> <a href="{{ metadata.link }}" target="_blank">{{ metadata.link }}</a>
+            </div>
+            {% endif %}
+        </div>
+        {% endif %}
+
+        <div class="actions">
+            <a href="/?query={{ query }}" class="btn btn-primary">← Back to Search Results</a>
+            <a href="/raw_document?doc_id={{ doc_id }}" class="btn btn-secondary" target="_blank">📄 View as Plain Text</a>
+            {% if metadata and metadata.link %}
+            <a href="{{ metadata.link }}" class="btn btn-secondary" target="_blank">🔗 View on PubMed</a>
+            {% endif %}
+        </div>
+
+        <div class="document-content">
+            <pre>{{ content }}</pre>
+        </div>
+
+        <div class="back-link">
+            <a href="/">🏠 New Search</a>
+        </div>
+    </div>
+</body>
+</html>

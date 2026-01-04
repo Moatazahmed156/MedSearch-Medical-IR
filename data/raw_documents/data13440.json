@@ -1,0 +1,6 @@
+{
+  "pmid": "41425112",
+  "title": "Beyond Accuracy: Enhancing Parkinson's Diagnosis with Uncertainty Quantification of Machine Learning Models.",
+  "abstract": "As deep learning and machine learning architectures have demonstrated considerable promise in clinical diagnosis, establishing their reliability has become imperative for responsible medical implementations. This research examines uncertainty estimation techniques to improve model reliability in Parkinson's disease detection. We assess Monte Carlo Dropout, Deep Evidential Classification, and Bayesian Neural Networks across three datasets representing finger tapping, facial expressions, and vocal patterns. Findings indicate that Deep Evidential Classification performs poorly in both diagnostic accuracy and uncertainty assessment, whereas Monte Carlo Dropout and Bayesian Neural Networks exhibit enhanced dependability. Integrating uncertainty estimation enables identification of ambiguous predictions, minimizing diagnostic errors and promoting secure AI adoption in medicine. Complete code and technical specifications are accessible through the official public github repository https://github.com/BRAINIAC2677/UQ4PD-ML.",
+  "disease": "parkinson disease"
+}

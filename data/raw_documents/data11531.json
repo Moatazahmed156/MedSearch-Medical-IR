@@ -1,0 +1,6 @@
+{
+  "pmid": "41456275",
+  "title": "Adult leptomeningeal vestigial neural crest-derived multipotent cells promote vascular repair after stroke.",
+  "abstract": "The neural crest (NC) is a transient embryonic structure composed of highly migratory multipotent stem cells that generate diverse cell types and orchestrate early neurovascular patterning. It has long been assumed that NC cells are exhausted after development once their progeny fully differentiate. However, through NC lineage tracing, single-cell and spatial transcriptomics, interactome modeling, and in vivo imaging, we identified a population of NC-derived multipotent (not lineage-restricted) cells persisting within the adult mouse leptomeninges. Following ischemic stroke, loss- and gain-of-function analyses revealed that these cells are reactivated and recruited toward injured vascular endothelium via SDF1α-CXCR4 signaling; undergo stromal cell transition within the perivascular niche, regulated by β-catenin and STAT3 pathways; and restore vascular integrity through pleiotrophin-mediated signaling. These findings suggest that the adult leptomeninges harbor a vestigial reservoir of NC-derived multipotent cells-once central to embryogenesis and vasculogenesis-that can be re-invoked to promote neurovascular repair after cerebral injury.",
+  "disease": "stroke"
+}

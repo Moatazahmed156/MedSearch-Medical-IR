@@ -1,0 +1,6 @@
+{
+  "pmid": "41433437",
+  "title": "Alzheimer's Imaging Consortium.",
+  "abstract": "Participants (n = 14, Figure 1) included 5 people with no/low AD neuropathologic change (ADNC) at autopsy, 2 intermediate, and 7 high. Clinical diagnoses included normal cognition (n = 2), AD (n = 5), dementia with Lewy bodies (n = 2), Parkinson's disease dementia (n = 1), corticobasal syndrome (n = 2), and posterior cortical atrophy (n = 2). We used the Automated Segmentation of Hippocampal Subfields T1 MRI pipeline to segment anterior and posterior hippocampus, Brodmann's areas (BA) 35 (transentorhinal cortex) & 36, and entorhinal cortex.  Tangles were associated with SUVRs in BA35/entorhinal cortex (Spearman's r=0.59, p = 0.029; Figure 2A). The mean hippocampal tangle measure was associated with SUVRs in both anterior (r=0.77, p = 0.002) and posterior (r=0.77, p = 0.002) hippocampus (Figure 2B-C). Associations between SUVR and tau threads were marginally significant (Figure 2D-F). In BA35/entorhinal cortex, 9/9 intermediate-high ADNC cases had SUVRs above an established positivity cutoff of 1.23 (Figure 3). PET SUVRs were not associated with somatic or neuritic pTDP-43 measures. Results suggest ",
+  "disease": "parkinson disease"
+}

@@ -1,0 +1,9 @@
+{
+    "title": "Gene expression variability: the other dimension in transcriptome analysis.",
+    "doc_id": "30875273",
+    "writer": "de Jong TV",
+    "year": "2019",
+    "summary": "However, it is becoming apparent that the biological variation in gene expression might be an important molecular phenotype that can affect physiological parameters. In this review we explore the recent literature on technical and biological variability in gene …",
+    "abstract": "Transcriptome sequencing is a powerful technique to study molecular changes that underlie the differences in physiological conditions and disease progression. A typical question that is posed in such studies is finding genes with significant changes between sample groups. In this respect expression variability is regarded as a nuisance factor that is primarily of technical origin and complicates the data analysis. However, it is becoming apparent that the biological variation in gene expression might be an important molecular phenotype that can affect physiological parameters. In this review we explore the recent literature on technical and biological variability in gene expression, sources of expression variability, (epi-)genetic hallmarks, and evolutionary constraints in genes with robust and variable gene expression. We provide an overview of recent findings on effects of external cues, such as diet and aging, on expression variability and on other biological phenomena that can be linked to it. We discuss metrics and tools that were developed for quantification of expression variability and highlight the importance of future studies in this direction. To assist the adoption of expression variability analysis, we also provide a detailed description and computer code, which can easily be utilized by other researchers. We also provide a reanalysis of recently published data to highlight the value of the analysis method.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/30875273/"
+}

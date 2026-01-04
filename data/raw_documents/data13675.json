@@ -1,0 +1,6 @@
+{
+  "pmid": "41442838",
+  "title": "Advances in lipid nanoparticle delivery systems for targeted cytokine immunotherapy in autoimmune disorders.",
+  "abstract": "Autoimmune diseases result from dysregulated immune responses, primarily driven by CD4+ T cell imbalances, leading to chronic inflammation and tissue destruction. Conventional cytokine-based therapies, including IL-2 for regulatory T cell (Treg) expansion and IL-6 or IL-17 inhibition for inflammation suppression, have shown promise in modulating immune responses. However, challenges such as systemic toxicity, short half-life, and off-target effects limit their therapeutic efficacy. Lipid nanoparticles (LNPs) have emerged as a next-generation drug delivery platform, offering enhanced cytokine stability, targeted cellular uptake, and controlled release, thereby overcoming limitations associated with free cytokine administration. Preclinical studies have demonstrated that LNP-IL-2 selectively expands Tregs in type 1 diabetes models, while IL-10-loaded LNPs suppress synovial inflammation in rheumatoid arthritis more effectively than conventional cytokine therapies. Optimization of ligand density and affinity on LNP surfaces is emerging as a key determinant of CD4",
+  "disease": "rheumatoid arthritis"
+}

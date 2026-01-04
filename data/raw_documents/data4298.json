@@ -1,0 +1,9 @@
+{
+    "title": "In Vivo Ultrasound Localization Microscopy Imaging of the Kidney's Microvasculature With Block-Matching 3-D Denoising.",
+    "doc_id": "34727030",
+    "writer": "Lei S",
+    "year": "2022",
+    "summary": "Structural abnormalities and functional changes of renal microvascular networks play a significant pathophysiologic role in the occurrence of kidney diseases. Super-resolution ultrasound imaging has been successfully utilized to visualize the microvascular network and prov …",
+    "abstract": "Structural abnormalities and functional changes of renal microvascular networks play a significant pathophysiologic role in the occurrence of kidney diseases. Super-resolution ultrasound imaging has been successfully utilized to visualize the microvascular network and provide valuable diagnostic information. To prevent the burst of microbubbles, a lower mechanical index (MI) is generally used in ultrasound localization microscopy (ULM) imaging. However, high noise levels lead to incorrect signal localizations in relatively low-MI settings and deep tissue. In this study, we implemented a block-matching 3-D (BM3D) image-denoising method, after the application of singular value decomposition filtering, to further suppress the noise at various depths. The in vitro flow-phantom results show that the BM3D method helps the significant reduction of the error localizations, thus improving the localization accuracy. In vivo rhesus macaque experiments help conclude that the BM3D method improves the resolution more than other image-based denoising techniques, such as the nonlocal means method. The obtained clutter-filtered images with fewer incorrect localizations can enable robust ULM imaging, thus helping in establishing an effective diagnostic tool.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/34727030/"
+}

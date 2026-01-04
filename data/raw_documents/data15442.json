@@ -1,0 +1,6 @@
+{
+  "pmid": "41427673",
+  "title": "Structural basis of product recognition by Mycobacterium tuberculosis fatty acid synthase.",
+  "abstract": "Microbial iterative fatty acid synthases (FAS) are versatile multienzymes under scrutiny for their potential as anti-infectious targets and their biotechnological applications. They produce saturated fatty acids with defined chain length and release them as coenzyme A-conjugates. How they recognize appropriate acyl length to initiate the process of product release is unknown. Here, we resolved two intermediate state structures of FAS, one from each of the two organisms: bacterium Mycobacterium tuberculosis and yeast Saccharomyces cerevisiae. These structures reveal how acyl carrier protein (ACP) domain and nascent fatty acids interact with the substrate-promiscuous malonyl-palmitoyl transferase (MPT) domain that is involved in product cleavage from the enzyme. MPT adopts a transient channel necessary for the accommodation of long-chain fatty acids. This channel is formed by the transient retraction of a conserved arginine side chain involved in malonate binding. These insights uncover structural determinants that enable M. tuberculosis type I FAS to produce very long-chain fatty acids used for evading host immunity in tuberculosis (TB).",
+  "disease": "tuberculosis"
+}

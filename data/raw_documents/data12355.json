@@ -1,0 +1,6 @@
+{
+  "pmid": "41445771",
+  "title": "Automated target misalignment correction for cone beam computed tomography-based online adaptive radiotherapy of locally advanced lung cancer patients.",
+  "abstract": "Locally advanced lung cancer patients are commonly treated with daily cone beam CT (CBCT) guided radiotherapy using one treatment isocenter. Due to differential motion between primary tumor (GTV We developed in-house an application that produced a synthetic CT (sCT) and delineations to correct for residual target misalignments. A deformation vector field (DVF) was created by using conventional CBCT-to-CT rigid target registrations. The DVF was applied to the planning CT (pCT) and delineations to generate a sCT where GTV Median vector lengths were 5.1 mm relative to pCTs, and 0.7 mm relative to sCTs, demonstrating the ability of the proposed tool to correct residual misalignments. Median HU errors across all scans were within 1 HU, and the median GTV A correction method for residual target misalignments in locally advanced lung cancer patients was proposed. It automatically produces sCTs and delineations, enabling OART implementation without the need for manual delineation corrections, and with potentially smaller treatment margins.",
+  "disease": "lung cancer"
+}

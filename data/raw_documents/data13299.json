@@ -1,0 +1,6 @@
+{
+  "pmid": "41455237",
+  "title": "Motor evoked potentials as a side effect biomarker for deep brain stimulation.",
+  "abstract": "To determine if motor evoked potentials (MEP) - stimulation-induced muscle activation measured using electromyography - can serve as a biomarker of corticobulbar (CBT) and corticospinal (CST) tract activation induced by deep brain stimulation (DBS). In 12 patients with Parkinson's disease and subthalamic (n = 10) or pallidal (n = 2) DBS, contact mapping determined clinical motor side effect thresholds. For equivalent stimulation parameters (except lower frequency), EMG was recorded from cranial and arm muscles to determine the presence, peak amplitudes and latencies of MEP. Clinical side effect and MEP thresholds were compared and accuracy metrics calculated. The MEP amplitudes increased with stimulation intensity. Latencies were shorter for cranial muscles, which were also more likely to generate an MEP. Clinical side effect and MEP thresholds were significantly correlated (R MEP thresholds correlated with side effect thresholds but were often lower indicating subclinical CBT/CST activations. This study characterizes motor potentials evoked by DBS and demonstrates their potential utility as an objective biomarker for motor side effect detection during DBS programming.",
+  "disease": "parkinson disease"
+}

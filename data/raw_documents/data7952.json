@@ -1,0 +1,9 @@
+{
+    "title": "A Comparison of Existing Methods to Detect Weight Data Errors in a Pediatric Academic Medical Center.",
+    "doc_id": "30815152",
+    "writer": "Wu DTY",
+    "year": "2018",
+    "summary": "Dosing errors due to erroneous body weight entry can be mitigated through algorithms designed to detect anomalies in weight patterns. ...This analysis illustrates the need for better weight-entry error detection algorithms....",
+    "abstract": "Dosing errors due to erroneous body weight entry can be mitigated through algorithms designed to detect anomalies in weight patterns. To prepare for the development of a new algorithm for weight-entry error detection, we compared methods for detecting weight anomalies to human annotation, including a regression-based method employed in a real-time web service. Using a random sample of 4,000 growth charts, annotators identified clinically important anomalies with good inter-rater reliability. Performance of the three detection algorithms was variable, with the best performance from the algorithm that takes into account weights collected after the anomaly was recorded. All methods were highly specific, but positive predictive value ranged from < 5% to over 82%. There were 203 records of missed errors, but all of these were either due to no prior data points or errors too small to be clinically significant. This analysis illustrates the need for better weight-entry error detection algorithms.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/30815152/"
+}

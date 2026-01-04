@@ -1,0 +1,6 @@
+{
+  "pmid": "41429194",
+  "title": "Experimental and computational approaches to adaptive viral evolution: Linking molecular variation to phenotypic outcomes.",
+  "abstract": "Viruses pose a persistent global health threat due to their high mutation rates and rapid evolutionary capacity, which drive zoonotic spillover, vaccine escape, and drug resistance. Even single amino acid substitutions might impact viral invasion, receptor binding, immune evasion, or transmissibility, as illustrated by recent influenza, SARS-CoV-2 and other emerging viruses' outbreaks. Understanding these processes requires linking molecular variation to phenotypic consequences. This review summarizes five experimental and computational technologies-pseudovirus systems, minigenome assays, display systems, deep mutational scanning (DMS), and in silico modeling-that together form an iterative framework for studying viral adaptation. A representative integration of DMS with reverse genetics has validated computationally predicted escape mutations and revealed trade-offs between binding and replication that conventional assays could not capture. We discuss each approach's strengths and limitations, highlighting how their coordinated use supports mechanism-based evaluation and data-driven design of vaccines and antiviral strategies.",
+  "disease": "influenza"
+}

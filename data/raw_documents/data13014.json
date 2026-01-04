@@ -1,0 +1,6 @@
+{
+  "pmid": "41450910",
+  "title": "A phage displaying an Aβ-interacting peptide mitigates neurotoxicity and prevents Aβ-driven gene expression changes.",
+  "abstract": "Alzheimer's disease (AD) is characterized by the accumulation of amyloid-beta (Aβ) peptides, which contribute to synaptic dysfunction, neuronal toxicity, and gene expression alterations. In a previous study, we identified a phage displaying a peptide that selectively interacts with Aβ autoantibodies. Here, we assessed whether this phage also directly interacts with Aβ, as predicted through bioinformatic analyses. We evaluated its functional effects in a neuronal cell line exposed to Aβ and performed transcriptomic profiling by RNA sequencing. We demonstrate that the phage directly interacts with Aβ, consistent with bioinformatic predictions. Functionally, the phage protected the neuronal cell line from Aβ-induced toxicity. RNA sequencing revealed that the phage prevented Aβ-induced alterations in the expression of 1,819 genes, suggesting a role in modulating Aβ-associated metabolic changes. These findings highlight the therapeutic potential of phage-displayed peptides in counteracting Aβ toxicity and restoring cellular homeostasis, laying a foundation for future investigations into phage-based interventions for AD.",
+  "disease": "alzheimer disease"
+}

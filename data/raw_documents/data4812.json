@@ -1,0 +1,9 @@
+{
+    "title": "A Nondestructive Measurement Method of Optical Fiber Young's Modulus Based on OFDR.",
+    "doc_id": "35214352",
+    "writer": "Li P",
+    "year": "2022",
+    "summary": "A nondestructive measurement method based on an Optical frequency domain reflectometry (OFDR) was demonstrated to achieve Young's modulus of an optical fiber. Such a method can be used to measure, not only the averaged Young's modulus within the measured fiber lengt …",
+    "abstract": "A nondestructive measurement method based on an Optical frequency domain reflectometry (OFDR) was demonstrated to achieve Young's modulus of an optical fiber. Such a method can be used to measure, not only the averaged Young's modulus within the measured fiber length, but also Young's modulus distribution along the optical fiber axis. Moreover, the standard deviation of the measured Young's modulus is calculated to analyze the measurement error. Young's modulus distribution of the coated and uncoated single mode fiber (SMF) samples was successfully measured along the optical fiber axis. The average Young's modulus of the coated and uncoated SMF samples was 13.75 ± 0.14, and 71.63 ± 0.43 Gpa, respectively, within the measured fiber length of 500 mm. The measured Young's modulus distribution along the optical fiber axis could be used to analyze the damage degree of the fiber, which is very useful to nondestructively estimate the service life of optical fiber sensors immersed into smart engineer structures.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/35214352/"
+}
