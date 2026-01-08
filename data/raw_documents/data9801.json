@@ -1,6 +1,0 @@
-{
-  "pmid": "41466703",
-  "title": "Identification of upregulated genes in pulmonary hypertension using RNA sequencing profiling.",
-  "abstract": "Pulmonary hypertension (PH) is a chronic and progressive disease that is characterized by increased pulmonary arterial blood pressure, causing heart strain and eventual heart failure. In the current study PH RNA sequencing (RNA-Seq) dataset involving 8 patients, consisting of 4 cases and 4 controls was selected for analysis. Pathway analysis revealed the involvement of the key genes in pathways crucial for PH. The protein-protein interaction (PPI) network analysis using the STRING database identified key hub genes that were significantly upregulated, including HAUS4, TUBB4A, TUBG1, NEED1, SASS6, NIN, DCUN1D3, CCDC22, ATP2B2 and LRRC37A. These hub gene-encoded proteins can be prominent drug targets for future interventions aimed at treating pulmonary hypertension.",
-  "disease": "hypertension"
-}

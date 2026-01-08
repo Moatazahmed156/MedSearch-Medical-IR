@@ -1,9 +1,0 @@
-{
-    "title": "Apparent Young's Modulus of the Adhesive in Numerical Modeling of Adhesive Joints.",
-    "doc_id": "33440638",
-    "writer": "Anasiewicz K",
-    "year": "2021",
-    "summary": "This article is an evaluation of the phenomena occurring in adhesive joints during curing and their consequences. Considering changes in the values of Young's modulus distributed along the joint thickness, and potential changes in adhesive strength in the cured state, the …",
-    "abstract": "This article is an evaluation of the phenomena occurring in adhesive joints during curing and their consequences. Considering changes in the values of Young's modulus distributed along the joint thickness, and potential changes in adhesive strength in the cured state, the use of a numerical model may make it possible to improve finite element simulation effects and bring their results closer to experimental data. The results of a tensile test of a double overlap adhesive joint sample, performed using an extensometer, are presented. This test allowed for the precise determination of the shear modulus G of the cured adhesive under experimental conditions. Then, on the basis of the research carried out so far, a numerical model was built, taking the differences observed in the properties of the joint material into account. The stress distribution in a three-zone adhesive joint was analyzed in comparison to the standard numerical model in which the adhesive in the joint was treated as isotropic. It is proposed that a joint model with three-zones, differing in the Young's modulus values, is more accurate for mapping the experimental results.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/33440638/"
-}

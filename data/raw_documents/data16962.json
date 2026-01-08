@@ -1,6 +1,0 @@
-{
-  "pmid": "41391036",
-  "title": "Circular RNA PTPN4 Contributes to Blood-Brain Barrier Disruption during Early Epileptogenesis.",
-  "abstract": "Circular RNAs (circRNAs) are crucial regulators of gene expression, exhibiting dynamic expression patterns during both normal brain development and diverse pathological states. This study reports the elevated expression of CircPTPN4 in the brain tissue and plasma during early epileptogenesis in a murine temporal lobe epilepsy model. Overexpression of CircPTPN4 disrupts the tight junctions of brain microvascular endothelial cells (BMECs), compromising blood-brain barrier (BBB) integrity. Mechanistically, CircPTPN4 functions as a competitive endogenous RNA by sequestering miR-145a-5p, thereby upregulating endothelin-converting enzyme-1 (ECE-1). Subsequent ECE-1-mediated endothelin-1 (ET-1) production activates the p38/MAPK pathway, downregulating tight junction protein expression. Knockdown of CircPTPN4 attenuated tight junction disruption and BBB impairment during acute epileptogenesis while reducing spontaneous seizure frequency in chronic epilepsy. These findings establish the CircPTPN4/miR-145a-5p/ECE-1 axis as both a diagnostic biomarker and therapeutic target for BBB preservation in early-stage epilepsy.",
-  "disease": "epilepsy"
-}

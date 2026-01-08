@@ -1,9 +1,0 @@
-{
-    "title": "Immune-mediated membranous nephropathy: Innovations in pathogenetic modeling and mechanistic insights.",
-    "doc_id": "40888279",
-    "writer": "Zhang C",
-    "year": "2025",
-    "summary": "Membranous nephropathy (MN) is a chronic kidney disease where the immune system mistakenly attacks specific proteins (PLA2R and THSD7A) in the kidney's filtering units, causing protein leakage into urine. This review explains how scientists are using innovati …",
-    "abstract": "Membranous nephropathy (MN), an autoimmune cause of adult nephrotic syndrome, is driven by podocyte-targeting antibodies against PLA2R/THSD7A. Current models fail to fully capture human disease progression. This review evaluates three transformative approaches: (1) Heterologous antibody-induced models enabling acute injury replication; (2) Antigen-driven immunization modeling adaptive immunity; and (3) GBF-on-Chip platforms mimicking filtration barrier dynamics. Collectively, they reveal complement-dependent and direct podocytotoxic injury mechanisms. While antibody-induced models offer rapid injury induction and high reproducibility, their transient phenotype cannot model chronic progression or immune tolerance breakdown. Antigen-driven models recapitulate adaptive immunity but face prolonged timelines and epitope targeting bias diverging from human IgG4 dominance. GFB-on-Chip systems excel in mechanistic dissection of podocyte injury but lack immune microenvironment integration and physiologically accurate glomerular architecture. This review synthesizes strategies for MN model development through antibody-podocyte interaction studies, critically evaluates the strengths of existing platforms, and discusses emerging technologies for probing disease mechanisms and accelerating therapeutic discovery.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40888279/"
-}

@@ -1,9 +1,0 @@
-{
-    "title": "Temperature dependent Young's modulus of ZnO nanowires.",
-    "doc_id": "30523872",
-    "writer": "Roy A",
-    "year": "2019",
-    "summary": "A thermal resonant method was developed to accurately determine the temperature-dependent Young's moduli of nanowires. In this method, the frequency spectra of a [0001]-oriented ZnO nanowire cantilever at elevated temperatures were measured using scanning laser Doppler vib …",
-    "abstract": "A thermal resonant method was developed to accurately determine the temperature-dependent Young's moduli of nanowires. In this method, the frequency spectra of a [0001]-oriented ZnO nanowire cantilever at elevated temperatures were measured using scanning laser Doppler vibrometry. The temperature-dependent Young's moduli were derived from the resonant frequencies using Euler-Bernoulli beam theory. It was found that the modulus of ZnO nanowires decreased linearly with the increase of temperature from 300 to 650 K, independent of the nanowire diameter ranged from 101 to 350 nm. The temperature coefficient that defines the linear relationship between the dimensionless modulus and temperature is [Formula: see text] which agrees with that of [Formula: see text] being calculated using molecular dynamics with a partially charged rigid ion model.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/30523872/"
-}

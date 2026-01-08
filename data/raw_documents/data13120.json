@@ -1,6 +1,0 @@
-{
-  "pmid": "41437785",
-  "title": "Polygenic risk for psychiatric disorders and its association with neuropsychiatric symptoms in dementia.",
-  "abstract": "Neuropsychiatric symptoms are common in Alzheimer's disease (AD), dementia with Lewy bodies (DLB), and frontotemporal dementia (FTD), yet their genetic underpinnings remain unclear. To gain insight into biological processes related to neuropsychiatric symptoms in dementia, we investigated whether polygenic risk scores (PRS) for psychiatric disorders - major depressive disorder (MDD), schizophrenia (SCZ), bipolar disorder (BD), and autism spectrum disorder (ASD) - are associated with neuropsychiatric symptoms in dementia. Data included genetic and neuropsychiatric data of 6240 AD patients, 428 FTD patients and 390 DLB patients from five European cohorts (ADC, GR@ACE, DELCODE, AgeCoDe, and DCN). PRS for MDD, BD, SCZ, and ASD were calculated using LDpred2. Neuropsychiatric symptoms were assessed using total scores from the Neuropsychiatric Inventory (NPI) (NPI-12 and NPI-Q) and Geriatric Depression scale (GDS). Associations between PRS and symptoms were examined using linear regression models, followed by meta-analyses. In FTD, higher SCZ-PRS associated with lower NPI scores in the meta-analysis (β = -0.12, ",
-  "disease": "alzheimer disease"
-}

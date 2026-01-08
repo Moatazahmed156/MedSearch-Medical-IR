@@ -1,6 +1,0 @@
-{
-  "pmid": "41455991",
-  "title": "HUBMet: an integrative database and analytical platform for human blood metabolites and metabolite-protein associations.",
-  "abstract": "Understanding human blood metabolites is essential for deciphering systemic physiology and disease mechanisms, yet remains challenging due to diverse origins and dynamic regulation. In this study, we develop HUBMet (https://hubmet.app.bio-it.tech/home), an open-access web server that includes 3,950 metabolites and 129,814 metabolite-protein associations, with four analytical modules: Over-Representation Analysis (ORA) for enrichment analysis; Metabolite Set Enrichment Analysis (MSEA) for quantitative data analysis; Tissue Specificity Analysis (TSA) for assessing metabolite-tissue relevance; Metabolite-Protein Network Analysis (MPNet) for identifying key metabolite-protein associations and functional modules. HUBMet's utility is demonstrated through a COVID-19 case study revealing metabolic signatures associated with disease severity.",
-  "disease": "covid-19"
-}

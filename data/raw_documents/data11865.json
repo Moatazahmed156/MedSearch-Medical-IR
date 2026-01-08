@@ -1,6 +1,0 @@
-{
-  "pmid": "41459749",
-  "title": "Genetic evidence for PARP1 trapping as a driver of PARP inhibitor efficacy in BRCA mutant cancer cells.",
-  "abstract": "Clinically approved PARP inhibitors (PARPi) have shown significant efficacy as monotherapy in homologous recombination repair (HRR)-deficient cancers. PARPi suppress PARP enzymatic activity but can also induce PARP trapping onto DNA lesions, and there is an ongoing debate on which of these properties is key in determining their clinical efficacy as single agents. In this study, we found that the enzymatic activity of PARP1 is dispensable for the survival of a BRCA1 mutant (BRCA1m) breast cancer model. However, PARP1 expression is necessary for the efficacy of PARPi in this model, supporting the importance of PARP1 trapping. We also identified and characterised a PARP1 mutation resulting in loss of the enzymatic inhibition and trapping activity of the PARP1-selective inhibitor, saruparib. However, the same mutation increased the trapping ability of other PARPi, namely veliparib and olaparib, without enhancing their enzymatic inhibition activity, a change that led to an increase in efficacy in this BRCA1m model. Together, these data suggest that PARP1 trapping, and not only its enzymatic inhibition, is a key driver for PARPi effectiveness in BRCA1m cancer cells.",
-  "disease": "breast cancer"
-}

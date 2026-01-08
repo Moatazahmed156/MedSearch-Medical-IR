@@ -1,6 +1,0 @@
-{
-  "pmid": "41434227",
-  "title": "Alzheimer's Imaging Consortium.",
-  "abstract": "Visual read of Aβ PET remains standard clinical practice.  150 participants (71.3±6.0 years) in the AIBL study underwent both scans within 2 years. Scans were read by 6 nuclear medicine physicians blinded to CL. Reader performance was compared against various CL thresholds. CL was measured with CapAIBL using a) the standard method, b) a composite cerebellum plus hemispheric white matter reference region for FBP and c) with an AI correction method for the CL SUVR (DeepSUVR). The DeepSUVR correction was learnt from a separate dataset of longitudinal scans where unexpected temporal changes were penalized and a tracer specific SUVR correction factor was developed for application to single scans. CL frequency distribution graphs differed for NAV and FBP. Applying the DeepSUVR correction improved the correlation (R Visual read of amyloid PET can accurately detect levels of amyloid below the traditional thresholds of 20 or 25CL for a positive scan. Visual read thresholds vary by tracer and reader experience. AI correction of CL with the DeepSUVR method significantly improves the performance of Florbetapir but NAV4694 remains more sensitive to low amyloid levels.",
-  "disease": "alzheimer disease"
-}

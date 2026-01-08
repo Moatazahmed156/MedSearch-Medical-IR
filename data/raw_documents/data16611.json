@@ -1,6 +1,0 @@
-{
-  "pmid": "41352419",
-  "title": "Viral peptides remodel the tumor immune microenvironment of cold tumors with RNA-seq insights.",
-  "abstract": "Cold tumors, characterized by low cytotoxic T cell infiltration, limit immunotherapy efficacy. Current strategies often depend on tumor-specific antigens or non-specific immune activation, restricting translational potential. Here, we present a peptide-based platform that leverages intratumoral expression of influenza-derived peptides to redirect virus-specific CD8⁺ T cells and remodel the tumor immune microenvironment in an antigen-independent manner. In murine 4T1 and CT26 tumor models, the immunodominant influenza A virus peptide NP Intratumoral NP This study demonstrates a peptide-based platform to remodel cold tumor immune microenvironments. Integration of transcriptomic profiling provides mechanistic insights and establishes a robust workflow for evaluating immunomodulatory technologies. This tumor-agnostic approach may enhance anti-tumor immunity and improve immunotherapy efficacy in cold tumors.",
-  "disease": "influenza"
-}

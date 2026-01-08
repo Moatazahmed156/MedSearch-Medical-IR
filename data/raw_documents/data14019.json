@@ -1,6 +1,0 @@
-{
-  "pmid": "41337080",
-  "title": "Continuum finger rehabilitation system for rheumatoid arthritis.",
-  "abstract": "Hand movement disorders caused by rheumatoid arthritis (RA) significantly impact patients' quality of life by restricting essential functions such as grasping and pinching. Conventional rehabilitation methods, including therapeutic exercises and splinting, lack precision in addressing individual joint movements and fail to adapt to specific deformities like swan neck and boutonniere. Robotic-assisted rehabilitation has the potential to provide targeted therapy, but existing devices lack the specificity required for deformity management. This study presents a continuum robot-based hand rehabilitation system for RA patients, utilizing a tendon-driven mechanism to enable precise independent joint exercises. The proposed system allows for customized rehabilitation, addressing each deformity with targeted movements while maintaining the stability of unaffected joints. The proposed system is designed in the MATLAB Simscape Multibody environment, and kinematic simulation experiments are conducted for the expected scenarios. Results of these simulations demonstrate the system's feasibility in executing controlled joint movements, filling a critical gap in current therapeutic approaches.",
-  "disease": "rheumatoid arthritis"
-}

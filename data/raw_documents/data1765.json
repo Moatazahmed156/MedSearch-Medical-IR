@@ -1,9 +1,0 @@
-{
-    "title": "Mechanism of oxidant-induced mistranslation by threonyl-tRNA synthetase.",
-    "doc_id": "24744241",
-    "writer": "Wu J",
-    "year": "2014",
-    "summary": "The mechanism of C182 oxidation remains unclear. Here we used a chemical probe to demonstrate that C182 was oxidized to sulfenic acid by air, hydrogen peroxide and hypochlorite. ...We showed that H73 and H186, but not H77, were critical for activating C182 for ox …",
-    "abstract": "Aminoacyl-tRNA synthetases maintain the fidelity during protein synthesis by selective activation of cognate amino acids at the aminoacylation site and hydrolysis of misformed aminoacyl-tRNAs at the editing site. Threonyl-tRNA synthetase (ThrRS) misactivates serine and utilizes an editing site cysteine (C182 in Escherichia coli) to hydrolyze Ser-tRNA(Thr). Hydrogen peroxide oxidizes C182, leading to Ser-tRNA(Thr) production and mistranslation of threonine codons as serine. The mechanism of C182 oxidation remains unclear. Here we used a chemical probe to demonstrate that C182 was oxidized to sulfenic acid by air, hydrogen peroxide and hypochlorite. Aminoacylation experiments in vitro showed that air oxidation increased the Ser-tRNA(Thr) level in the presence of elongation factor Tu. C182 forms a putative metal binding site with three conserved histidine residues (H73, H77 and H186). We showed that H73 and H186, but not H77, were critical for activating C182 for oxidation. Addition of zinc or nickel ions inhibited C182 oxidation by hydrogen peroxide. These results led us to propose a model for C182 oxidation, which could serve as a paradigm for the poorly understood activation mechanisms of protein cysteine residues. Our work also suggests that bacteria may use ThrRS editing to sense the oxidant levels in the environment.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/24744241/"
-}

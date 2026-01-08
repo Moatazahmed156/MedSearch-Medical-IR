@@ -1,7 +1,0 @@
-{
-    "pmid": "41469493",
-    "title": "Modeling trap dynamics in oxide-engineered heterostructure TFETs for breast cancer detection.",
-    "abstract": "This work presents a reliability-focused modeling study of trap-induced hysteresis in a heterostructure oxide-engineered double-gated tunnel field-effect transistor based biosensor for breast cancer detection. Our study reveals how interface traps impact threshold voltage shifts, current sensitivity, and overall sensing stability under varying sweep rates and temperatures. We explore the role of trap location by comparing two critical interfaces, InAs-Si at the source-channel tunneling junction and Si-SiO",
-    "disease": "breast cancer",
-    "clean_text": "modeling trap dynamics in oxide engineered heterostructure tfets for breast cancer detection this work presents a reliability focused modeling study of trap induced hysteresis in a heterostructure oxide engineered double gated tunnel field effect transistor based biosensor for breast cancer detection our study reveals how interface traps impact threshold voltage shifts current sensitivity and overall sensing stability under varying sweep rates and temperatures we explore the role of trap location by comparing two critical interfaces inas si at the source channel tunneling junction and si sio"
-}

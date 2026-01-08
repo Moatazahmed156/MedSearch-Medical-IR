@@ -1,9 +1,0 @@
-{
-    "title": "circEPSTI1 regulates ovarian cancer progression via decoying miR-942.",
-    "doc_id": "30887698",
-    "writer": "Xie J",
-    "year": "2019",
-    "summary": "Increasing studies show that circular RNAs (circRNAs) play vital roles in tumour progression. But, how circRNAs function in ovarian cancer is mostly unclear. Here, we detected the expression of circEPSTI1 in ovarian cancer and explored the function of …",
-    "abstract": "Increasing studies show that circular RNAs (circRNAs) play vital roles in tumour progression. But, how circRNAs function in ovarian cancer is mostly unclear. Here, we detected the expression of circEPSTI1 in ovarian cancer and explored the function of circEPSTI1 in ovarian cancer via a series of experiments. Then, we performed luciferase assay and RNA immunoprecipitation (RIP) assay to explore the competing endogenous RNA (ceRNA) function of circEPSTI1 in ovarian cancer. qRT-PCR verified that circEPSTI1 was overexpressed in ovarian cancer. Inhibition of circEPSTI1 suppressed ovarian cancer cell proliferation, invasion but promoted cell apoptosis. Luciferase assays and RIP assay showed that circEPSTI1 and EPSTI1 (epithelial stromal interaction 1) could directly bind to miR-942. And circEPSTI1 could regulate EPSTI1 expression via sponging miR-942. In summary, circEPSTI1 regulated EPSTI1 expression and ovarian cancer progression by sponging miR-942. circEPSTI1 could be used as a biomarker and therapeutic target in ovarian cancer.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/30887698/"
-}

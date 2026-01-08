@@ -1,9 +1,0 @@
-{
-    "title": "Close contact behaviors of university and school students in 10 indoor environments.",
-    "doc_id": "37463561",
-    "writer": "Zhang N",
-    "year": "2023",
-    "summary": "We collected 337,056 s of indoor close contact of school and university students from 194.5 h of depth video recordings in 10 types of indoor environments. ...Individuals in restaurants had the highest close contact ratio (64%), as well as the highest probability of face-t …",
-    "abstract": "Close contact routes, including short-range airborne and large-droplet routes, play an important role in the transmission of SARS-CoV-2 in indoor environments. However, the exposure risk of such routes is difficult to quantify due to the lack of data on the close contact behavior of individuals. In this study, a digital wearable device, based on semi-supervised learning, was developed to automatically record human close contact behavior. We collected 337,056 s of indoor close contact of school and university students from 194.5 h of depth video recordings in 10 types of indoor environments. The correlation between aerosol exposure and close contact behaviors was then evaluated. Individuals in restaurants had the highest close contact ratio (64%), as well as the highest probability of face-to-face pattern (78%) during close contact. Accordingly, university students showed greater exposure potential in dormitories than school students in homes, however, a lower exposure was observed in classrooms and postgraduate student offices in comparison with school students in classrooms. In addition, restaurants had the highest aerosol exposure volume for both short-range inhalation and direct deposition on the facial mucosa. Thus, the classroom was established as the primary indoor environment where school students are exposed to aerosols.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/37463561/"
-}

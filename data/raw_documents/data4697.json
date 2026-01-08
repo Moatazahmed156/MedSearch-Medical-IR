@@ -1,9 +1,0 @@
-{
-    "title": "A spatiotemporal cell atlas of cardiopulmonary progenitor cell allocation during development.",
-    "doc_id": "40178979",
-    "writer": "Wen H",
-    "year": "2025",
-    "summary": "Additionally, it serves as a source of cardiopulmonary progenitor cells (CPPs) expressing Wnt2 that give rise to both cardiac and lung mesodermal cell lineages. ...Using computational analyses, we created a CPP-derived cell atlas that revealed a previo …",
-    "abstract": "The heart and lung co-orchestrate their development during organogenesis. The mesoderm surrounding both the developing heart and anterior foregut endoderm provides instructive cues guiding cardiopulmonary development. Additionally, it serves as a source of cardiopulmonary progenitor cells (CPPs) expressing Wnt2 that give rise to both cardiac and lung mesodermal cell lineages. Despite the mesoderm's critical importance to both heart and lung development, mechanisms guiding CPP specification are unclear. To address this, we lineage traced Wnt2+ CPPs at E8.5 and performed single-cell RNA sequencing on collected progeny across the developmental lifespan. Using computational analyses, we created a CPP-derived cell atlas that revealed a previously underappreciated spectrum of CPP-derived cell lineages, including all lung mesodermal lineages, ventricular cardiomyocytes, and epicardial and pericardial cells. By integrating spatial mapping with computational cell trajectory analysis and transcriptional profiling, we have provided a potential molecular and cellular roadmap for cardiopulmonary development.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40178979/"
-}

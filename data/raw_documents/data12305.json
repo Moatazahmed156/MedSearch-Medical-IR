@@ -1,6 +1,0 @@
-{
-  "pmid": "41450878",
-  "title": "Integration of a novel anti-PD-1 antibody with chimeric antigen receptor-T engineered to express interleukin-7 enhances targeting efficacy against lung cancer.",
-  "abstract": "Chimeric antigen receptor (CAR) T cell therapy has emerged as a promising approach for hematological malignancies, yet its efficacy in solid tumors is hindered by limited persistence. To address this, immune checkpoint inhibitors (ICIs) and cytokines have been explored as potential solutions. In this study, we developed a novel monoclonal antibody (mAb), m8A8, which exhibits high specificity for human PD-1 and effectively disrupts its ligand interactions. Furthermore, we engineered CAR-T cells to express human IL-7, resulting in enhanced anti-tumor efficacy in xenograft models. Additionally, the human-mouse chimeric antibody C8A8, derived from m8A8, was found to significantly amplify the anti-tumor activity of IL-7-engineered CAR-T cells. Our findings provide compelling evidence and a robust rationale for the synergistic integration of ICIs, cytokines, and CAR-T cell therapy in the treatment of solid tumors.",
-  "disease": "lung cancer"
-}

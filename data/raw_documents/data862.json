@@ -1,9 +1,0 @@
-{
-    "title": "Dynamic modeling of the tight junction pore pathway.",
-    "doc_id": "28605031",
-    "writer": "Weber CR",
-    "year": "2017",
-    "summary": "Claudins define paracellular permeability to small molecules by forming ion-selective pores within the tight junction. We recently demonstrated that claudin-2 channels are gated and open and close on a submillisecond timescale. ...This model considers the complex an …",
-    "abstract": "Claudins define paracellular permeability to small molecules by forming ion-selective pores within the tight junction. We recently demonstrated that claudin-2 channels are gated and open and close on a submillisecond timescale. To determine if and how the ensemble behavior of this unique class of entirely extracellular gated ion channels could define global epithelial barrier function, we have developed an in silico model of local claudin-2 behavior. This model considers the complex anastomosing ultrastructure of tight junction strands and can be scaled to show that local behavior defines global epithelial barrier function of epithelial monolayers expressing different levels of claudin-2. This is the first mathematical model to describe global epithelial barrier function in terms of the dynamic behavior of single tight junction channels and establishes a framework to consider gating kinetics as a means to regulate barrier function.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/28605031/"
-}

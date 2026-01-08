@@ -1,6 +1,0 @@
-{
-  "pmid": "41472822",
-  "title": "Sleep staging through an unsupervised learning lens.",
-  "abstract": "Sleep is one of the most essential parts of our daily lives. The gold standard for studying sleep is polysomnography (PSG) recordings. The first step of analyzing PSG recordings involves splitting them into sleep stages, which is performed manually. Machine learning algorithms have attempted to automate the tedious task of sleep scoring, mostly via supervised learning. A recent study in ",
-  "disease": "epilepsy"
-}

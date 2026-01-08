@@ -1,6 +1,0 @@
-{
-  "pmid": "41444224",
-  "title": "GBP2 condensates promote ferroptosis to sensitize anti-PD-L1 immunotherapy in melanoma.",
-  "abstract": "The mechanisms underlying the limited response to immune checkpoint blockade (ICB) remain unclear. One explanation is that tumors escape cytotoxic T cell killing by disrupting interferon-gamma (IFN-γ) signaling. Here we show that guanylate-binding protein 2 (GBP2), an IFN-γ-inducible molecule, functions as a general amplifier of T cell-mediated cytotoxicity by promoting ferroptosis in melanoma. GBP2 enhances STAT1 activation and suppresses SLC7A11, thereby sensitizing tumor cells to ferroptotic death. Upon IFN-γ stimulation, GBP2 undergoes phase separation through an intrinsically disordered region, forming condensates that sequester SHP1 and sustain STAT1 activation. Disrupting GBP2 phase separation impairs ferroptosis, accelerates tumor growth, and weakens T cell-driven tumor control. GBP2 also increases HMGB1 release from ferroptotic cells, promoting cytotoxic T cell infiltration. These findings identify GBP2 as a key mediator linking IFN-γ signaling to ferroptosis and demonstrate that enhancing this pathway can improve tumor responsiveness to ICB immunotherapy.",
-  "disease": "tuberculosis"
-}

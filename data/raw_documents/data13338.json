@@ -1,6 +1,0 @@
-{
-  "pmid": "41446127",
-  "title": "Pathway Anchored Multimodal Clustering Reveals Circuit Level Signatures in Parkinsons Disease.",
-  "abstract": "Parkinson's disease is increasingly understood as a disorder of distributed brain circuits, yet most imaging analyses do not explicitly respect pathway structure. We introduce a pathway-anchored, multimodal clustering framework based on Scalable Robust Variational Compositional Co-clustering (SRVCC) that integrates structural MRI, free-water-corrected diffusion MRI, and DAT-SPECT in anatomically defined circuits. For each pathway, we derive a simple Multimodal Pathway Integrity Score (MPIS) that aggregates ",
-  "disease": "parkinson disease"
-}

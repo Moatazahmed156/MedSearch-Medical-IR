@@ -1,6 +1,0 @@
-{
-  "pmid": "41403444",
-  "title": "Integrating multi-omics, network pharmacology, and experimental validation to unveil the molecular mechanisms of ",
-  "abstract": "This study employs an integrated approach combining multi-omics analysis, network pharmacology, machine learning, and experimental validation to elucidate the molecular mechanisms of  Asthma-related differentially expressed genes (DEGs) were identified from GEO datasets (GSE63142 and GSE14787). Weighted gene co-expression network analysis (WGCNA) was performed on GSE14787. Active ingredient targets of  Yielded 3,755 DEGs and the MEblack module correlated with asthma. Identified 1,317 potential targets, with 100 intersecting DEGs. Hub targets included HSP90AB1, CCNB1, CASP9, CDK6, NR3C1, ERBB2, and CCK. Strong binding affinities (e.g., carboxyatractyloside with HSP90AB1 at -10.09 kcal/mol) and stable complexes were confirmed. Immune profiling showed altered cell populations. ",
-  "disease": "asthma"
-}

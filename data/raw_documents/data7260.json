@@ -1,9 +1,0 @@
-{
-    "title": "Combined Gene Expression and Chromatin Immunoprecipitation From a Single Mouse Hippocampus.",
-    "doc_id": "33566459",
-    "writer": "Helbling JC",
-    "year": "2021",
-    "summary": "Nowadays, gene expression analyzed by real-time quantitative PCR and TF binding estimated by chromatin immunoprecipitation (ChIP) enables one to dissect this regulation. ...Thus, we have set up a protocol that allows extraction of both RNA for gene express …",
-    "abstract": "All neuronal cells hold the same genetic information but vary by their structural and functional plasticity depending on the brain area and environmental influences. Such variability involves specific gene regulation, which is driven by transcription factors (TFs). In the field of neuroscience, epigenetics is the main mechanism that has been investigated to understand the dynamic modulation of gene expression by behavioral responses, stress responses, memory processes, etc. Nowadays, gene expression analyzed by real-time quantitative PCR and TF binding estimated by chromatin immunoprecipitation (ChIP) enables one to dissect this regulation. Because of the wide range of transgenic models, as well as cost-effective aspects, mouse models are widely used neuroscience. Thus, we have set up a protocol that allows extraction of both RNA for gene expression analysis and chromatin for ChIP experiment from a single mouse hippocampus. Using such protocols, information regarding gene expression and regulatory molecular mechanisms from the same animal can be integrated and correlated with neurobiological and behavioral outcomes. © 2021 Wiley Periodicals LLC. Basic Protocol 1: Hippocampus isolation from mouse brain Basic Protocol 2: RNA extraction and gene expression analysis from a mouse half hippocampus Basic Protocol 3: ChIP from one hemisphere side mouse hippocampus.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/33566459/"
-}

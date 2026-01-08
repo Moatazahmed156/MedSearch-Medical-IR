@@ -1,9 +1,0 @@
-{
-    "title": "Identifying chromatin features that regulate gene expression distribution.",
-    "doc_id": "33239733",
-    "writer": "Zhang T",
-    "year": "2020",
-    "summary": "Gene expression variability, differences in the number of mRNA per cell across a population of cells, is ubiquitous across diverse organisms with broad impacts on cellular phenotypes. The role of chromatin in regulating average gene expression has been …",
-    "abstract": "Gene expression variability, differences in the number of mRNA per cell across a population of cells, is ubiquitous across diverse organisms with broad impacts on cellular phenotypes. The role of chromatin in regulating average gene expression has been extensively studied. However, what aspects of the chromatin contribute to gene expression variability is still underexplored. Here we addressed this problem by leveraging chromatin diversity and using a systematic investigation of randomly integrated expression reporters to identify what aspects of chromatin microenvironment contribute to gene expression variability. Using DNA barcoding and split-pool decoding, we created a large library of isogenic reporter clones and identified reporter integration sites in a massive and parallel manner. By mapping our measurements of reporter expression at different genomic loci with multiple epigenetic profiles including the enrichment of transcription factors and the distance to different chromatin states, we identified new factors that impact the regulation of gene expression distributions.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/33239733/"
-}

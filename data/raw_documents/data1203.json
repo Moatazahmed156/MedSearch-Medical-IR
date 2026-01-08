@@ -1,9 +1,0 @@
-{
-    "title": "Understanding Type 2 Diabetes Mellitus Risk Parameters through Intermittent Fasting: A Machine Learning Approach.",
-    "doc_id": "37764710",
-    "writer": "Shazman S.",
-    "year": "2023",
-    "summary": "Type 2 diabetes mellitus (T2DM) is a chronic metabolic disorder characterized by elevated blood glucose levels. ...",
-    "abstract": "Type 2 diabetes mellitus (T2DM) is a chronic metabolic disorder characterized by elevated blood glucose levels. Despite the availability of pharmacological treatments, dietary plans, and exercise regimens, T2DM remains a significant global cause of mortality. As a result, there is an increasing interest in exploring lifestyle interventions, such as intermittent fasting (IF). This study aims to identify underlying patterns and principles for effectively improving T2DM risk parameters through IF. By analyzing data from multiple randomized clinical trials investigating various IF interventions in humans, a machine learning algorithm was employed to develop a personalized recommendation system. This system offers guidance tailored to pre-diabetic and diabetic individuals, suggesting the most suitable IF interventions to improve T2DM risk parameters. With a success rate of 95%, this recommendation system provides highly individualized advice, optimizing the benefits of IF for diverse population subgroups. The outcomes of this study lead us to conclude that weight is a crucial feature for females, while age plays a determining role for males in reducing glucose levels in blood. By revealing patterns in diabetes risk parameters among individuals, this study not only offers practical guidance but also sheds light on the underlying mechanisms of T2DM, contributing to a deeper understanding of this complex metabolic disorder.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/37764710/"
-}

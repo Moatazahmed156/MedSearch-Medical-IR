@@ -1,6 +1,0 @@
-{
-  "pmid": "41468265",
-  "title": "Protocol for high-throughput drug screening in 384-well 3D collagen cultures of SC colorectal cancer cells using colony morphology as a readout.",
-  "abstract": "Growth of cells in 3D cultures can more accurately predict in vivo behavior than the traditional 2D culture system, which lacks the complex environment of natural tissue. In this protocol, we provide steps to generate 3D collagen cultures in a 384-well format suited for high-throughput drug screens. We also detail our use of this protocol to assess morphological changes to 3D colonies of SC colorectal cancer cells, which serve as a robust readout for drug response. For complete details on the use and execution of this protocol, please refer to Harmych et al.",
-  "disease": "colorectal cancer"
-}

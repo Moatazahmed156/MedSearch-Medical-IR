@@ -1,9 +1,0 @@
-{
-    "title": "Evaluating differences in Young's Modulus of regenerated and uninjured mouse digit bone through microCT density-based calculation and nanoindentation testing.",
-    "doc_id": "36095912",
-    "writer": "Hoffseth KF",
-    "year": "2022",
-    "summary": "Here we describe an image-processing based method for assessment of mechanical properties in the regenerated digit by using micro-computed tomography mineral density data to calculate spatially discrete Young's modulus values throughout the entire distal third phalange. Fu …",
-    "abstract": "The mouse digit tip amputation model is an excellent model of bone regeneration, but its size and shape present an obstacle for biomechanical testing. As a result, assessing the structural quality of the regenerated bone in this model has focused on mineral density and bone architecture analysis. Here we describe an image-processing based method for assessment of mechanical properties in the regenerated digit by using micro-computed tomography mineral density data to calculate spatially discrete Young's modulus values throughout the entire distal third phalange. Further, we validate this method through comparison to nanoindentation-measured values for Young's modulus. Application to a set of regenerated and unamputated digits shows that regenerated bone has a lower Young's modulus compared to the uninjured digit, with a similar trend for experimental hardness values. Importantly, this method heightens the utility of the digit regeneration model, allows for more impactful treatment evaluation using the model, and introduces an analysis platform that can be used for other bones that do not conform to a standard long-bone model.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/36095912/"
-}

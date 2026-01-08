@@ -1,9 +1,0 @@
-{
-    "title": "An RNA transmethylation pathway governs kidney nephrogenic potential.",
-    "doc_id": "40436842",
-    "writer": "Ramalingam H",
-    "year": "2025",
-    "summary": "The adult kidney lacks the ability to generate new nephrons, placing individuals born with low nephron counts at greater risk for chronic kidney disease as they age. ...Here we show that S-adenosylmethionine (SAM) and cellular transmethylation status are crucial det …",
-    "abstract": "The adult kidney lacks the ability to generate new nephrons, placing individuals born with low nephron counts at greater risk for chronic kidney disease as they age. Limited nutrient availability hinders nephron formation; however, the key metabolic dependencies remain unclear. Here we show that S-adenosylmethionine (SAM) and cellular transmethylation status are crucial determinants of the kidney's nephrogenic capacity. The RNA methyltransferase METTL3 serves as a SAM sensor and is essential for the fate determination of nephron progenitor cells (NPCs). Reducing transmethylation or inhibiting METTL3 blocks NPC differentiation and nephrogenesis, whereas enhancing transmethylation or increasing METTL3 activity facilitates an induced NPC population and increases nephron production. Additionally, we identify Lrpprc mRNA, encoding a mitochondrially enriched protein, as a key direct target of METTL3-mediated transmethylation. Accordingly, inhibiting LRPPRC negates the nephrogenic effects of SAM and METTL3. Our findings reveal a modifiable methionine-SAM-RNA transmethylation pathway that can be targeted to enhance nephron formation.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40436842/"
-}

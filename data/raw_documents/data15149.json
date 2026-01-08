@@ -1,6 +1,0 @@
-{
-  "pmid": "41336317",
-  "title": "Integrative Analysis of Multi-Omics Data for Biomarker Discovery.",
-  "abstract": "The complexity of biological systems and the limitations of analyzing individual omics studies for biomarker discovery have raised the need for a holistic approach by multi-omics integration. By integrating data from multiple layers, researchers can gain insights into the entire system rather than just individual components. Also, integrative analysis can help identify molecular signatures that are more accurate in predicting disease onset, progression, and response to treatment, leading to better-targeted therapies and personalized medicine. In this paper, we explored statistical and deep learning methods for integrative analysis of metabolomics, lipidomics, peptidomics, proteomics, and glycoproteomics data acquired by LC-MS/MS analysis of serum samples from 20 hepatocellular carcinoma (HCC) cases and 20 patients with liver cirrhosis (CIRR). The goal is to identify a panel of multi-omics features that distinguish HCC cases from cirrhotic controls. A pathway analysis using these features identified biological pathways such as LXR/RXR Activation and Acute Response signaling as significantly enriched in our multi-omics datasets.",
-  "disease": "liver cirrhosis"
-}

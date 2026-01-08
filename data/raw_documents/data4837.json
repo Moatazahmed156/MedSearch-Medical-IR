@@ -1,9 +1,0 @@
-{
-    "title": "Measurement of Residual Stress and Young's Modulus on Micromachined Monocrystalline 3C-SiC Layers Grown on <111> and <100> Silicon.",
-    "doc_id": "34577716",
-    "writer": "Sapienza S",
-    "year": "2021",
-    "summary": "In this way, both the residual stress and the residual strain can be measured independently, and Young's modulus can be obtained by Hooke's law. From these measurements, it has been observed that Young's modulus depends on the thickness of the layer, the orientation …",
-    "abstract": "3C-SiC is an emerging material for MEMS systems thanks to its outstanding mechanical properties (high Young's modulus and low density) that allow the device to be operated for a given geometry at higher frequency. The mechanical properties of this material depend strongly on the material quality, the defect density, and the stress. For this reason, the use of SiC in Si-based microelectromechanical system (MEMS) fabrication techniques has been very limited. In this work, the complete characterization of Young's modulus and residual stress of monocrystalline 3C-SiC layers with different doping types grown on <100> and <111> oriented silicon substrates is reported, using a combination of resonance frequency of double clamped beams and strain gauge. In this way, both the residual stress and the residual strain can be measured independently, and Young's modulus can be obtained by Hooke's law. From these measurements, it has been observed that Young's modulus depends on the thickness of the layer, the orientation, the doping, and the stress. Very good values of Young's modulus were obtained in this work, even for very thin layers (thinner than 1 μm), and this can give the opportunity to realize very sensitive strain sensors.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/34577716/"
-}

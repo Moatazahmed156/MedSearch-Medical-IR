@@ -1,6 +1,0 @@
-{
-  "pmid": "41461634",
-  "title": "Targeting TRIM15-mediated Axin1 depolymerization suppresses Wnt signaling and inhibits colorectal cancer growth.",
-  "abstract": "Axin1 plays a critical role in regulating the Wnt/β-catenin signaling pathway and cancer progression, and its polymerization is indispensable for the assembly of the β-catenin destruction complex. However, the mechanisms that control Axin1 polymerization are limited. Here, we reveal that TRIM15 interferes with the polymerization of Axin1, thereby promoting Wnt activation and colorectal cancer growth. Mechanistically, TRIM15 strongly interacts with Axin1 through its coiled-coil domain to disrupt the polymerization among Axin1 molecules. Manipulation of TRIM15 expression dramatically weakens Wnt signaling, cell proliferation, and tumor growth. Furthermore, conditional genetic ablation of Trim15 in mice inhibits tumor formation in both AOM/DSS-induced and Apc",
-  "disease": "lung cancer"
-}

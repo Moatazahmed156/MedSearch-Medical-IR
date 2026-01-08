@@ -1,6 +1,0 @@
-{
-  "pmid": "41454525",
-  "title": "Spatial Dynamics of Tumor Cell Plasticity in Lung Adenocarcinoma Revealed by Region-Specific Single Cell Transcriptomics.",
-  "abstract": "Tumor cell plasticity plays a key role in the progression of malignant neoplasms and therapy resistance, yet its spatial dynamics remain poorly understood. This study investigates the spatial distribution of epithelial-mesenchymal transition (EMT) and stemness, and their prognostic relevance in lung adenocarcinoma (LUAD). Single-cell RNA sequencing was performed on 10 tumor fragments from three regions (core, core-adjacent, and edge) of a single LUAD using a SURFSeq 5000 platform. Stemness potential was identified by CytoTRACE2, EMT by UCell and the Hallmark_epithelial_mesenchymal_transition signature, and tumor cells associated with disease prognosis by Scissor. LUAD displayed pronounced spatial heterogeneity of tumor cell plasticity. Stemness potential was heightened at the edge, while EMT was most prominent in the core. The correlation between EMT and stemness was slightly higher at the edge, though it remained negligible (R = 0.17, p = 5.5e",
-  "disease": "lung cancer"
-}

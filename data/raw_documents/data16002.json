@@ -1,6 +1,0 @@
-{
-  "pmid": "41437981",
-  "title": "Antibiotic Use Thresholds for Carbapenem-Resistant Gram-Negative Bacteria: A Nonlinear Time-Series Study.",
-  "abstract": "To study the association between antimicrobial use density (AUD) and carbapenem-resistant gram-negative bacteria (CRGN) detection rate in a Hospital from 2015 to 2023 and to determine the critical threshold for antimicrobial drug use. The consumption of antibiotics and the detection rates of four CRGN from inpatients were obtained on quarterly. Regression discontinuity design was used to determine the effect of antibiotics on the detection rates of CRGN. Nonlinear time-series analysis with generalized additivity models (GAMs) was applied. A  The consumption of antibiotics remained stable from 2015 to 2019, then showed a decreasing trend from the first quarter of 2020 to the first quarter of 2021, subsequently showed a gradual increasing trend from the second quarter of 2021 to the fourth quarter of 2023. The detection rate of carbapenem-resistant  AUD is associated with the detection rates of CRGN. To reduce the detection rates of CRGN, we determined thresholds for carbapenems, aminoglycosides, fluoroquinolones, and glycopeptides at 5.82, 0.06, 7.09, and 0.77 Defined Daily Doses (DDDs)/(100 patient-days), respectively.",
-  "disease": "pneumonia"
-}

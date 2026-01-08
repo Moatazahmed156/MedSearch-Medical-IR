@@ -1,6 +1,0 @@
-{
-  "pmid": "41454979",
-  "title": "Association between specific neuroticism symptoms and cardiovascular disease: insights from genetic analysis.",
-  "abstract": "Although neuroticism has been linked to cardiovascular disease (CVD), the etiological relevance of individual neuroticism symptoms remains poorly understood. In this study, we employed Linkage disequilibrium score regression (LDSC) and systematic Mendelian randomization (MR) analyses to examine the potential causal effects of specific neuroticism symptoms on CVD. We obtained summary-level data on 13 specific neuroticism symptoms from the UK Biobank (ranging from 366,726-380,506 participants). Summary statistics for CVD originated from three European-descent GWASs with a total of 799,534 participants. LDSC was performed to investigate the genetic associations between specific neuroticism symptoms and CVD. The inversevariance weighted approach was applied to test the causality for the studied associations, together with extensive validation and sensitivity analyses to verify the main results. LDSC revealed significant genetic correlations between most neuroticism symptoms and CVD ri(r",
-  "disease": "coronary artery disease"
-}

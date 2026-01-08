@@ -1,6 +1,0 @@
-{
-  "pmid": "41458910",
-  "title": "SARS-CoV-2 nonstructural protein 1 suppresses host transcription by reducing RNA polymerase II levels.",
-  "abstract": "The COVID-19 pandemic has caused devastating global losses and massive mortality. The nonstructural protein 1 (NSP1) of SARS-CoV-2 plays a vital role in suppressing host protein synthesis. However, its effect on host gene transcription remains uncertain. We established a reporter system that enables the isolation of NSP1-overexpressing cells and confirmed that NSP1 leads to a global reduction in host mRNA levels, including those of common housekeeping genes. To accurately quantify transcriptomic changes in total and nascent RNA, we developed a pipeline integrating thio-labeled RNA sequencing (SLAM-seq) with External RNA Controls Consortium (ERCC) spike-in RNA normalization. Our research revealed a widespread downregulation of host mRNAs upon NSP1 expression, with virtually no genes significantly upregulated. Normalizing nascent RNA with ERCC spike-ins illustrated that NSP1 obstructed transcription by reducing RNA polymerase II levels. This study establishes a robust framework for investigating NSP1 and viral factors, providing insights into coronavirus-host interactions and potential therapies.",
-  "disease": "covid-19"
-}

@@ -1,9 +1,0 @@
-{
-    "title": "Comparative single-cell analyses identify shared and divergent features of human and mouse kidney development.",
-    "doc_id": "39121855",
-    "writer": "Kim S",
-    "year": "2024",
-    "summary": "The mammalian kidney maintains fluid homeostasis through diverse epithelial cell types generated from nephron and ureteric progenitor cells. To extend a developmental understanding of the kidney's epithelial networks, we compared chromatin organization (singl …",
-    "abstract": "The mammalian kidney maintains fluid homeostasis through diverse epithelial cell types generated from nephron and ureteric progenitor cells. To extend a developmental understanding of the kidney's epithelial networks, we compared chromatin organization (single-nuclear assay for transposase-accessible chromatin sequencing [ATAC-seq]; 112,864 nuclei) and gene expression (single-cell/nuclear RNA sequencing [RNA-seq]; 109,477 cells/nuclei) in the developing human (10.6-17.6 weeks; n = 10) and mouse (post-natal day [P]0; n = 10) kidney, supplementing analysis with published mouse datasets from earlier stages. Single-cell/nuclear datasets were analyzed at a species level, and then nephron and ureteric cellular lineages were extracted and integrated into a common, cross-species, multimodal dataset. Comparative computational analyses identified conserved and divergent features of chromatin organization and linked gene activity, identifying species-specific and cell-type-specific regulatory programs. In situ validation of human-enriched gene activity points to human-specific signaling interactions in kidney development. Further, human-specific enhancer regions were linked to kidney diseases through genome-wide association studies (GWASs), highlighting the potential for clinical insight from developmental modeling.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/39121855/"
-}

@@ -1,9 +1,0 @@
-{
-    "title": "Importance of housekeeping gene selection for accurate reverse transcription-quantitative polymerase chain reaction in a wound healing model.",
-    "doc_id": "20731795",
-    "writer": "Turabelidze A",
-    "year": "2010",
-    "summary": "The purpose of our current investigation was to identify the most stable housekeeping genes for studying gene expression in mouse wound healing using RT-qPCR. To identify which housekeeping genes are optimal for studying gene expression in wound healing, we examined …",
-    "abstract": "Studies in the field of wound healing have utilized a variety of different housekeeping genes for reverse transcription-quantitative polymerase chain reaction (RT-qPCR) analysis. However, nearly all of these studies assume that the selected normalization gene is stably expressed throughout the course of the repair process. The purpose of our current investigation was to identify the most stable housekeeping genes for studying gene expression in mouse wound healing using RT-qPCR. To identify which housekeeping genes are optimal for studying gene expression in wound healing, we examined all articles published in Wound Repair and Regeneration that cited RT-qPCR during the period of January/February 2008 until July/August 2009. We determined that ACTβ, GAPDH, 18S, and β2M were the most frequently used housekeeping genes in human, mouse, and pig studies. We also investigated nine commonly used housekeeping genes that are not generally used in wound healing models: GUS, TBP, RPLP2, ATP5B, SDHA, UBC, CANX, CYC1, and YWHAZ. We observed that wounded and unwounded tissues have contrasting housekeeping gene expression stability. The results demonstrate that commonly used housekeeping genes must be validated as accurate normalizing genes for each individual experimental condition.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/20731795/"
-}

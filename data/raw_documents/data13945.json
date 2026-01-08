@@ -1,6 +1,0 @@
-{
-  "pmid": "41358006",
-  "title": "CRISPR/Cas9-mediated CH2 deletion of Fel d1 triggers transcriptomic reprogramming and disease-associated pathways in feline cells.",
-  "abstract": "Fel d1, the major cat allergen responsible for over 90% of human IgE-mediated allergies, has an incompletely defined physiological role. To explore its function and assess the feasibility of producing hypoallergenic cats, we knocked out the CH2 domain of Fel d1 using CRISPR/Cas9 in feline skin cells. An optimized sgRNA introduced a frameshift mutation, with knockout efficiency validated by sequencing, qRT-PCR, and Western blot. Transcriptomic alterations were profiled by RNA-seq, and functional consequences were investigated via GO, KEGG, and GSEA analyses. Key findings were confirmed by qPCR, and phenotypes were assessed using CCK-8, EdU, and flow cytometry. The approach successfully generated a three-base insertion, resulting in near-complete loss of CH2 mRNA and Fel d1 protein. RNA-seq identified 3,469 differentially expressed genes (DEGs), with significant enrichment in pathways for hypertrophic cardiomyopathy (HCM) and rheumatoid arthritis (RA). Key genes in these pathways (e.g., ",
-  "disease": "rheumatoid arthritis"
-}

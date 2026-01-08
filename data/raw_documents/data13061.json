@@ -1,6 +1,0 @@
-{
-  "pmid": "41445603",
-  "title": "Investigating the Amyloid-Tau-Neurodegeneration Framework in Alzheimer's Disease Using Semi-Supervised Multimodal Imaging Data Fusion.",
-  "abstract": "Alzheimer's disease (AD) is heterogeneous, complicating diagnosis and prognosis. Uncovering patterns that link abnormalities across amyloid-tau-neurodegeneration (A-T-N) framework may improve prediction of clinical diagnosis. We applied SuperBigFLICA (SBF), a semi-supervised multimodal data fusion method, to maps of gray matter density, cortical thickness, pial surface area, amyloid PET, and tau PET in 274 ADNI-3 participants. The model was trained to derive 50 latent components most predictive of a continuous measure of cognitive decline. Latent components' subject loadings were subsequently used to predict diagnosis (cognitively normal, mild cognitive impairment, dementia) and  While SuperBigFLICA modestly predicted cognitive decline (r = 0.21), SBF loadings-based models outperformed baselines (AUROC = 0.80 for diagnosis; 0.83 for  Semi-supervised multimodal fusion improves prediction and reveals interpretable imaging patterns that predict ",
-  "disease": "alzheimer disease"
-}
