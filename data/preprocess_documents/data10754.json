@@ -1,7 +1,0 @@
-{
-    "pmid": "41403609",
-    "title": "A causal inference study on the impact of asthma on the onset of chronic obstructive pulmonary disease: two-sample Mendelian randomization.",
-    "abstract": "Asthma and chronic obstructive pulmonary disease (COPD) are two common respiratory ailments with an overlapping pathogenesis. In this study, using a two-sample Mendelian randomization (MR) approach and analyzing publicly available genome-wide association study (GWAS) datasets, we explored the causal impact of asthma on the onset of COPD. Results: Using genetic instrumental variables associated with asthma ( This study provides robust evidence supporting the causal link between asthma and COPD, offering a more comprehensive understanding of their relationship.",
-    "disease": "asthma",
-    "clean_text": "a causal inference study on the impact of asthma on the onset of chronic obstructive pulmonary disease two sample mendelian randomization asthma and chronic obstructive pulmonary disease copd are two common respiratory ailments with an overlapping pathogenesis in this study using a two sample mendelian randomization mr approach and analyzing publicly available genome wide association study gwas datasets we explored the causal impact of asthma on the onset of copd results using genetic instrumental variables associated with asthma this study provides robust evidence supporting the causal link between asthma and copd offering a more comprehensive understanding of their relationship"
-}

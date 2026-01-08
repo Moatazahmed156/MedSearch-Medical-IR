@@ -1,6 +1,0 @@
-{
-  "pmid": "41370379",
-  "title": "Decoding the CHI3L1/IL-13Rα2 signaling nexus in MASH-fibrosis pathogenesis.",
-  "abstract": "Metabolic dysfunction-associated steatohepatitis (MASH) is a progressive liver disease driven by chronic inflammation and fibrosis, yet the immune mechanisms behind it remain unclear. We identify chitinase 3-like 1 (CHI3L1) as a key mediator linking immune activation to fibrotic remodeling in MASH. Across hepatocyte-macrophage coculture and recombinant interleukin-17A (IL-17A) stimulation assays, we delineate a hepatocyte-associated IL-17A signal that augments macrophage CHI3L1 expression via c-Jun N-terminal kinase (JNK)/c-Jun signaling. CHI3L1 then binds to IL-13Rα2 on hepatic stellate cells (HSCs), triggering a p38 mitogen-activated protein kinase (MAPK)/activating transcription factor 3 (ATF3) cascade that induces lipocalin-2 (LCN2), promoting HSC activation and fibrosis. Using cell-specific knockout models, we show that deleting ",
-  "disease": "liver cirrhosis"
-}

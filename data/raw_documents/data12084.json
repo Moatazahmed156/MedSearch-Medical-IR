@@ -1,6 +1,0 @@
-{
-  "pmid": "41473276",
-  "title": "NKTR-255, a polymer-conjugated IL-15, synergizes with CAR-T cell therapy to activate endogenous anti-tumor immunity and improve tumor control.",
-  "abstract": "CAR-T cells have yet to show widespread efficacy in solid tumors due in part to their poor persistence and loss of function in the tumor microenvironment. Further, heterogenous expression of most CAR target antigens in solid tumors can lead to escape of antigen-null tumors that resist CAR-T killing. Strategies to cooperatively boost both CAR-T and endogenous anti-tumor immunity could curb tumor escape and may be critical for achieving durable efficacy in cancer patients. NKTR-255 is a polymer-conjugated IL-15 with extended half-life that can boost endogenous T and NK cells, as well as CD19 CAR-T activity in B cell malignancies. However, whether NKTR-255 is sufficient to overcome CAR-T dysfunction in the suppressive solid tumor microenvironment, and how NKTR-255 and CAR-Ts together re-shape endogenous anti-tumor immunity, is not known. Using an autochthonous mouse model of ROR1 ",
-  "disease": "lung cancer"
-}

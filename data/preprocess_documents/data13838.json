@@ -1,7 +1,0 @@
-{
-    "pmid": "41394645",
-    "title": "PULSAR: a Foundation Model for Multi-scale and Multi-cellular Biology.",
-    "abstract": "Biology emerges from interactions across physical scales, where molecular interactions drive cellular states, which in turn orchestrate multicellular tissue functions that collectively define health and disease. However, current computational models are often constrained to single scales in isolation, failing to integrate the biology that emerges from lower to higher levels [1]. Here we present PULSAR (",
-    "disease": "rheumatoid arthritis",
-    "clean_text": "pulsar a foundation model for multi scale and multi cellular biology biology emerges from interactions across physical scales where molecular interactions drive cellular states which in turn orchestrate multicellular tissue functions that collectively define health and disease however current computational models are often constrained to single scales in isolation failing to integrate the biology that emerges from lower to higher levels here we present pulsar"
-}

@@ -1,6 +1,0 @@
-{
-  "pmid": "41441193",
-  "title": "New Approach for Targeting Small-Molecule Candidates for Intrinsically Disordered Proteins.",
-  "abstract": "Intrinsically disordered proteins (IDPs), such as the Alzheimer's-associated tau protein, pose challenges for conventional drug discovery. This study applied the Informational Spectrum Method for Small Molecules (ISM-SM), a computational technique utilizing electron-ion interaction potentials (EIIPs), to identify potential tau modulators. Characteristic interaction frequencies derived from known ligands and conserved mammalian tau sequences were used to screen DrugBank and the COCONUT natural product database. The screening identified approved drugs previously reported to indirectly influence tau pathology or Alzheimer's disease pathways, alongside natural products including Bryostatin-14, which is known to modulate kinases involved in tau phosphorylation. These findings suggest that ISM-SM can serve as an in silico tool to identify candidate small molecules, including repurposed drugs and natural products, with potential relevance to tau function and pathology, complementing other IDP drug discovery strategies.",
-  "disease": "alzheimer disease"
-}

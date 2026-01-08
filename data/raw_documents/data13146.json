@@ -1,6 +1,0 @@
-{
-  "pmid": "41434401",
-  "title": "Alzheimer's Imaging Consortium.",
-  "abstract": "The significance of the regional distribution of Aβ-PET signal is not well established. We used data-driven approaches to identify Aβ-PET patterns and their clinicopathological associations in four independent cohorts (12,379 cognitively impaired patients). We analysed multi-tracer template-space Aβ-PET SUVR images to assign clinically impaired participants (MCI/Dementia) into groups based on their topography of Aβ-PET binding. Using the IDEAS cohort, we applied independent component analysis to extract grey matter (GM) components of cortical and subcortical binding we then clustered patients by their score from these GM components using k-means clustering. We then fit data from three independent cohorts to this model assessing associations between Aβ-PET patterns and clinical impairment, APOE-ε4, tau-PET, and neuropathology (Table 1). We retained 11 GM components of Aβ-PET and following k-means clustering uncovered three clusters of participants in IDEAS (Figure 1a). One cluster had low GM Aβ-PET binding (i.e., Aβ-, n = 4729, mean CL=2), while the other two were Aβ+ with differences along a posterior-anterior gradient: Aβ+ We reliably assign patients into an Aβ+",
-  "disease": "alzheimer disease"
-}

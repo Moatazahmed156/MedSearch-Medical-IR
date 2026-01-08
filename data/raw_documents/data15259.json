@@ -1,6 +1,0 @@
-{
-  "pmid": "41471889",
-  "title": "MTBseq-nf: Enabling Scalable Tuberculosis Genomics \"Big Data\" Analysis Through a User-Friendly Nextflow Wrapper for MTBseq Pipeline.",
-  "abstract": "The MTBseq pipeline, published in 2018, was designed to address bioinformatics challenges in tuberculosis (TB) research using whole-genome sequencing (WGS) data. It was the first publicly available tool on GitHub to perform full analysis of WGS data for ",
-  "disease": "tuberculosis"
-}

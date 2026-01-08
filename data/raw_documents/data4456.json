@@ -1,9 +1,0 @@
-{
-    "title": "Breast lesion detection through MammoWave device: Empirical detection capability assessment of microwave images' parameters.",
-    "doc_id": "33848318",
-    "writer": "Sani L",
-    "year": "2021",
-    "summary": "MammoWave is a microwave imaging device for breast lesions detection, which operates using two (azimuthally rotating) antennas without any matching liquid. ...Next, microwave images' parameters, i.e. features, are introduced to quantify the non-homogenous behaviour of the …",
-    "abstract": "MammoWave is a microwave imaging device for breast lesions detection, which operates using two (azimuthally rotating) antennas without any matching liquid. Images, subsequently obtained by resorting to Huygens Principle, are intensity maps, representing the homogeneity of tissues' dielectric properties. In this paper, we propose to generate, for each breast, a set of conductivity weighted microwave images by using different values of conductivity in the Huygens Principle imaging algorithm. Next, microwave images' parameters, i.e. features, are introduced to quantify the non-homogenous behaviour of the image. We empirically verify on 103 breasts that a selection of these features may allow distinction between breasts with no radiological finding (NF) and breasts with radiological findings (WF), i.e. with lesions which may be benign or malignant. Statistical significance was set at p<0.05. We obtained single features Area Under the receiver operating characteristic Curves (AUCs) spanning from 0.65 to 0.69. In addition, an empirical rule-of-thumb allowing breast assessment is introduced using a binary score S operating on an appropriate combination of features. Performances of such rule-of-thumb are evaluated empirically, obtaining a sensitivity of 74%, which increases to 82% when considering dense breasts only.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/33848318/"
-}

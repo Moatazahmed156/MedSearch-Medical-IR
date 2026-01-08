@@ -1,6 +1,0 @@
-{
-  "pmid": "41465461",
-  "title": "Subtype-Specific mRNA Signatures of Human Ribosomal Proteins in Pediatric Cancers.",
-  "abstract": "A growing body of recent work suggests the possibility of heterogeneous ribosomal composition. We recently observed subtype-specific mRNA and copy number variation signatures of human ribosomal proteins (RPs) in cancers from human adults, but whether such subtype-specific RP mRNA signatures are also present in human pediatric cancers is currently unknown. In this study, we analyzed mRNA expression data from multiple large pediatric cancer datasets to test for heterogeneity in RP mRNA signatures. We found that different pediatric cancer types have different RP mRNA signatures, sometimes multiple RP mRNA signatures within the same pediatric cancer type, which can be subgroup/subtype-specific (e.g., in Medulloblastoma) or cell-of-origin-specific (e.g., in Acute Lymphoblastic Leukemia (ALL)). In B-cell ALL, we found two RP mRNA subtypes with significantly different prognoses. Consistent with our recent findings in adult cancers, the RP mRNA signature in pediatric cancer is heterogeneous and subtype-specific and may have clinical relevance.",
-  "disease": "breast cancer"
-}

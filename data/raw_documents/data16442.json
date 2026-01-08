@@ -1,6 +1,0 @@
-{
-  "pmid": "41401070",
-  "title": "ARAP2 regulates responses to interferon-gamma by restricting SOCS1.",
-  "abstract": "Interferon-gamma (IFNγ) is critical for immunity against intra-macrophagic pathogens, signaling through the Janus kinase (JAK)-signal transducer and activator of transcription (STAT) pathway to induce a tyrosine-phosphorylation cascade that ensures a potent immune response. Excessive JAK-STAT signaling can drive hyperinflammation and autoimmunity; thus, signaling is tightly and selectively regulated by the IFNγ-inducible protein, suppressor of cytokine signaling 1 (SOCS1). SOCS1 inhibits signaling by directly blocking JAK kinase activity. Here, we identified a SOCS1-interacting partner, ankyrin repeat and pleckstrin homology domain 2 (ARAP2), that fine-tunes SOCS1 function. We report that tyrosine 415 in ARAP2 binds the SOCS1-Src homology 2 (SH2) domain and limits the ability of SOCS1 to inhibit IFNγ signaling. Our findings show that ARAP2 promotes the IFNγ response through a phosphorylation-dependent interaction with the negative regulator SOCS1, and this exacerbates inflammation in a mouse model of influenza virus infection.",
-  "disease": "influenza"
-}

@@ -1,9 +1,0 @@
-{
-    "title": "Agrochemical control of gene expression using evolved split RNA polymerase.",
-    "doc_id": "35729907",
-    "writer": "Yuan Y",
-    "year": "2022",
-    "summary": "Chemically-inducible gene expression systems are valuable tools for rational control of gene expression both for basic research and biotechnology. ...Therefore, dissecting interactions between different organisms could be challenging using existing che …",
-    "abstract": "Chemically-inducible gene expression systems are valuable tools for rational control of gene expression both for basic research and biotechnology. However, most chemical inducers are confined to certain groups of organisms. Therefore, dissecting interactions between different organisms could be challenging using existing chemically-inducible systems. We engineered a mandipropamid-induced gene expression system (Mandi-T7) based on evolved split T7 RNAP system. As a proof-of-principle, we induced GFP expression in E. coli cells grown inside plant tissue.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/35729907/"
-}

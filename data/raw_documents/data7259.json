@@ -1,9 +1,0 @@
-{
-    "title": "Comprehensive Gene Expression Analysis to Identify Differences and Similarities between Sex- and Stage-Stratified Melanoma Samples.",
-    "doc_id": "35406661",
-    "writer": "Chrysanthou E",
-    "year": "2022",
-    "summary": "As sex and stage differences in the context of melanoma gene expression are understudied, we aim to highlight them through statistical analysis of melanoma gene expression datasets. ...Similarly, class comparison showed that the gene expressi …",
-    "abstract": "Overall lower incidence and better prognosis are observed in female melanoma patients compared to males. As sex and stage differences in the context of melanoma gene expression are understudied, we aim to highlight them through statistical analysis of melanoma gene expression datasets. Data from seven online datasets, including normal skin, commonly acquired nevi, and melanomas, were collected and analyzed. Sex/stage-related differences were assessed using statistical analyses on survival, gene expression, and its variability. Significantly better overall survival in females was observed in stage I, II but not in stage III. Gene expression variability was significantly different between stages and sexes. Specifically, we observed a significantly lower variability in genes expressed in normal skin and nevi in females compared to males, as well as in female stage I, II melanomas. However, in stage III, variability was lower in males. Similarly, class comparison showed that the gene expression differences between sexes are most notable in non-melanoma followed by early-stage-melanoma samples. Sexual dimorphism is an important aspect to consider for a holistic understanding of early-stage melanomas, not only from the tumor characteristics but also from the gene expression points of view.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/35406661/"
-}

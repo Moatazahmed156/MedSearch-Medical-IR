@@ -1,9 +1,0 @@
-{
-    "title": "Stem cell homeostasis by integral feedback through the niche.",
-    "doc_id": "30579956",
-    "writer": "Becker NB",
-    "year": "2019",
-    "summary": "Hematopoiesis is a paradigm for tissue development and renewal from stem cells. Experiments show that the maintenance of hematopoietic stem cells (HSCs) relies on signals from niche cells. ...Much effort has been devoted to elucidating niche …",
-    "abstract": "Hematopoiesis is a paradigm for tissue development and renewal from stem cells. Experiments show that the maintenance of hematopoietic stem cells (HSCs) relies on signals from niche cells. However, it is not known how the size of the HSC compartment is set. Competition by HSCs for niche access has been suggested, yet niche cells in the bone marrow outnumber HSCs. Here we propose a cooperative model of HSC homeostasis in which stem and niche cells mutually interact such that niche cells function as negative feedback regulators of HSC proliferation. This model explains puzzling experimental findings, including homeostatic recovery of the HSC compartment after irradiation versus apparent lack of recovery after HSC ablation. We show that bidirectional niche-stem cell regulation has properties of a proportional-integral feedback controller. Moreover, we predict that the outflux of differentiated cells from HSCs can be regulated by the affinity of HSCs for niche cells. Much effort has been devoted to elucidating niche cell signaling to stem cells; our theoretical insights indicate that studying the effect of stem cells on the niche may be equally important for understanding stem cell homeostasis.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/30579956/"
-}

@@ -1,7 +1,0 @@
-{
-    "pmid": "41413724",
-    "title": "Bayesian Estimation Improves Prediction of Outcomes After Epilepsy Surgery.",
-    "abstract": "We estimated the statistical power of studies predicting seizure freedom after epilepsy surgery. We extracted data from a Cochrane meta-analysis. The median power across all studies was 14%. Studies with a median sample size or less (n ≤ 56) and a statistically significant result exaggerated the true effect size by a factor of 5.4, while the Bayesian estimate of the odds ratio only exaggerated the true effect size by a factor of 1.6. We conclude that Bayesian estimation of odds ratios attenuates the exaggeration of significant effect sizes in underpowered studies. This result could improve interpretation of studies with small sample sizes.",
-    "disease": "epilepsy",
-    "clean_text": "bayesian estimation improves prediction of outcomes after epilepsy surgery we estimated the statistical power of studies predicting seizure freedom after epilepsy surgery we extracted data from a cochrane meta analysis the median power across all studies was studies with a median sample size or less n and a statistically significant result exaggerated the true effect size by a factor of while the bayesian estimate of the odds ratio only exaggerated the true effect size by a factor of we conclude that bayesian estimation of odds ratios attenuates the exaggeration of significant effect sizes in underpowered studies this result could improve interpretation of studies with small sample sizes"
-}

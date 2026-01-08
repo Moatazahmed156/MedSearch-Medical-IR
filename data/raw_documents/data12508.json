@@ -1,6 +1,0 @@
-{
-  "pmid": "41462206",
-  "title": "TAGLN: a stiffness-driven prognostic biomarker for metastatic colorectal cancer.",
-  "abstract": "TAGLN is identified as a key prognostic gene in colorectal cancer through TCGA-COAD analysis, with high expression correlating with poor survival and advanced tumor stage. Functionally, TAGLN overexpression promotes epithelial-mesenchymal transition and enhances cancer cell migration. Transcriptomic profiling reveals its involvement in extracellular matrix remodeling and cell adhesion pathways. Mechanistically, TAGLN expression is upregulated by stiff tumor-mimicking extracellular matrix and is correlated with key mediators of collagen crosslinking and EMT. Clinically, TAGLN exhibits progressive overexpression from normal epithelium to primary tumors and metastatic lesions. These findings establish TAGLN as a stiffness-responsive regulator of ECM remodeling and EMT, driving colorectal cancer metastasis and serving as a potential therapeutic target.",
-  "disease": "colorectal cancer"
-}

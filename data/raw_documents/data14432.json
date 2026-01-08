@@ -1,6 +1,0 @@
-{
-  "pmid": "41383581",
-  "title": "Network Pharmacology, Molecular Docking, and Molecular Dynamics Simulations to Elucidate the Potential Mechanism of Ermiao San in Osteoarthritis.",
-  "abstract": "This study aims to identify the active components and molecular mechanisms of Ermiao San (EMS) in the treatment of osteoarthritis (OA) through network pharmacology, molecular docking, and molecular dynamics simulations. EMS compounds and their targets were retrieved from TCMSP; OA-related targets were collected from five public databases. Potential drug-disease target interactions were analyzed using STRING 12.0 and Cytoscape 3.10.2. Functional and pathway enrichment analyses were performed on the 90 overlapping targets. Molecular docking was performed with CB-Dock2 and LigPlot+ v2.2.8 platforms, followed by a comprehensive evaluation of key compounds via SwissADME. We identified 46 active chemicals, 187 EMS-specific targets, and 1718 OA-related targets, with 90 overlapping targets. Molecular docking and molecular dynamics simulations analysis revealed a strong binding potential of key EMS compounds to target proteins. These findings suggest that EMS exerts its anti-OA effects through multicomponent, multi-target, and multipathway interactions.",
-  "disease": "osteoarthritis"
-}

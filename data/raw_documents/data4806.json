@@ -1,9 +1,0 @@
-{
-    "title": "Measuring the quasi-static Young's modulus of the eardrum using an indentation technique.",
-    "doc_id": "20146934",
-    "writer": "Hesabgar SM",
-    "year": "2010",
-    "summary": "Accurate estimation of the quasi-static Young's modulus of the eardrum is important for finite-element modeling. In this study, we adapted a tissue indentation technique and inverse finite-element analysis to estimate the Young's modulus of the eardrum. ...Using an …",
-    "abstract": "Accurate estimation of the quasi-static Young's modulus of the eardrum is important for finite-element modeling. In this study, we adapted a tissue indentation technique and inverse finite-element analysis to estimate the Young's modulus of the eardrum. A custom-built indentation apparatus was used to perform indentation testing on seven rat eardrums in situ after immobilizing the malleus. Testing was done in most cases on the posterior pars tensa. The unloaded shape of each eardrum was measured and used to construct finite-element models with subject-specific geometries to simulate the indentation experiment. The Young's modulus of each specimen was then estimated by numerically optimizing the Young's modulus of each model so that simulation results matched corresponding experimental data. Using an estimated value of 12 microm for the thickness of each model eardrum, the estimated average Young's modulus for the pars tensa was found to be 21.7+/-1.2 MPa. The estimated average Young's modulus is within the range reported in some of the literature. The estimation technique is sensitive to the thickness of the pars tensa used in the model but is not sensitive to relatively large variations in the stiffness of the pars flaccida and manubrium or to the pars tensa/pars flaccida separation conditions.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/20146934/"
-}

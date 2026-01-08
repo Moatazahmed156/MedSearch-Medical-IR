@@ -1,6 +1,0 @@
-{
-  "pmid": "41457966",
-  "title": "Genetic Dissection of Plasma Proteins and Blood Pressure in Small Vessel Disease.",
-  "abstract": "White matter hyperintensities (WMH), a hallmark imaging feature of small vessel disease, are strongly associated with neurodegenerative and cardiovascular conditions. We performed bidirectional and mediation Mendelian randomization analyses using summary statistics from GWAS (genome-wide association studies) of 9 large cohorts of plasma proteins (n=997-35 559), blood pressure (n=1 028 980), and WMH (n=21 381). The inverse-variance-weighted method or Wald ratio was applied as the primary Mendelian randomization approach, with false discovery rate correction and independent replication. We further integrated Mendelian randomization with PheWAS (phenome-wide association studies) to prioritize WMH risk factors and assess mediation via systolic blood pressure and diastolic blood pressure. Eighteen plasma proteins were genetically associated with WMH, 13 of which were replicated. Thirteen antihypertensive target genes were also linked to WMH burden, including  The findings outline protein- and blood pressure-centered mechanisms in small vessel disease, highlighting proteins and antihypertensive targets as biomarkers and therapeutic entry points for precision intervention.",
-  "disease": "hypertension"
-}

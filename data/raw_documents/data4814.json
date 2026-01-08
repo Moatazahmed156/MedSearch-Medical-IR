@@ -1,9 +1,0 @@
-{
-    "title": "Quantitative Visualization of the Nanomechanical Young's Modulus of Soft Materials by Atomic Force Microscopy.",
-    "doc_id": "34204454",
-    "writer": "Kim S",
-    "year": "2021",
-    "summary": "An atomic force microscope (AFM) can be used to conduct nanoscale evaluation of the Young's modulus on the target surface based on site-specific force spectroscopy. However, there is still a lack of well-organized study about the nanomechanical interpretation model depende …",
-    "abstract": "The accurate measurement of nanoscale mechanical characteristics is crucial in the emerging field of soft condensed matter for industrial applications. An atomic force microscope (AFM) can be used to conduct nanoscale evaluation of the Young's modulus on the target surface based on site-specific force spectroscopy. However, there is still a lack of well-organized study about the nanomechanical interpretation model dependence along with cantilever stiffness and radius of the tip apex for the Young's modulus measurement on the soft materials. Here, we present the fast and accurate measurement of the Young's modulus of a sample's entire scan surface using the AFM in a newly developed PinPointTM nanomechanical mode. This approach enables simultaneous measurements of topographical data and force-distance data at each pixel within the scan area, from which quantitative visualization of the pixel-by-pixel topographical height and Young's modulus of the entire scan surface was realized. We examined several models of contact mechanics and showed that cantilevers with proper mechanical characteristics such as stiffness and tip radius can be used with the PinPointTM mode to accurately evaluate the Young's modulus depending on the sample type.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/34204454/"
-}

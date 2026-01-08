@@ -1,6 +1,0 @@
-{
-  "pmid": "41474376",
-  "title": "Tracking seizure cycles beats a prospective moving average: Commentary on \"Rigorous evaluation of five e-diary alone seizure forecasting tools\".",
-  "abstract": "There is debate on the predictive value of multiday seizure cycles versus simple statistical baselines. Multidien seizure cyclicity is a prevalent, patient-specific phenomenon with promise for epilepsy management. We challenge the assertion that cycle tracking is no better than a moving average, which is an inherently retrospective model that lags changes in seizure likelihood. This commentary compared a causal cyclic forecast to a prospectively applied moving average across a large seizure diary cohort (n = 768) and two gold-standard chronic EEG cohorts (n = 24). For the EEG and diary cohorts, cycle tracking demonstrated significantly superior accuracy to the moving average for both hourly and daily forecasts (p < 0.0001), using multiple performance metrics. These results confirm that event-based cyclical models offer more accurate, simulated real-world forecasts. Robust forecasting tools must prioritize the detection and modeling of seizure cycles to move beyond simple baseline performance and provide actionable clinical utility.",
-  "disease": "epilepsy"
-}

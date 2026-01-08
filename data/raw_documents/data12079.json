@@ -1,6 +1,0 @@
-{
-  "pmid": "41473674",
-  "title": "Impact of MGMT methylation on overall survival in solid tumors: A systematic review and meta-analysis.",
-  "abstract": "O6-methylguanine-DNA methyltransferase (MGMT) serves a crucial role in DNA repair by removing alkyl lesions from the O6 position of guanine, maintaining genomic stability. Loss of MGMT expression, often due to promoter methylation, is linked to enhanced sensitivity to chemotherapy. While MGMT methylation has been observed in various cancers, its impact on overall survival (OS) in solid tumors remains uncertain. According to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines, studies were selected from PubMed that examined the impact of MGMT methylation on OS in adult patients with solid tumors. Data were extracted where methylation status was defined, and OS was reported through hazard ratios (HRs) and confidence intervals (CIs) from either univariate or multivariable analyses. R version 4.4.2 and the 'meta' package were employed for the meta-analysis, using both fixed-effects (Mantel-Haenszel method) and random-effects (DerSimonian-Laird method with Hartung-Knapp adjustment) models based on the I",
-  "disease": "lung cancer"
-}

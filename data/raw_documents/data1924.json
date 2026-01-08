@@ -1,9 +1,0 @@
-{
-    "title": "Low back muscle action potential conduction velocity estimated using high-density electromyography.",
-    "doc_id": "35858505",
-    "writer": "Brouwer NP",
-    "year": "2022",
-    "summary": "While a decreasing spectral content of surface electromyography reflects low back muscle fatigue development, reliability of these decreases may be insufficient. ...Close to the spine a considerable number of sites (79) yielded systematically overestimated low …",
-    "abstract": "While a decreasing spectral content of surface electromyography reflects low back muscle fatigue development, reliability of these decreases may be insufficient. Decreasing frequency content is largely determined by decreasing average motor unit action potential conduction velocities (CV), which is considered a more direct measure of muscle fatigue development. However, for the low back muscles it has been proven difficult to identify propagating potentials and consequently estimate the CV. The aim of this study was to estimate the low back muscle CV from high-density multi-channel electromyography by using peak-delay and cross-correlation methods. Fourteen healthy male participants without a history of low-back pain performed a 30 degrees lumbar flexion trial until exhaustion while standing. For 10 out of the 14 participants (118 out of 560 sites) realistic CV estimates were obtained using both methods, the majority likely over the iliocostalis lumborum muscle. Between-method CV differences appeared to be small. Close to the spine a considerable number of sites (79) yielded systematically overestimated low back muscle CV values. Estimating low back muscle CV may allow additional insight into low back muscle fatigue development and potentially improve its monitoring using (high-density) surface electromyography.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/35858505/"
-}

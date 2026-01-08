@@ -1,6 +1,0 @@
-{
-  "pmid": "41370647",
-  "title": "Leveraging Systems-of-Systems Analysis to Strengthen Epidemic Intelligence for Preparedness and Response.",
-  "abstract": "The COVID-19 pandemic exposed significant gaps in the coordination and integration of efforts required to effectively manage large-scale infectious disease outbreaks. A successful response to such crises demands the swift and ongoing synthesis of information and activities across multiple sectors, including government, healthcare, and private industry. However, these systems are often managed in isolation, leading to misaligned policies, fragmented communications, and inefficiencies that hinder pandemic response efforts. To address these challenges, we propose adopting a systems-of-systems (SOS) paradigm to enhance epidemic intelligence and improve preparedness and response during infectious disease emergencies. The SOS approach, widely used in engineering, offers a framework for integrating diverse fields such as virology, ecology, psychology, and policy. We illustrate the potential of this approach using highly pathogenic avian influenza (HPAI) as a case study and discuss key considerations for implementing SOS thinking in the context of global epidemic intelligence systems.",
-  "disease": "influenza"
-}

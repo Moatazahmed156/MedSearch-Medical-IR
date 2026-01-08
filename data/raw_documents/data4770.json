@@ -1,9 +1,0 @@
-{
-    "title": "Precise determination of Young's modulus of amorphous CuZr/nanocrystalline Cu multilayer via nanoindentation.",
-    "doc_id": "37485024",
-    "writer": "Lassnig A",
-    "year": "2023",
-    "summary": "Linear extrapolation of indentation data to zero indentation depth allows to precisely determine the real film's Young's modulus. Same investigations were performed on monolithic Cu and CuZr films of same thickness. While the hardness values change with the variation of th …",
-    "abstract": "Extracting mechanical data of thin films on rigid substrates using nanoindentation is compromised by the mechanical properties of underlying substrates, which may falsify the obtained results. With ongoing miniaturization, the substrate influence becomes more pronounced. In this study we present an experimental approach to extract the true Young's modulus of crystalline-amorphous multilayers by means of nanoindentation. We used 1 µm thick multilayers comprised of amorphous CuZr and nanocrystalline Cu. All films were deposited onto two rigid substrate types with Young's moduli below and above the ones expected for the deposits (film-to-substrate hardness and elastic moduli ratios between 0.3 to 1.1 and 0.6 to 1.5, respectively). Linear extrapolation of indentation data to zero indentation depth allows to precisely determine the real film's Young's modulus. Same investigations were performed on monolithic Cu and CuZr films of same thickness. While the hardness values change with the variation of the bilayer thickness of the multilayer structures, the Young's modulus is not affected by the interfaces.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/37485024/"
-}

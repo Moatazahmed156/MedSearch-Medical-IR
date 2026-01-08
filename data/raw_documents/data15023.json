@@ -1,6 +1,0 @@
-{
-  "pmid": "41380134",
-  "title": "CXCR6 defines a distinct resident state in γδ T cells for protecting from liver cirrhosis.",
-  "abstract": "Liver cirrhosis, a leading global cause of mortality, is marked by progressive fibrosis and immune dysregulation. Tissue-resident memory T (TRM) cells, particularly γδ T cells, are emerging as critical regulators of hepatic immunity; however, their role in fibrogenesis remains poorly understood. Through single-cell RNA sequencing and flow cytometry, we show that CD69⁺CXCR6⁺ γδ T cells are enriched in healthy livers and produce IFN-γ and IL-2 but significantly depleted in cirrhotic tissue, correlating with disease severity. In a murine fibrosis model, CXCR6⁺ γδ T cells limited fibrosis progression by inducing hepatic stellate cell apoptosis via FasL-Fas signaling. Adoptive transfer of CXCR6⁺ γδ T cells significantly mitigated fibrosis, whereas CXCR6- γδ T cells showed no such effect. Liver-resident CD69⁺CXCR6⁺ γδ T cells constitute a protective immune subset that limit fibrosis development and progression. Enhancing the function or abundance of this population may offer a promising immunotherapeutic strategy for liver cirrhosis.",
-  "disease": "liver cirrhosis"
-}

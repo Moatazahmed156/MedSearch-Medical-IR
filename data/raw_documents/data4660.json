@@ -1,9 +1,0 @@
-{
-    "title": "Single-Cell RNA-Seq Analysis Reveals Lung Epithelial Cell Type-Specific Responses to HDM and Regulation by Tet1.",
-    "doc_id": "35627266",
-    "writer": "Zhu T",
-    "year": "2022",
-    "summary": "Tet1 protects against house dust mite (HDM)-induced lung inflammation in mice and alters the lung methylome and transcriptome. In order to explore the role of Tet1 in individual lung epithelial cell types in HDM-induced inflammation, we established a m …",
-    "abstract": "Tet1 protects against house dust mite (HDM)-induced lung inflammation in mice and alters the lung methylome and transcriptome. In order to explore the role of Tet1 in individual lung epithelial cell types in HDM-induced inflammation, we established a model of HDM-induced lung inflammation in Tet1 knockout and littermate wild-type mice, then studied EpCAM+ lung epithelial cells using single-cell RNA-seq analysis. We identified eight EpCAM+ lung epithelial cell types, among which AT2 cells were the most abundant. HDM challenge altered the relative abundance of epithelial cell types and resulted in cell type-specific transcriptomic changes. Bulk and cell type-specific analysis also showed that loss of Tet1 led to the altered expression of genes linked to augmented HDM-induced lung inflammation, including alarms, detoxification enzymes, oxidative stress response genes, and tissue repair genes. The transcriptomic regulation was accompanied by alterations in TF activities. Trajectory analysis supports that HDM may enhance the differentiation of AP and BAS cells into AT2 cells, independent of Tet1. Collectively, our data showed that lung epithelial cells had common and unique transcriptomic signatures of allergic lung inflammation. Tet1 deletion altered transcriptomic networks in various lung epithelial cells, which may promote allergen-induced lung inflammation.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/35627266/"
-}

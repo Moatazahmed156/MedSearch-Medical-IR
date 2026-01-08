@@ -1,6 +1,0 @@
-{
-  "pmid": "41446190",
-  "title": "STING-IFN-CH25H lipid axis links innate immune activation to tau pathology.",
-  "abstract": "Genetic risk for Alzheimer's disease is strongly enriched in pathways governing microglial activation and cholesterol metabolism, yet how these processes converge to drive neurodegeneration remains unclear. Here, we identify the oxysterol 25-hydroxycholesterol (25- HC) as a pathogenic lipid downstream of the cGAS-STING-IFN pathway. In models of tau pathology, interferon signaling induces Cholesterol 25-hydroxylase (CH25H) expression in microglia. Ch25h deletion in female P301S mice suppressed tau aggregation, preserved synapses, prevented brain atrophy, and rescued memory. Mechanistically, loss of CH25H disrupted STING trafficking, attenuated IFN activation, dampened self-perpetuating microglial inflammation. Strikingly, 25-HC directly accelerated tau propagation in human iPSC derived neurons. It also disrupted lysosomal and mitochondrial lipid composition, driving cholesteryl ester accumulation and promoting apoptosis under tau-induced stress. These findings define a STING-IFN-CH25H lipid axis that bridges innate immune activation to tau pathology and toxicity, offering a tractable therapeutic pathway for inflammation-driven neurodegenerative conditions.",
-  "disease": "alzheimer disease"
-}

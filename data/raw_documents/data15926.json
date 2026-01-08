@@ -1,6 +1,0 @@
-{
-  "pmid": "41445728",
-  "title": "Modulation of ",
-  "abstract": "The host response to SARS-CoV-2 depends on multiple factors including age, gender, underlying diseases and genetic background. Viral sensing and activation of the interferon signaling pathway in the early antiviral response could affect disease outcome. This study evaluated gene expression of Toll-like receptor 7 ( Demographic and clinical variables were obtained from 157 COVID-19 patients. Peripheral blood mononuclear cells were used for genotyping and gene expression determination, and plasma for viremia detection, by qPCR and digital PCR, respectively. Gene expression was analyzed using Generalized Linear Mixed Models nested by patient. First, univariate analyses determined which variables were significantly associated with gene expression. Next, multivariate models were built with these variables, following the backward method. Low ",
-  "disease": "pneumonia"
-}

@@ -1,7 +1,0 @@
-{
-    "pmid": "41458577",
-    "title": "Sparse Bayesian multidimensional scaling(s).",
-    "abstract": "Bayesian multidimensional scaling (BMDS) is a probabilistic dimension reduction tool that allows one to model and visualize data consisting of dissimilarities between pairs of objects. Although BMDS has proven useful within, e.g., Bayesian phylogenetic inference, its likelihood and gradient calculations require burdensome [Formula: see text] floating-point operations, where ",
-    "disease": "influenza",
-    "clean_text": "sparse bayesian multidimensional scaling s bayesian multidimensional scaling bmds is a probabilistic dimension reduction tool that allows one to model and visualize data consisting of dissimilarities between pairs of objects although bmds has proven useful within e g bayesian phylogenetic inference its likelihood and gradient calculations require burdensome formula see text floating point operations where"
-}

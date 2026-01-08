@@ -1,9 +1,0 @@
-{
-    "title": "Induction of lung progenitor cell-like organoids by porcine pluripotent stem cells.",
-    "doc_id": "38334430",
-    "writer": "Yang X",
-    "year": "2024",
-    "summary": "Organoids are in vitro 3D models that are generated using stem cells to study organ development and regeneration. Despite the extensive research on lung organoids, there is limited information on pig lung cell generation or development. ...The presence …",
-    "abstract": "Organoids are in vitro 3D models that are generated using stem cells to study organ development and regeneration. Despite the extensive research on lung organoids, there is limited information on pig lung cell generation or development. Here, we identified five epithelial cell types along with their characteristic markers using scRNA-seq. Additionally, we found that NKX2.1 and FOXA2 acted as the crucial core transcription factors in porcine lung development. The presence of SOX9/SOX2 double-positive cells was identified as a key marker for lung progenitor cells. The Monocle algorithm was used to create a pseudo-temporal differentiation trajectory of epithelial cells, leading to the identification of signaling pathways related to porcine lung development. Moreover, we established the differentiation method from porcine pluripotent stem cells (pPSCs) to SOX17+ FOXA2+ definitive endoderm (DE) and NKX2.1+ FOXA2+ CDX2- anterior foregut endoderm (AFE). The AFE is further differentiated into lung organoids while closely monitoring the differentiation process. We showed that NKX2.1 overexpression facilitated the induction of lung organoids and supported subsequent lung differentiation and maturation. This model offers valuable insights into studying the interaction patterns between cells and the signaling pathways during the development of the porcine lung.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/38334430/"
-}

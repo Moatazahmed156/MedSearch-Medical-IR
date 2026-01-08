@@ -1,6 +1,0 @@
-{
-  "pmid": "41465472",
-  "title": "Cross-Study Meta-Analysis of Blood Transcriptomes in Type 2 Diabetes.",
-  "abstract": "Type 2 diabetes (T2D) is a chronic metabolic disorder with an estimated prevalence of over 422 million individuals affected globally. Since the advent of genomics, numerous studies have been conducted to elucidate T2D pathogenetic mechanisms and define genetic loci affecting T2D susceptibility. Transcriptomic studies, including bulk and single-cell RNA sequencing, play an important role both in discerning molecular mechanisms of the disease and in identifying potential T2D biomarkers. In this study, we performed bulk RNA-seq of whole blood of nine T2D patients and nine control subjects and performed meta-analysis of these data with seven publicly available blood RNA-seq datasets of T2D patients. Our analysis showed that the changes in the gene expression between different studies show very low concordance; moreover, a substantial number of differentially expressed genes (DEGs) was identified in only three out of eight datasets, with only five DEGs-",
-  "disease": "diabetes mellitus"
-}

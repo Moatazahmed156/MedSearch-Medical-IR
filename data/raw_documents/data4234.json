@@ -1,9 +1,0 @@
-{
-    "title": "The chromatin landscape of healthy and injured cell types in the human kidney.",
-    "doc_id": "38199997",
-    "writer": "Gisch DL",
-    "year": "2024",
-    "summary": "There is a need to define regions of gene activation or repression that control human kidney cells in states of health, injury, and repair to understand the molecular pathogenesis of kidney disease and design therapeutic strategies. ...We measure dual single nucleus …",
-    "abstract": "There is a need to define regions of gene activation or repression that control human kidney cells in states of health, injury, and repair to understand the molecular pathogenesis of kidney disease and design therapeutic strategies. Comprehensive integration of gene expression with epigenetic features that define regulatory elements remains a significant challenge. We measure dual single nucleus RNA expression and chromatin accessibility, DNA methylation, and H3K27ac, H3K4me1, H3K4me3, and H3K27me3 histone modifications to decipher the chromatin landscape and gene regulation of the kidney in reference and adaptive injury states. We establish a spatially-anchored epigenomic atlas to define the kidney's active, silent, and regulatory accessible chromatin regions across the genome. Using this atlas, we note distinct control of adaptive injury in different epithelial cell types. A proximal tubule cell transcription factor network of ELF3, KLF6, and KLF10 regulates the transition between health and injury, while in thick ascending limb cells this transition is regulated by NR2F1. Further, combined perturbation of ELF3, KLF6, and KLF10 distinguishes two adaptive proximal tubular cell subtypes, one of which manifested a repair trajectory after knockout. This atlas will serve as a foundation to facilitate targeted cell-specific therapeutics by reprogramming gene regulatory networks.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/38199997/"
-}

@@ -1,6 +1,0 @@
-{
-  "pmid": "41387929",
-  "title": "Single-pixel imaging flow cytometry for biomedical research.",
-  "abstract": "High-throughput single-cell analysis and screening have become essential tools in life science research. Imaging flow cytometry, in particular, enables large-scale image-based profiling of heterogeneous cell populations, allowing statistical analysis of cellular morphology, subcellular features, and functional responses. However, its analytical capability is often limited by the use of conventional two-dimensional (2D) image sensors. In this review, we highlight recent advances in single-pixel imaging flow cytometry, which replaces 2D image sensors with single-pixel photodetectors. This approach offers advantages in sensitivity, flexibility, and speed in imaging system design and has been implemented in various optical configurations to achieve high-throughput single-cell imaging. We first introduce its key techniques, then outline representative biomedical applications, including cancer and COVID-19 research, and finally discuss current limitations and prospects for future developments. Single-pixel imaging flow cytometry is expected to serve as a versatile platform supporting both basic and translational studies in diverse biomedical applications.",
-  "disease": "coronary artery disease"
-}

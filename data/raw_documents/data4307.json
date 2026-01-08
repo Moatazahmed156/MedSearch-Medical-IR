@@ -1,9 +1,0 @@
-{
-    "title": "Soft 3D-Printed Phantom of the Human Kidney with Collecting System.",
-    "doc_id": "27830490",
-    "writer": "Adams F",
-    "year": "2017",
-    "summary": "In this paper, we report a novel fabrication process to make a human kidney phantom with realistic anatomical structures and physical properties. The detailed anatomical structure was directly acquired from high resolution CT data sets of human cadaveric kidneys. .. …",
-    "abstract": "Organ models are used for planning and simulation of operations, developing new surgical instruments, and training purposes. There is a substantial demand for in vitro organ phantoms, especially in urological surgery. Animal models and existing simulator systems poorly mimic the detailed morphology and the physical properties of human organs. In this paper, we report a novel fabrication process to make a human kidney phantom with realistic anatomical structures and physical properties. The detailed anatomical structure was directly acquired from high resolution CT data sets of human cadaveric kidneys. The soft phantoms were constructed using a novel technique that combines 3D wax printing and polymer molding. Anatomical details and material properties of the phantoms were validated in detail by CT scan, ultrasound, and endoscopy. CT reconstruction, ultrasound examination, and endoscopy showed that the designed phantom mimics a real kidney's detailed anatomy and correctly corresponds to the targeted human cadaver's upper urinary tract. Soft materials with a tensile modulus of 0.8-1.5 MPa as well as biocompatible hydrogels were used to mimic human kidney tissues. We developed a method of constructing 3D organ models from medical imaging data using a 3D wax printing and molding process. This method is cost-effective means for obtaining a reproducible and robust model suitable for surgical simulation and training purposes.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/27830490/"
-}

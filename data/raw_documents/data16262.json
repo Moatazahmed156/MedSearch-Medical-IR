@@ -1,6 +1,0 @@
-{
-  "pmid": "41463543",
-  "title": "Targeted NanoBiT Screening Identifies a Novel Interaction Between SNAPIN and Influenza A Virus M1 Protein.",
-  "abstract": "Influenza A virus (IAV) poses a significant threat due to its rapid evolution through gene mutations and reassortments. Understanding host-virus protein interactions is vital for developing countermeasures. In this study, we developed a live-cell screening platform using the NanoBiT system for rapid discovery of host-virus protein-protein interactions (PPIs). Novel interactions between the host factor SNAPIN and the viral M1, M2 and NS2 were identified using this system. We confirmed the platform's reliability by validating the SNAPIN-M1 interaction using independent methods including co-immunoprecipitation (Co-IP) and glutathione S-transferase (GST) pull-down assays. These results demonstrate the robustness of the PPI screening system and provide a basis for studying the role of SNAPIN in regulating IAV replication.",
-  "disease": "influenza"
-}

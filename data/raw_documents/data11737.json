@@ -1,6 +1,0 @@
-{
-  "pmid": "41467329",
-  "title": "Prognostic Significance of LGALS3BP in Triple-Negative Breast Cancer: Implications for Immune Infiltration and Therapeutic Response.",
-  "abstract": "Triple-negative breast cancer (TNBC) is an aggressive breast cancer subtype with limited treatment options and poor prognosis. This study aimed to identify novel prognostic markers within the tumor microenvironment, particularly focusing on lipid-associated macrophages (LAMs). Using single-cell RNA sequencing (scRNA-seq) and transcriptome analysis, LGALS3BP was identified as a key lipid-related macrophage marker with significant prognostic value in TNBC. Our findings demonstrate that LGALS3BP is strongly associated with immune infiltration, particularly in influencing T cells and macrophages, and correlates positively with immune checkpoint expression. Furthermore, high LGALS3BP expression is linked to enhanced sensitivity to chemotherapeutic agents and improved outcomes in immunotherapy. These results highlight LGALS3BP as a potential biomarker for predicting TNBC prognosis and guiding personalized therapeutic strategies.",
-  "disease": "breast cancer"
-}
